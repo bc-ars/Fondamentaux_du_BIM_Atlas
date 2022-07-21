@@ -1,0 +1,97 @@
+# Les Usages BIM  
+
+------------------------------
+
+
+CCAG Travaux, art. 4
+4.1. Ordre de priorité : 8 documentsEn cas de contradiction entre les stipulations des pièces contractuelles du marché, elles prévalent dans l’ordre ci-après :– l’acte d’engagement et ses éventuelles annexes, dans la version résultant des dernières modifications éventuelles, opérées par avenant ;– le cahier des clauses administratives particulières (CCAP) et ses éventuelles annexes ;– le programme ou le calendrier détaillé d’exécution des travaux établi conformément aux dispositions de l’article 28.2 et comportant les dates de début et de fin des travaux ;– le cahier des clauses techniques particulières (CCTP) et ses éventuelles annexes ;– le cahier des clauses administratives générales (CCAG) applicable aux prestations, objet du marché, si celui-ci vise ce cahier ;– le cahier des clauses techniques générales (CCTG) applicable aux prestations, objet du marché, si celui-ci vise ce cahier ;– les actes spéciaux de sous-traitance et leurs avenants, postérieurs à la notification du marché ;– les éléments de décomposition de l’offre financière du titulaire.
+
+
+
+
+
+
+La charte BIM 
+
+La charte BIM est le document par lequel le Maitre d’ouvrage exprime ce qu’il attend de l’utilisation du BIM dans les projets de construction et spécifie les dispositions obligatoires à respecter par les contributeurs qui mettent en oeuvre le BIM dans les projets de construction qui leur sont confiés. C’est un outil de communication entre le Maitre d’ouvrage et ses interlocuteurs , qu’ils soient architectes, bureaux d’études ,entreprises, etc. La charte propose un cadre de travail raisonné qui prend en compte les objectifs du Maitre d’Ouvrage, la maturité des méthodes et des pratiques , la performance des outils, ainsi que l’expérience réel de la plupart des intervenants. La charte BIM attendue doit comprendre de nombreux aspects différents tels que : • L’objet de la charte, domaine d’application, limite et évolution • L’organisation ;Acteurs, systèmes d’information, qualité, information, sécurité : • Les attendus : phases, objectifs, méthode du projet ; • Les livrables :documents, maquette, contenu de chaque livrable ; • Les clauses techniques : logiciel, format , taille localisation, unités, etc. : • Les clauses de contenu : modélisation de la géométrie et des objets, niveau de détail, convention de nommage, contenu de la maquette numérique par phase La charte BIM est ainsi rédigée par l’Assistant à Maitrise d’oeuvre AMO. Cette charte sera mise à jour pour chaque projet dans le cahier des charges BIM.
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/298b3935-5fa6-4bff-9f8d-bac084269ee9/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/298b3935-5fa6-4bff-9f8d-bac084269ee9/Untitled.png)
+
+19 [](https://openclassrooms.com/fr/courses/5228291-decouvrez-les-fondamentaux-du-bim)https://openclassrooms.com/fr/courses/5228291-decouvrez-les-fondamentaux-du-bim
+
+le Cahier des Charges BIM
+
+Le cahier des charges a pour but de : 
+Exprimer les besoins techniques de BI pour atteindre les objectifs de la feuille de route
+Définir les bonnes pratiques de travail collaboratif
+Organiser une équipe de projets autour de la création, de l’utilisation et de la mise à jour des informations du BIM
+
+
+« Document du donneur d’ordre précisant pour le projet les exigences et objectifs des intervenants successifs du projet, incluant éventuellement ceux de la charte BIM du Maitre d’ouvrage. »
+Le cahier des charges BIM de l’opération est un document précisant pour le projet les exigences et objectifs BIM des intervenants successifs du projet, incluant ceux de la charte BIM du maître d’ouvrage. Il constitue le volet BIM du programme.
+
+Description les livrables BIM attendus (format + niveau de détails par phase)
+Description des rôles des  interlocuteurs en BIM, qui sont nécessaires à la démarche
+Les règles de nommage et nomenclature pour le projet 
+Responsabilités et propriétés de la maquette
+
+- Le cahier des charges BIM : « Document également établi par le maître d’ouvrage qui précise les exigences et objectifs des intervenants successifs précisément de ce projet incluant éventuellement ceux de la charte BIM. Il constitue le volet BIM du programme. » Contrairement à la charte BIM le cahier des charges précise les objectifs du projet en question et peut donc reprendre certains objectifs de la charte.
+
+//////
+
+Contrairement à la Charte BIM qui définit la stratégie BIM globale et générique d’une structure, le Cahier des Charges BIM s’applique et s’adapte à une opération spécifique. C’est le volet BIM du programme de réalisation de l’ouvrage.
+
+Pour autant, le cahier des charges BIM est un document pouvant être consulté indépendamment du reste de la consultation. C’est pourquoi le contexte de l’opération doit être y être rappelé dans la partie « Description du projet ». Cette description doit être synthétique, il ne s’agit pas de détailler le programme dans son intégralité, mais d’en rappeler les éléments essentiels. Cette partie pourra prendre la forme d’un paragraphe rédigé ou d’un tableau récapitulatif et abordera différentes thématiques : 
+• Une mise en contexte de l’opération concernée qui, en deux ou trois phrases rappelle la raison d’être de l’opération, une description sommaire du programme, que ce soit une opération neuve ou une réhabilitation. 
+• La localisation de l’opération intégrant au besoin : une adresse, un numéro de parcelle, une géolocalisation, etc. Une illustration de cette localisation peut être la bienvenue que ce soit un plan cadastral ou une vue satellitaire. 
+• La surface de l’opération, exprimée en surface habitable, surface de plancher ou emprise au sol selon la nature du projet. • Le nombre de logements et éventuellement leur typologie. 
+• Un échéancier prévisionnel, de la phase conception et de la phase réalisation reprenant les grands jalons de l’opération : démarrage du chantier, période de réception de l’ouvrage ou durée du chantier. Les temps alloués aux différentes phases du projet permettent à la maîtrise d’œuvre puis aux entreprises de se projeter dans l’organisation de la production des maquettes, de leur revue et de leur utilisation au service du projet. 
+• Les coordonnées du contact référent BIM ou, à défaut, du chargé d’opération de la maîtrise d’ouvrage. Il est important pour la maîtrise d’œuvre et les entreprises de pouvoir identifier la personne référente au sein de la maîtrise d’ouvrage sur les questions liées au BIM sur l’opération.
+
+
+
+////
+
+
+
+Convention BIM 
+
+La convention BIM rédigé par la maitrise d’oeuvre traduit le cahier des charges et apporte des réponses aux exigences de la Maitrise d’Ouvrage. Elle définit les modalités d’accès, de stockage et d’archive, ainsi que la chaine de validation interne des différents modèles pour chaque phase de projet. Il constitue la base de la plateforme d’échange des différents intervenants au tour de la maquette numérique. La convention BIM a ainsi pour but d’interpréter les objectifs du projet en objectifs BIM. Une fois hiérarchisé, ils sont associés à des cas d’usages BIM. Un usage BIM est un processus, représenté sous forme schématique. À l’aide de cette représentation , on est enfin capable de représenter les interactions autour de la maquette numérique . La convention ,aussi appelé « Protocol le BIM » , doit intégrer les 4 grands axes suivant : • Les informations relatives au projet ; • Les objectifs du projet et des intervenants ; • Les modalités liées au travail collaboratif ; • Les ressources u projet et les exigences informatiques ;
+
+
+/////
+
+La Convention BIM est une des composantes essentielles de la mise en place d’une démarche BIM efficiente. Document contractuel, rédigé par l’équipe de BIM Management, elle est une réponse aux attentes de votre Cahier des Charges BIM. Elle définit également les processus de travail de la Maîtrise d’œuvre et des entreprises.
+Ce document permet de cadrer la démarche BIM pour l’ensemble des intervenants. Elle est amenée à évoluer tout au long de l’opération. Elle s’adapte notamment pour intégrer : 
+• De nouveaux acteurs 
+• De nouveaux processus de collaboration 
+• Une évolution des logiciels utilisés. 
+
+Concrètement, la Convention BIM est le document opérationnel du BIM. 
+C’est dans ce document que sont établis les processus mis en place par la Maîtrise d’œuvre, pour répondre aux usages BIM définis par la Maîtrise d’Ouvrage. 
+La convention BIM est également le support qui permet à la Maîtrise d’œuvre de spécifier ses propres usages BIM ainsi que les méthodologies qui en découlent. Parmi les thèmes abordés dans ce document, on retrouve généralement : 
+• L’organisation de l’équipe : présentation, responsabilités… 
+• La stratégie de collaboration des intervenants : rôles, méthodologies, mission de BIM Management 
+• La définition des attendus techniques sur le projet : méthodes de modélisation ou principes de nomenclature 
+• La définition de l’écosystème logiciels de l’équipe de maîtrise d’œuvre ou des entreprises. 
+
+
+
+////
+
+
+1.5 Les documents du BIM : 
+
+Les documents présentés ci-dessous sont ceux que l’on retrouve lors d’un projet BIM, il est important de bien comprendre leur importance et leurs utilités. Ces définitions sont issues de Médiaconstruct, branche française de Building Smart \[1\]. - La charte BIM : « La charte BIM est un document élaboré par le maître d’ouvrage traduisant sa politique en objectifs de qualité et de performances attendues du BIM pour l’ensemble de son patrimoine. Tout en explicitant les exigences et les objectifs à satisfaire pour que le processus BIM des opérations puisse alimenter la maquette d’entretien / exploitation / maintenance du projet. » Il s’agit d’un document général qui va décrire la stratégie BIM du maître d’ouvrage envers sa gestion du patrimoine. - Le cahier des charges BIM : « Document également établi par le maître d’ouvrage qui précise les exigences et objectifs des intervenants successifs précisément de ce projet incluant éventuellement ceux de la charte BIM. Il constitue le volet BIM du programme. » Contrairement à la charte BIM le cahier des charges précise les objectifs du projet en question et peut donc reprendre certains objectifs de la charte. - Convention BIM : La convention BIM est rédigée par le manager BIM du projet en collaboration avec tous les intervenants du projet, mais bien plus que ça c’est « un document qui régit les relations et rôles entre les différents contributeurs d’un projet, oeuvrant à l’élaboration de la maquette numérique. Elle détermine l’environnement de travail c’est-à-dire les modalités d’échanges, les droits, les rôles, les objectifs de chacun du lancement du projet à la fourniture des livrables… Mais également les règles de représentations graphiques et la gestion et le transfert des données. Ce document est amené à évoluer en fonction de l’avancement des opérations notamment concernant la modification des acteurs, mais aussi les objectifs BIM du projet, le tout en restant le document de référence de la réalisation de la démarche BIM. »
+
+
+## Le Niveau 2: Collaboration orientée objet
+
+-------------------------------
+
+
+
+Avec ces niveaux de maturités, on comprend bien **l’importance de la collaboration** au sein d’une démarche BIM et que, sans elle, les promesses du BIM ne pourront être atteintes. Le passage d’un niveau à l’autre n’est pas sans efforts mais nécessaire. Les différents niveaux sont illustrés par la société Arcadis ci-dessus pour une meilleure compréhension.
+
+***N'hésitez pas à consulter cette vidéo de Tekla, un éditeur de logiciels BIM, qui résume ces niveaux de maturité.***
+

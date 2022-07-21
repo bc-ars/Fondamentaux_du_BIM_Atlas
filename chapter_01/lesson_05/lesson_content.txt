@@ -1,0 +1,141 @@
+# ⚙️ Les dimensions du BIM
+
+------------------------------
+
+
+Le BIM est un processus collaboratif permettant l’enrichissement de maquette numériques dont le but avoué est d’établir une source unique fiable de données dans un projet de construction.
+
+Une maquette numérique correctement renseigné va permettre d’accroitre la collaboration entre des équipes et acteurs multi-disciplinaires en conception, en réalisation et même à la fin du cyvle de vie d’un bâtiment. À travers la notion de dimensions, voyons ensemble comment le processus BIM permet aux acteurs de planifier correctement les tâches, d’encourager la réduction des coûts ou encore la sobriété énergétique.
+
+<p>&nbsp;</p>
+
+
+## Quelles sont les dimensions du BIM ?
+
+-------------------------------
+
+Les maquettes numériques sont développés dans le but de renseigner toutes les données essentielles à l’éxécution et la vie d’un projet de constrcution. Pour illustrer les différents paramètres d’une maquette BIM, l’industrie a introduit la notion de dimensions. En fonction des besoins, nous introduisons ou non une dimension !
+
+BIMdimensions gif
+
+Les dimensions BIM représentent les informations additionnels en lien avec la représentation tridimensionnelle géométrique que contient la maquette numérique, voici à quoi elles correspondent:
+
+🧊 **3D**: Représentation tridimensionnelle (x, y, z) de la géométrie.
+
+📅 **4D**: 3D + la planification du projet de construction en fonction du temps.
+
+💰 **5D**: 4D + estimation des coûts et analyse budgétaire.
+
+♻️ **6D**: 5D et performance énergétique du bâtiment, efficacité energétique.
+
+🏢 **7D**: 6D et maintenance immobilière du projet.
+
+⚙️ **XD**: Les dimensions supplémentaires incorporent la 7D avec d’autres concepts qui peuvnet être la gestion de la sécurité durant le chantier, la construction lean, la gestion des déchets ou encore la conseption industrialisé via la préfabrication.
+
+Observons plus en détail chacune de ces dimensions.
+
+IMAGE
+
+<p>&nbsp;</p>
+
+##🧊 BIM 3D - Représentation tridimensionnelle
+
+---------------------------------------
+
+SCHEMA 3D
+
+Le BIM 3D est la représentation tridimensionelle virtuelle d’un bâtiment dans un environnement commun de donnée (en anglais CDE: Common data environment), représentation qui permet une visualisation claire du projet. La 3D offre la possibilité aux acteurs d’identifier plus aisément les erreurs de conception et de mise en oeuvre qui, si elles ne sont pas détectées avant la réalisation conduisent à des modifications coûteuses.
+
+Les équipes pluridisciplinaires d’un projet ont la possibilité d’accéder à une source fiable unique pour optimiser, coordoner et éviter toutes collisions des modèles BIM 3D. Les acteurs disposent d’un outil d’aide à la décision qui incorporent leurs remarques via des annotations et qui évoluent en même temps que le projet.
+
+SCHEMA 3D Annotations
+
+
+
+<p>&nbsp;</p>
+
+## 📅 BIM 4D – la 4ème dimension du temps & de la planification
+
+---------------------------
+
+SCHEMA 4D
+
+La dimension du temps permet d’envisager la planification et l’ordonnancement des tâches via la maquette numérique. Quand on parle de 4D on parle d’une 3D qui prend en compte la durée et l’évolution du projet. La planification et le phasage 4D permettent aux différents intervenants d’avoir une vision globale de l’enchainemeent des tâches prenant en compte les travaux de fondations, de mise en oeuvre, d’installation, d’excavations, de coulage, de coffrage, de séchage…
+
+Un phasage 4D réaliste permet aide à simuler les interventions de chacune des équipes pour la livraison d’un projet sans aléas et clashs et respectant le planning initial.
+
+SCHEMA 4D - navisworks
+
+
+
+<p>&nbsp;</p>
+
+## 💰 BIM 5D – la 5ème dimension du coût et de l’estimation budgétaire.
+
+--------------------------
+
+<p>&nbsp;</p>
+
+SCHEMA 5D
+
+Les données budgétaires et l’analyse des coûts sont importantes dans tous projets de construction. Après la visuatlisation 3D et la planification, la 5ème dimension est celle qui concerne le budget du projet. La 5D trace le coût de chacun des matériaux qui constituent le projet et le coût total du bâtiment. Elle va établir une prédiction plus précise du budget requis selon les presciptiosn du projet,ses altérations et sa mise en oeuvre. La 5D évolue également en fontion des modificatiosn du proejt et des objets BIM.
+
+
+<p>&nbsp;</p>
+
+## ♻️ BIM 6D – la 6ème dimension de la performance et de l’éfficacité energétique
+
+--------------------------
+
+SCHEMA 6D
+
+La 6D correspond à une dimension qui a trait à l’analyse des consommations énergétiques d’un bâtiment et de son éfficacité énergétique. La 6D instaure un lien avec les informations contenus dans les matériaux qui concernent l’impact environnemental et l’analyse énergétique. Les acteurs du projet et le bénéficiaire final acquiert une meilleure connaissance de la performance énergétique selon les matériaux utilisés, en lien constant avec le phasage des travaux, le budget et les choix architecturaux.
+
+
+<p>&nbsp;</p>
+
+## 🏢 BIM 7D – La 7ème dimension de la maintenance et l’exploitation.
+
+--------------------------
+
+SCHEMA 7D
+
+LA 7D introduit les données relatives à la mainteance et l’exploitation du bâtiment. La 7D optimise les opérations de maintenance et l’occupation du bâtiment durant son cycle de vie. Travailler en 7D requiert de renseigner les préconisations techniques des équiepements en fonction de leurs dates de garantie, leurs mode d’emploi, leurs procédures et notices d’entretien et de remplacement… Le gestionnaire du bâtiment va pouvoir optimiser et dimensionner ces équiepzs de maintenance en fonction de toutes ces informations.
+
+<p>&nbsp;</p>
+
+## ⚙️ BIM XD – Des dimensions spécifques
+
+--------------------------
+
+**La gestion des déchets.**
+
+Une gestion optimisée des déchets et la juste utilisation des matériaux introduit le concept de lean construction. Nous ne nous attarderons pas sur ce concept qui nécessite un long développement, mais sa massification ne pourra se faire sans une utilisation du BIM.
+
+En renseignant les objets de manière adéquate, on peut mieux gérer la revalorisation ou le bon acheminement des déchets.
+En 2022, le gouvernement français a lancé la plateforme Trackdéchets. Trackdéchets est un outil de traçabilité et non un outil de gestion des déchets (pas de facturation, bon de commande, etc.).
+
+Tous les acteurs présents sur une chaîne de traçabilité sont concernés par Trackdéchets, la mission de cette plateforme est notamment de garantir la circulation de l’information de traçabilité d’un bout à l’autre de la chaîne. 
+
+SCHEMA
+
+Va-t-on voir pouvoir interfacer cette plateforme avec des maquettes numériques ? C'est le genre de développement qui sera rendu un jour possible avec une massification de la digitalisation du BTP
+
+
+**La sécurité sur le chantier.**
+
+La sécurité des compagnons et autres intervenants est essentielle dans tout chantier de construction. Le BIM peut être un outil pour le management de chantier afin de prendre des mesures préventives pour éviter au maximum tout accident durant l’éxécution des travaux. La visualisation du projet en lien avec son phasage dans en réalité virtuelle ou augmentée facilite l’analyse des risques et les plans de préventions d’incident.
+
+SCHEMA
+
+**La construction hors-site.**
+
+L’industrialisation du processus de construction est en plein développement et le BIM en est le plus grand vecteur. On observe de plus en plus de matériaux préfabriqués en dehors du chantier et livrés pour être prêts à être monté. Les données obtenues grâce aux retours d’expériences de proejt en BIM sont une source inestimables permettant d’optimiser le kitting et l’acheminement d’un projet. Plusieurs startups commencent à émerger sur ce créneau. Elles allient la conception avec le BIM à une production une usine s’appuyant directement sur les objets modélisés.
+
+IMAGE
+
+l’image ci-dessus provient de la startup Vestack. Vestack s’appuie sur une solution de conception digitale, basée sur le logiciel de modélisation Revit. La maquette numérique leur permet de réaliser des analyses structurelles, thermiques, le permis de construire et les instructions de production en usine.
+
+
+***N'hésitez pas à consulter cette vidéo sur les dimensions du BIM.***
+
