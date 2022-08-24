@@ -2,11 +2,15 @@
 
 
 
-La gestion d'un projet de construction fait intervenir différents acteurs dont le rôle s'est au fil du temps précisé: Maîtrise d'Ouvrage, Maîtrise d'œuvre, bureaux d'études pour chaque disciplines, équipe travaux.... Avec le BIM, tous ces acteurs ne disparaissent pas. Ils vont maitenant ajouté une dimension digitale dans tous leurs échanges et surtout leur collaboration.
+La gestion d'un projet de construction fait intervenir différents acteurs dont le rôle s'est au fil du temps précisé: Maîtrise d'Ouvrage, Maîtrise d'œuvre, bureaux d'études pour chaque disciplines, équipe travaux.... Avec le BIM, tous ces acteurs ne disparaissent pas. Ils vont maintenant ajouter une dimension digitale dans tous leurs échanges et surtout leur collaboration.
 
 L'un des buts du BIM est de minimiser les risques et les erreurs durant tous le processus du projet. Au fil du temps et avec les avancées technologiques, nous avons déjà pu assiter à une digitalisation des méthodes de transmission d'informations en ayant par exemple moins recours aux documents papiers mais plutôt aux emails. Néanmoins cela ne résout pas les problèmes de collaboration et de travail en silos. 
+<p>&nbsp;</p>
 
-![Image non trouvée : /Users/kamsmacbook/Desktop/BIM - ConstrucTech/BuildingCode/Evebim/Images/actor_silo.jpg](/Users/kamsmacbook/Desktop/BIM - ConstrucTech/BuildingCode/Evebim/Images/actor_silo.jpg "Image non trouvée : /Users/kamsmacbook/Desktop/BIM - ConstrucTech/BuildingCode/Evebim/Images/actor_silo.jpg")
+
+![actor_silo.jpg](../../../../plateform-images/BIM_Enjeux_et_Fondements/actor_silo.jpg)
+
+<p>&nbsp;</p>
 
 *Les échanges de plans dans un processus de travail traditionnel*
 
@@ -14,7 +18,7 @@ Le BIM va permettre d'introduire une représentation digitale commune d'un proje
 
 Nous verrons dans ce chapitre comment les acteurs s'approprient le BIM: 
 
-- Le positionnement des acteurs traditionels avec le BIM.
+- Le positionnement des acteurs traditionnels avec le BIM.
 - Les nouveaux métiers liés au BIM.
 - Les différences avec un projet traditionnel.
 

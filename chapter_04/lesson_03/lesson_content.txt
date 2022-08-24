@@ -1,0 +1,95 @@
+# L’interopérabilité
+
+------------------------------
+<p>&nbsp;</p>
+
+
+Différents types de logiciels BIM existent sur le marché, et nous disposons d’une grande flexibilité dans leur choix. Chacun de ces logiciels possède des caractéristiques propres et fournit de nombreuses options aux utilisateurs. Le choix même d’un outil dépend de l’habitude des équipes à travailler avec, de la finalité d’utilisation, ou tout simplement de la tendance du moment.
+
+Les logiciels BIM permettent de sauvegarder dans un format dit natif (fotmat propre au logiciel). Par exemple lorsque l’on sauvegarde dans le logiciel Revit, nous aurons à disposition un fichier Revit (.rvt), sur le logiciel ArchiCad, nous aurons un fichier Archicad (.pln). Tout paraît très simple mais les éditeurs étant différents, la compatibilité entre chacun de ces fichiers d’un logiciel à l’autre est nulle. Ces problèmes sont surmontés par la notion d’intéropérabilité.
+<p>&nbsp;</p>
+
+
+## L’intéropérabilité dans le BIM
+
+-------------------------------
+<p>&nbsp;</p>
+
+L’interopérabilité est défini par BuildingSmart comme « Capacité d’échanger par la présence d’un standard neutre et ouvert des données entre les différents « modèles » sans dépendre d’un acteur ou d’un outil en particulier ». L’interopérabilité est le point clé pour assurer la bonne conduite d’un projet BIM, car c’est grâce à une bonne interopérabilité que les échanges vont être réussis. Chaque acteur participant au projet de construction utilise son logiciel métier, le nombre de logiciels différents peut être important.
+
+SCHEMA Logiciel BIM SG
+
+**Remarque**: Les niveaux de maturité sont liés à la coordination des acteurs et à la compatibilité des logiciels BIM entre eux. Le niveau 3 de maturité BIM vers lequel on essaie de tendre va de pair avec une interoperabilité BIM parfaite.
+
+La transition vers le BIM implique un changement radicale dans chaque strate de gestion de projet BTP. Chaque acteur doit maîtriser son coeur de métier mais également travailler dans un processus interopérable. Ce processus impolique de partager des données et les communiquer sous un format compatible avec les logiciels des acteurs du projet.
+
+Nous avons vu la courbe de de McLeamy schématisant les coûts suivants les phases d’un projet.
+
+IMAGE
+
+Une étude de la Fédération Française du Bâtiment FFB a estimé les coûts supplémentaires liées au fait de travailler avec des outils non interopérables.
+
+Cette étude a pris en compte les coûts selon trois catégories :
+
+* Les coûts induits par les mesures de prévention nécessaires (efforts de normalisation, investissement dans des systèmes d’échanges d’informations)
+* Les coûts induits par les mesures correctives (ressaisies manuelles, recherches d’informations, coûts de vérification)
+* Les coûts induits par les retards (retards à la livraison, ressources inutilisées)
+
+La conclusion de la FFB est qu’ils s’élèvent à:
+
+* 35 €/m² de SHON pour les entreprises.
+* 2.3€/m²/an pour les gestionnaires de patrimoine.
+
+Dans un processus traditionnel s’appuyant sur des documents graphiques, on observe des pertes d’informations tout au long du déroulement du projet.
+
+L’interopérabilité amène à l'enrichissement permanent d'une base de données numérique, permettant la centralisation et l’harmonisation des données au moyen d’une plateforme collaborative.
+
+<p>&nbsp;</p>
+
+## L’OpenBIM et le Closed BIM
+
+---------------------------------------
+<p>&nbsp;</p>
+
+Dans le BIM, on observe deux axes de déploiement qui regroupent familles de formats de fichiers: le format ouvert et le format fermé. On appelle cela l'open BIM et le closed BIM.
+<p>&nbsp;</p>
+
+### Le Closed BIM
+<p>&nbsp;</p>
+
+Les fichiers dans ce format ne peuvent être lus que par des logiciels particuliers qui travaillent dans le format natif du logiciel à l’origine de la conception. L'échange est pratiquement impossible avec des logiciels d’un éditeur différent. Cette manière de travailler ferme (close) le processus BIM au logiciel natif du fichier pour les échanges et la collaboration.
+<p>&nbsp;</p>
+
+### L'Open BIM
+<p>&nbsp;</p>
+
+L’openBIM signifie de travailler avec le BIM à travers des logiciels, processus et standards ouverts. Le but est d’augmenter l’intégration et l’efficacité de tous les acteurs participant au projet pour faciliter les échanges d’informations.
+
+Si l’on devait faire une analogie, imaginons qu’une équipe doivent écrire un rapport sur un sujet quelqonque. C’est comme si tout le monde écrivait sa partie du rapport sur un logiciel de traitement de texte (type Word) pour ensuite l’enregistrer et l’envoyer au format PDF aux autres membres de l’équipe qui pourraient l’ouvrir même sans logiciel de traitement de texte.
+
+On est en plein dans le concept d'interopérabilité car des logiciels d'éditeurs différents peuvent communiquer entre eux grâce à un format ouvert, et ce quel que soit le format natif. Les informations liées à une maquette numérique vont être conservés et peuvent s'échanger entre plusieurs acteurs du projet.
+
+Le bémol étant que seul les données normalisées sont transmises et donc certaines informations peuvent être perdus. Le format qui associe les données géométriques aux metadonnées est appelé l'IFC (Industry Foundation Classe) comme nous le verrons dans un prochain chapitre.
+
+Certaines nuances plus subtiles existent pour décrire un processus de travail en BIM.
+
+SCHEMA OPEN CLOSED BIM
+
+Une discipline travaillant avec le même logiciel est en little closed BIM, si elle travaille avec diférrentrs logiciels elle est en Little open BIM. Pour plusieurs disciplines travaillant avec le même logiciel on parle de Big Closed BIM, et avec différents logiciels on parle de Big Open BIM.
+
+L’idéal serait bien sûr de travailler en Big Open BIM sur n’importe quel projet BIM. Le marché et les acteurs n'ont pas encore décidé quel sera le processus dominant dans le futur mais tout logiciel BIM doit offrir la possibilité d'exporter au format IFC.
+
+
+<p>&nbsp;</p>
+
+## En conclusion
+
+---------------------------
+<p>&nbsp;</p>
+L’idéal serait bien sûr de travailler en Big Open BIM sur n’importe quel projet BIM. Le marché et les acteurs n'ont pas encore décidé quel sera le processus dominant dans le futur mais tout logiciel BIM doit offrir la possibilité d'exporter au format IFC.
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+

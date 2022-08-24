@@ -1,0 +1,79 @@
+# ✨ En résumé
+
+------------------------------
+
+<p>&nbsp;</p>
+
+### Les objets BIM ont des niveaux de développement spécifiques.
+
+-----------------------------------
+
+<p>&nbsp;</p>
+
+
+La définition des niveaux de développement (LOD) peut être schématisé ci-dessous:
+
+<p>&nbsp;</p>
+
+SCHEMA LOD
+
+<p>&nbsp;</p>
+
+
+**LOD = LoD + LoI**
+
+Les LODs sont l’addition du Niveau de Détail (Level of Detail: LoD) et du Niveau d’information (Level of Information: LoI).
+
+Pour une même phase le niveau de détail graphique peut être différent selon les lots et les besoins du projet.
+
+Les conventions BIM désignent avec précision le niveau de LOD attendu pour chacune des phases. On retrouve généralement en annexe un tableau des niveau de développement de chacun des objets BIM qui constuituent la maquette numérique.
+
+
+<p>&nbsp;</p>
+
+
+
+
+### La documentation BIM est la feuille de route d'une démarche BIM.
+
+-----------------------------------
+
+<p>&nbsp;</p>
+
+À l’instar d’autres documents essentiels dans un projet de construction comme le CCTP ou la DPGF les documents BIM d’un projet permettent de cadrer le pourquoi du processus BIM et les livrables associés.
+
+<p>&nbsp;</p>
+
+SCHEMA DOCUMENT DU BIM
+
+<p>&nbsp;</p>
+
+
+Le BIM contient divers documents. Selon l'acteur et selon que l'on travaille sur un projet spécifique ou sur uen typologie de projets, chacun de ces documents sera pertinent à son niveau. Quoi qu'il en soit, le but de chaque document est d'établir le processus de collaboration entre les parties en décrivant leurs missions respectives et leurs techniques de modélisation et d'échange d'idées.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+
+
+### Les objectifs BIM et Usages BIM matérialisent la démarche BIM.
+
+-----------------------------------
+
+<p>&nbsp;</p>
+
+
+Dans un projet de construction avec du BIM, la garantie de la qualité du processus BIM est une priorité. La Maîtrise d’ouvrage qui décide de travailler avec du BIM a des objectifs précis, en terme de qualité dans la réalisation mais également dans la vie du bâtiment après sa réalisation. Ces objectifs BIM sont ensuite décrits dans leurs étapes par usages BIM, qui engendreront les processus nécessaires à leurs réalisations.
+<p>&nbsp;</p>
+SCHEMA 21 USAGES BIM
+<p>&nbsp;</p>
+
+Les usages BIM déclinent les objecrtifs et vont avoir des répercussions sur le contenu des maquettes numériques associées au projet.
+
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>

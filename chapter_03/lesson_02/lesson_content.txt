@@ -1,183 +1,97 @@
-# Les documents du BIM
+# Les niveaux de développement BIM
 
 ------------------------------
-
-
-Le passage de la Conception Assisté par Ordinateur au BIM engendre une organisation différente. Par rapport aux méthodes traditionnelles, la façon de stocker et partager les informations est repensée, ce qui amène à restructurer les équipes pour s’adapter à ces nouvelles méthodes. Le chef de projet doit pouvoir prédire la taille de son équipe technique et le temps requis pour chacune des étapes du projet. Choisir d’intégrer le BIM sans avoir pensé minutieusement l’organisation peut avoir de conséquences désastreuses dans la suite des opérations. De nouveaux postes font leur apparition et certains sont redéfinis:
-
 <p>&nbsp;</p>
 
-CCAG Travaux, art. 4
-4.1. Ordre de priorité : 8 documentsEn cas de contradiction entre les stipulations des pièces contractuelles du marché, elles prévalent dans l’ordre ci-après :– l’acte d’engagement et ses éventuelles annexes, dans la version résultant des dernières modifications éventuelles, opérées par avenant ;– le cahier des clauses administratives particulières (CCAP) et ses éventuelles annexes ;– le programme ou le calendrier détaillé d’exécution des travaux établi conformément aux dispositions de l’article 28.2 et comportant les dates de début et de fin des travaux ;– le cahier des clauses techniques particulières (CCTP) et ses éventuelles annexes ;– le cahier des clauses administratives générales (CCAG) applicable aux prestations, objet du marché, si celui-ci vise ce cahier ;– le cahier des clauses techniques générales (CCTG) applicable aux prestations, objet du marché, si celui-ci vise ce cahier ;– les actes spéciaux de sous-traitance et leurs avenants, postérieurs à la notification du marché ;– les éléments de décomposition de l’offre financière du titulaire.
+A ECRIRE
+<p>&nbsp;</p>
 
-
-
-
-
-
-La charte BIM 
-
-La charte BIM est le document par lequel le Maitre d’ouvrage exprime ce qu’il attend de l’utilisation du BIM dans les projets de construction et spécifie les dispositions obligatoires à respecter par les contributeurs qui mettent en oeuvre le BIM dans les projets de construction qui leur sont confiés. C’est un outil de communication entre le Maitre d’ouvrage et ses interlocuteurs , qu’ils soient architectes, bureaux d’études ,entreprises, etc. La charte propose un cadre de travail raisonné qui prend en compte les objectifs du Maitre d’Ouvrage, la maturité des méthodes et des pratiques , la performance des outils, ainsi que l’expérience réel de la plupart des intervenants. La charte BIM attendue doit comprendre de nombreux aspects différents tels que : • L’objet de la charte, domaine d’application, limite et évolution • L’organisation ;Acteurs, systèmes d’information, qualité, information, sécurité : • Les attendus : phases, objectifs, méthode du projet ; • Les livrables :documents, maquette, contenu de chaque livrable ; • Les clauses techniques : logiciel, format , taille localisation, unités, etc. : • Les clauses de contenu : modélisation de la géométrie et des objets, niveau de détail, convention de nommage, contenu de la maquette numérique par phase La charte BIM est ainsi rédigée par l’Assistant à Maitrise d’oeuvre AMO. Cette charte sera mise à jour pour chaque projet dans le cahier des charges BIM.
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/298b3935-5fa6-4bff-9f8d-bac084269ee9/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/298b3935-5fa6-4bff-9f8d-bac084269ee9/Untitled.png)
-
-19 [](https://openclassrooms.com/fr/courses/5228291-decouvrez-les-fondamentaux-du-bim)https://openclassrooms.com/fr/courses/5228291-decouvrez-les-fondamentaux-du-bim
-
-le Cahier des Charges BIM
-
-Le cahier des charges a pour but de : 
-Exprimer les besoins techniques de BI pour atteindre les objectifs de la feuille de route
-Définir les bonnes pratiques de travail collaboratif
-Organiser une équipe de projets autour de la création, de l’utilisation et de la mise à jour des informations du BIM
-
-
-« Document du donneur d’ordre précisant pour le projet les exigences et objectifs des intervenants successifs du projet, incluant éventuellement ceux de la charte BIM du Maitre d’ouvrage. »
-Le cahier des charges BIM de l’opération est un document précisant pour le projet les exigences et objectifs BIM des intervenants successifs du projet, incluant ceux de la charte BIM du maître d’ouvrage. Il constitue le volet BIM du programme.
-
-Description les livrables BIM attendus (format + niveau de détails par phase)
-Description des rôles des  interlocuteurs en BIM, qui sont nécessaires à la démarche
-Les règles de nommage et nomenclature pour le projet 
-Responsabilités et propriétés de la maquette
-
-- Le cahier des charges BIM : « Document également établi par le maître d’ouvrage qui précise les exigences et objectifs des intervenants successifs précisément de ce projet incluant éventuellement ceux de la charte BIM. Il constitue le volet BIM du programme. » Contrairement à la charte BIM le cahier des charges précise les objectifs du projet en question et peut donc reprendre certains objectifs de la charte.
-
-//////
-
-Contrairement à la Charte BIM qui définit la stratégie BIM globale et générique d’une structure, le Cahier des Charges BIM s’applique et s’adapte à une opération spécifique. C’est le volet BIM du programme de réalisation de l’ouvrage.
-
-Pour autant, le cahier des charges BIM est un document pouvant être consulté indépendamment du reste de la consultation. C’est pourquoi le contexte de l’opération doit être y être rappelé dans la partie « Description du projet ». Cette description doit être synthétique, il ne s’agit pas de détailler le programme dans son intégralité, mais d’en rappeler les éléments essentiels. Cette partie pourra prendre la forme d’un paragraphe rédigé ou d’un tableau récapitulatif et abordera différentes thématiques : 
-• Une mise en contexte de l’opération concernée qui, en deux ou trois phrases rappelle la raison d’être de l’opération, une description sommaire du programme, que ce soit une opération neuve ou une réhabilitation. 
-• La localisation de l’opération intégrant au besoin : une adresse, un numéro de parcelle, une géolocalisation, etc. Une illustration de cette localisation peut être la bienvenue que ce soit un plan cadastral ou une vue satellitaire. 
-• La surface de l’opération, exprimée en surface habitable, surface de plancher ou emprise au sol selon la nature du projet. • Le nombre de logements et éventuellement leur typologie. 
-• Un échéancier prévisionnel, de la phase conception et de la phase réalisation reprenant les grands jalons de l’opération : démarrage du chantier, période de réception de l’ouvrage ou durée du chantier. Les temps alloués aux différentes phases du projet permettent à la maîtrise d’œuvre puis aux entreprises de se projeter dans l’organisation de la production des maquettes, de leur revue et de leur utilisation au service du projet. 
-• Les coordonnées du contact référent BIM ou, à défaut, du chargé d’opération de la maîtrise d’ouvrage. Il est important pour la maîtrise d’œuvre et les entreprises de pouvoir identifier la personne référente au sein de la maîtrise d’ouvrage sur les questions liées au BIM sur l’opération.
-
-
-
-////
-
-
-
-Convention BIM 
-
-La convention BIM rédigé par la maitrise d’oeuvre traduit le cahier des charges et apporte des réponses aux exigences de la Maitrise d’Ouvrage. Elle définit les modalités d’accès, de stockage et d’archive, ainsi que la chaine de validation interne des différents modèles pour chaque phase de projet. Il constitue la base de la plateforme d’échange des différents intervenants au tour de la maquette numérique. La convention BIM a ainsi pour but d’interpréter les objectifs du projet en objectifs BIM. Une fois hiérarchisé, ils sont associés à des cas d’usages BIM. Un usage BIM est un processus, représenté sous forme schématique. À l’aide de cette représentation , on est enfin capable de représenter les interactions autour de la maquette numérique . La convention ,aussi appelé « Protocol le BIM » , doit intégrer les 4 grands axes suivant : • Les informations relatives au projet ; • Les objectifs du projet et des intervenants ; • Les modalités liées au travail collaboratif ; • Les ressources u projet et les exigences informatiques ;
-
-
-/////
-
-La Convention BIM est une des composantes essentielles de la mise en place d’une démarche BIM efficiente. Document contractuel, rédigé par l’équipe de BIM Management, elle est une réponse aux attentes de votre Cahier des Charges BIM. Elle définit également les processus de travail de la Maîtrise d’œuvre et des entreprises.
-Ce document permet de cadrer la démarche BIM pour l’ensemble des intervenants. Elle est amenée à évoluer tout au long de l’opération. Elle s’adapte notamment pour intégrer : 
-• De nouveaux acteurs 
-• De nouveaux processus de collaboration 
-• Une évolution des logiciels utilisés. 
-
-Concrètement, la Convention BIM est le document opérationnel du BIM. 
-C’est dans ce document que sont établis les processus mis en place par la Maîtrise d’œuvre, pour répondre aux usages BIM définis par la Maîtrise d’Ouvrage. 
-La convention BIM est également le support qui permet à la Maîtrise d’œuvre de spécifier ses propres usages BIM ainsi que les méthodologies qui en découlent. Parmi les thèmes abordés dans ce document, on retrouve généralement : 
-• L’organisation de l’équipe : présentation, responsabilités… 
-• La stratégie de collaboration des intervenants : rôles, méthodologies, mission de BIM Management 
-• La définition des attendus techniques sur le projet : méthodes de modélisation ou principes de nomenclature 
-• La définition de l’écosystème logiciels de l’équipe de maîtrise d’œuvre ou des entreprises. 
-
-
-
-////
-
-
-1.5 Les documents du BIM : 
-
-Les documents présentés ci-dessous sont ceux que l’on retrouve lors d’un projet BIM, il est important de bien comprendre leur importance et leurs utilités. Ces définitions sont issues de Médiaconstruct, branche française de Building Smart \[1\]. - La charte BIM : « La charte BIM est un document élaboré par le maître d’ouvrage traduisant sa politique en objectifs de qualité et de performances attendues du BIM pour l’ensemble de son patrimoine. Tout en explicitant les exigences et les objectifs à satisfaire pour que le processus BIM des opérations puisse alimenter la maquette d’entretien / exploitation / maintenance du projet. » Il s’agit d’un document général qui va décrire la stratégie BIM du maître d’ouvrage envers sa gestion du patrimoine. - Le cahier des charges BIM : « Document également établi par le maître d’ouvrage qui précise les exigences et objectifs des intervenants successifs précisément de ce projet incluant éventuellement ceux de la charte BIM. Il constitue le volet BIM du programme. » Contrairement à la charte BIM le cahier des charges précise les objectifs du projet en question et peut donc reprendre certains objectifs de la charte. - Convention BIM : La convention BIM est rédigée par le manager BIM du projet en collaboration avec tous les intervenants du projet, mais bien plus que ça c’est « un document qui régit les relations et rôles entre les différents contributeurs d’un projet, oeuvrant à l’élaboration de la maquette numérique. Elle détermine l’environnement de travail c’est-à-dire les modalités d’échanges, les droits, les rôles, les objectifs de chacun du lancement du projet à la fourniture des livrables… Mais également les règles de représentations graphiques et la gestion et le transfert des données. Ce document est amené à évoluer en fonction de l’avancement des opérations notamment concernant la modification des acteurs, mais aussi les objectifs BIM du projet, le tout en restant le document de référence de la réalisation de la démarche BIM. »
-
-
-## Charte BIM: La définition du Pourquoi du BIM pour la maîtrise d’ouvrage.
+## Les Niveaux de développement, d’informations et de détails
 
 -------------------------------
+<p>&nbsp;</p>
 
-La définition de la démarche globale de maîtrise d'ouvrage au regard du BIM se trouve dans la Charte BIM. Il précise ses attentes, par exemple en termes de modélisation ou de livrables. En outre, il décrit les objectifs généraux et la vision du BIM. La charte peut également décrire la structure organisationnelle et les outils numériques qui seront utilisés.
+Les niveaux de développement (Level Of Development ou LOD en anglais) représentent un standard de l’industrie de la construction et de l’architecture. Chaque niveau définit une profondeur de développement et varie grandement dans les phases d’un projet de construction. Le concept central des niveaux développement se définit comme une manière de représenter l’information et la géométrie d’un objet BIM en rapport avec les objectifs et le stade du projet durant son cycle de vie.
 
-Pour les plus sophistiqués, la charte BIM pourrait spécifier le codage et la catégorisation à respecter, ainsi que si des systèmes de gestion des actifs numériques seraient utilisés.
+La définition des niveaux de développement (LOD) peut être schématisé ci-dessous:
 
-Ces composants organiseront les maquettes numériques créées par les nombreux contributeurs selon les phases du projet.
+SCHEMA LOD
+
+**LOD = LoD + LoI**
+
+Les LODs sont l’addition du Niveau de Détail (Level of Detail: LoD) et du Niveau d’information (Level of Information: LoI).
+
+Pour une même phase le niveau de détail graphique peut être différent selon les lots et les besoins du projet.
+
+Comme on l’a vu le BIM présente les informations d’un projet de construction constitué par des objets BIM. Le concept de LOD a été développé dans le but d’avoir un référentiel commun de définition de ces objets. La détermination du LOD pour un objet BIM est spécifié dans la convention BIM. Elle permet d’éviter les malentendus dans ce que chacun des acteurs qui participe à la conception et de planifier le temps nécessaire à la modélisation des objets.
+
+Voyons ensemble les différences entre chacun des LODs
 
 <p>&nbsp;</p>
 
-## Le Cahier des Charges BIM : besoins spécifiques de la maîtrise d’ouvrage sur un projet particulier
+## LOD 100 – Design conceptuel
 
 ---------------------------------------
+<p>&nbsp;</p>
 
-Le cahier des charges est le pendant de la Charte BIM, mais il s'applique à un projet particulier. Bien que chaque section soit interprétée pour le projet, on retrouve généralement le cadre de la charte.
-
-Les principaux éléments listés sont les rôles et responsabilités des Contributeurs BIM, les échanges et contrôles BIM prévus, ainsi que les Objectifs BIM du projet.
-
-En effet, ceux-ci peuvent varier d'un projet à l'autre et, en particulier, des objectifs généraux. Pour un projet précis, nous pouvons choisir de créer une maquette visualisable à travers des lunettes de réalité virtuelle afin de proposer aux élus ou aux potentiels acquéreurs une visite immersive de l'ouvrage. Cependant, le MOA n'y accordera aucune priorité
-
+Le LOD 100 définit une modélisation réalisée manuellement, ou une modélisation symbolique du concept. Il peut être représenté dans le modèle avec quelques informations (prix par m2, débit d’air…). Ce n’est pas une représentation géométrique précise. La forme, taille, et localisation est approximative et els informations en résultant le sont autant.
 
 
 <p>&nbsp;</p>
 
-## La convention BIM
+## LOD 200 - Design schématique
 
 ---------------------------
 
-
-Le document créé par le BIM Management, en collaboration avec les principaux contributeurs à la maîtrise d'ouvrage, est connu sous le nom de Convention BIM. Dans la mesure où les domaines qu'il couvre ne sont pas actuellement couverts par les documents contractuels, ce document est obligatoire. La Convention BIM lie ceux qui la reconnaissent d'un commun accord, ce qui engendre les effets juridiques et le respect de la méthodologie qui lui sont intrinsèques.
-
-Selon le schéma que nous avons vu précédemment, la Convention BIM est une réponse aux Spécifications BIM.
-
-Quelle que soit la manière dont ils ont contribué à la Maquette Numérique, tous les acteurs impliqués dans le projet doivent y donner leur accord.
-
-Les tâches de la Convention BIM sont exécutées dans un ordre logique.
-
-Voir document BuildingSmart
-
-Il peut commencer à n'importe quel moment du cycle de vie de l'œuvre, mais le plus tôt possible est préférable. Il est essentiel de séparer au minimum les phases de conception et de construction.
-
-Depuis l'élaboration de la Convention BIM jusqu'à son approbation par toutes les parties prenantes, l'équipe de BIM Management anime un cycle de réunions.
-
-Au début du projet BIM, de préférence au début de la phase, l'accord BIM est présenté pour exécution à chacune des parties prenantes.
-
-L'équipe de BIM Management doit modifier le Contrat BIM et/ou ses annexes si :
-
-l'évolution du projet (c'est-à-dire les modifications de programme, les modifications budgétaires, les modifications techniques) ;
-
-le paysage changeant des parties prenantes ;
-
-Les objectifs BIM ont évolué au fil du temps.
-
-L'équipe de BIM Management modifie le processus après consultation de toutes les parties prenantes et en utilisant la même procédure que lors de sa création. À chaque étape du cycle de vie du projet, cela est fait. Ainsi, nous pouvons :
-
-une norme de conception BIM ;
-
-un accord d'exécution/de mise en œuvre du BIM ;
-
-un accord d'exploitation pour le BIM ;
-
+Le LOD 200 représente une idée de design partiel avec une taille et localisation encore approximative. L’objet BIM est générique, ou alors assemblé à partir de quantités, localisation, forme et orientation approximative. Des informations non-graphiques peuvent aussi être contenues dans les objets. Ces derniers peuvent être reconnaissables à partir de leur forme et identifiables graphiquements. L’information provenant d’un objet au LOD 200 restent toujours considérée comme approximative.
 
 <p>&nbsp;</p>
 
-## BIM Manager
+## LOD 300 - Modèle détaillé
 
 --------------------------
 
 <p>&nbsp;</p>
 
-La charte graphique était au 2D ce que le protocole BIM est au BIM. Il décrit les directives de modélisation interne pour une société. Il détaille les logiciels, les serveurs et les autres infrastructures numériques qui ont été utilisés. De plus, il permet de reconnaître et de définir les BIM managers, coordinateurs et concepteurs de l'entreprise ainsi que leurs responsabilités.
-
-Le protocole décrit les procédures à suivre afin d'assurer l'exactitude des modèles produits, à l'instar de la Convention BIM. Ceux-ci décrivent les principaux axes BIM de l'organisation.
-
-Lorsqu'un protocole BIM existe au sein d'une entité, il peut être utilisé comme point de départ pour la création d'une convention BIM pour un projet..
+Le LOD 300 est la représentation détaillée d’un composant du bâtiment en accord avec le dessin architectural et les dessins techniques, avec des dimensions, quantités, formes, orientations et une localisation exactes. L’objet BIM représente un système spécifique dont les dimentsions epeuvent être mesurés directement depuis la maquette numérique sans avoir besoin de se référer à une fiche produit ou à des plans de détails 2D. L’objet BIM est défini avec un point d’origine localisé avec précision par rapport à l’origine du projet.
 
 
+<p>&nbsp;</p>
 
+## LOD 350 - Modèle constructif
 
+--------------------------
 
+<p>&nbsp;</p>
+
+Un objet BIM au LOD 350 permet de déterminer de manière efficaces sa connection avec d’autres composants du bâtiment avec des outils de détection de clashs. C’est un LOD essentiel pour la coordination dans une discipline ou avec d’autres disciplines. Les quantités, localisation, forme et orientation de l’élément sont directement mesurables depuis la maquette numérique sans avoir besoin de se référer à une fiche produit ou à des plans de détails 2D.
+
+<p>&nbsp;</p>
+
+## LOD 400 - Fabrication & Assemblage
+
+--------------------------
+
+<p>&nbsp;</p>
+
+Le LOD 400 fournit des informations sur un produit qui concernent sa fabrication et son assemblage. Les quantités, localisation, forme et orientation de l’élément sont directement mesurables depuis la maquette numérique sans avoir besoin de se référer à une fiche produit ou à des plans de détails 2D. Il est également précisé les spécificités liées à l’assemblage ou l’installation d’équipements.
+
+<p>&nbsp;</p>
+
+## LOD 500 – Modèle tel que construit
+
+--------------------------
+
+<p>&nbsp;</p>
+
+Le LOD 500 contient les quantités, localisation, forme et orientation de l’élément, les matériaux, le processus d’installation, la date d’installation, les commentaires des intervenants… On peut alors parler de véritable jumeau numérique.
 <p>&nbsp;</p>
 
 ## En conclusion
 
 --------------------------
 
-Le BIM contient divers documents. Selon l'acteur et selon que l'on travaille sur un projet particulier ou sur un plan global, chacun a un niveau de pertinence différent. Quoi qu'il en soit, le but de chaque document est d'établir le processus de collaboration entre les parties en décrivant leurs missions respectives et leurs techniques de modélisation et d'échange d'idées.
+Les conventions BIM désignent avec précision le niveau de LOD attendu pour chacune des phases. On retrouve généralement en annexe un tableau des niveau de développement de chacun des objets BIM qui constuituent la maquette numérique.
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
