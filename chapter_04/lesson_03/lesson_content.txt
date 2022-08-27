@@ -75,7 +75,7 @@ Certaines nuances plus subtiles existent pour décrire un processus de travail e
 
 SCHEMA OPEN CLOSED BIM
 
-Une discipline travaillant avec le même logiciel est en little closed BIM, si elle travaille avec diférrentrs logiciels elle est en Little open BIM. Pour plusieurs disciplines travaillant avec le même logiciel on parle de Big Closed BIM, et avec différents logiciels on parle de Big Open BIM.
+Une discipline travaillant avec le même logiciel est en little closed BIM, si elle travaille avec diférrents logiciels elle est en Little open BIM. Pour plusieurs disciplines travaillant avec le même logiciel on parle de Big Closed BIM, et avec différents logiciels on parle de Big Open BIM.
 
 L’idéal serait bien sûr de travailler en Big Open BIM sur n’importe quel projet BIM. Le marché et les acteurs n'ont pas encore décidé quel sera le processus dominant dans le futur mais tout logiciel BIM doit offrir la possibilité d'exporter au format IFC.
 

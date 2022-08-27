@@ -1,30 +1,33 @@
 { "questions":
   [
     {
-      "content": "Le BIM n'est pas un logiciel",
-      "explanation": " Le BIM est une manière intégrée de travailler, permettant une conception, une exécution et une gestion de bâtiments et de biens immobiliers elle aussi intégrées. Ce n’est pas un outil, un logiciel, c’est un processus de travail et de collaboration entre intervenants d’un projet de construction reposant sur des outils métiers particuliers qui permettent la conception et l’exploitation d’une maquette numérique préfigurant le bâtiment tel que construit et exploité.",
+      "content": "Pourquoi la maîtrise d'ouvrage peut utiliser le BIM ?",
+      "explanation": " Dans toutes ses dimensions, le BIM permet à la MOA de suivre globalement son projet de man ière précise.",
       "answers": [
         {
-          "content": "Faux",
-          "is_correct": "false"
+          "content": "Suivre le projet",
+          "is_correct": "true"
         },
-
         {
-          "content": "Vrai",
+          "content": "Chiffrer précisément le projet",
+          "is_correct": "true"
+        },
+        {
+          "content": "Communiquer avec les futurs usagers",
           "is_correct": "true"
         }
       ]
     },
     {
-      "content": "Le LIM concerne le monde du BTP uniquement",
-      "explanation": "Le LIM concerne plusieurs domaine puisqu'il s'agit de données scientifiques et techniques qui vont prendre en compte le vivant et son évolution dans les projets",
+      "content": "Dans quelles phases du projet va-t-on produire le plus d'éfforts dans un processus BIM",
+      "explanation": " La courbe dite de McLeamy illustre bien l’apport du BIM visé en comparaison d’un projet mené de manière traditionnel et le déplacement des efforts vers les phases de con ception.",
       "answers": [
         {
-          "content": "Faux",
+          "content": "Les phases de conception",
           "is_correct": "true"
         },
         {
-          "content": "Vrai",
+          "content": "Les phases de réalisation",
           "is_correct": "false"
         }
       ]

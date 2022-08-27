@@ -1,46 +1,38 @@
 { "questions":
   [
     {
-      "content": "Quel est le premier logiciel de DAO ?",
-      "explanation": "Les prémices du BIM apparaissent en 1963 lorsque Sutherland propose le logiciel Sketchpad, précurseur de l’interface graphique et de la DAO.",
+      "content": "Quel acteur est concerné par le BIM ?",
+      "explanation": " Tous les acteurs cités sont concernés par le BIM !",
       "answers": [
         {
-          "content": "Revit",
-          "is_correct": "false"
-        },
-        {
-          "content": "AutoCAD",
-          "is_correct": "false"
-        },
-        {
-          "content": "Sketchpad",
+          "content": "L'architecte",
           "is_correct": "true"
         },
         {
-          "content": "ArchiCad",
-          "is_correct": "false"
+          "content": "Le conducteur de travaux",
+          "is_correct": "true"
+        },
+        {
+          "content": "Le client",
+          "is_correct": "true"
+        },
+        {
+          "content": "Le fournisseur de matériaux",
+          "is_correct": "true"
         }
       ]
     },
     {
-      "content": "Quels sont les avantages de la CAO 3D ",
-      "explanation": "et certains se font beaucoup beaucoup d'argent",
+      "content": "Tous les acteurs d'un projet doivent avoir le même niveau de maturité BIM.",
+      "explanation": " Même si cela faciliterait grandement les opérations, ce n'est pas une condition sine qua none à la bonne éxécution d'un projet en BIM.",
       "answers": [
         {
-          "content": "On peut plus facilement communqiuer avec le projet qu'avec de la DAO 2D",
-          "is_correct": "true"
-        },
-        {
-          "content": "La modélisation est paramétrique",
+          "content": "Vrai",
           "is_correct": "false"
         },
         {
-          "content": "On peut créer et imaginer différentes versions",
+          "content": "Faux",
           "is_correct": "true"
-        },
-        {
-          "content": "On a plusieurs dessins indépendants (plans, coupes, élévations et axonométries).",
-          "is_correct": "false"
         }
       ]
     }

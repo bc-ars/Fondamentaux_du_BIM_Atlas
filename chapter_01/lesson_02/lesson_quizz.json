@@ -24,10 +24,10 @@
     },
     {
       "content": "Quels sont les avantages de la CAO 3D ",
-      "explanation": "et certains se font beaucoup beaucoup d'argent",
+      "explanation": "La CAO 3D permet une représentation plus proche du réel",
       "answers": [
         {
-          "content": "On peut plus facilement communqiuer avec le projet qu'avec de la DAO 2D",
+          "content": "On peut plus facilement communiquer avec le projet qu'avec de la DAO 2D",
           "is_correct": "true"
         },
         {

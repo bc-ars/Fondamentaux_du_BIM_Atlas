@@ -1,31 +1,20 @@
 # Introduction
 
+On l'a vu, la méthodlogie BIM fait apparaître des processus, différents acteurs, et des maquettes numériques constituées d'objets BIM contenant des informations et une géométrie propre. Cette technologie repose sur une interface logiciel sans quoi tout cela ne serait pas possible. 
 
-Plongeons plus en détail dans la démarche BIM et ce qu'elle induit en terme de cadrage et de gestion de projet. Après tout qu'est-ce qu'un projet ?
-  
-On peut le résumer à une série d'actions coordonnées... ✔  
-... menées dans le but d'atteindre des objectifs prédéfinis... 🎯  
-... selon un planning déterminé à l'avance... 🗓  
-... et dans le cadre d'un budget donné (charge, €, matériel,...). 💰  
- 
-Au cours de ce cheminement la maquette numérique va changer et les objets BIM qui la constituent vont évoluer en termes de **niveaux de développement**. La méthodilogie BIM va être cadré au moyen de **documents et contrats BIM** qui vont faire définir des **Objectifs BIM et des Usages BIM**.
+Le marché actuel de logiciels BIM offrent pléthore de choix en termes d'outils. Chacun de ces logiciels différent en termes de fonctionnalités et d'usages. Ce choix se fera en fonction du rôle du contributeur BIM, de son champ d'action et de sa familiarité avec les logiciels.
 
-Nous allons voir plsu en détail tous ces éléments à travers les chapitres suivants:
+Et afin que tout les acteurs travaillant avec des logiciels différents parlent le même langage, une standardisation entre chacun d'entre eux est indispensable. Les standards les plus populaires portent le nom d'Industry Foundation Classe (IFC) et BIM Collaboration Format (BCF)
 
-- Niveaux de développement.
-- Les documents et contrat BIM / loi MOP.
-- Objectifs BIM.
-- Usages BIM.
+C'est ce que nous allons voir à travers les chapitres suivants:
 
+- Les logiciels BIM.
+- L'intéropérabilité avec l'Open BIM
+- Les standards IFC et BCF.
 
-Comme dirait Orison Swett Marden, fondateur du magazine Success aux Etats-Unis: 
+Ce chapitre est le dernier de notre cours sur les Fondamenataux du BIM ! 
 
-"A good system shortens the road to the goal."
-
-Une bonne méthodogie (ou un bon système) raccourcit la route vers l'objectif.
-
-
-https://stringfixer.com/fr/Orison_Swett_Marden
+Nous terminerons ce cours avec une ouverture sur les possibilités du BIM et son développement futur en France.
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>

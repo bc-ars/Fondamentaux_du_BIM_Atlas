@@ -1,31 +1,42 @@
 { "questions":
   [
     {
-      "content": "Le BIM n'est pas un logiciel",
-      "explanation": " Le BIM est une manière intégrée de travailler, permettant une conception, une exécution et une gestion de bâtiments et de biens immobiliers elle aussi intégrées. Ce n’est pas un outil, un logiciel, c’est un processus de travail et de collaboration entre intervenants d’un projet de construction reposant sur des outils métiers particuliers qui permettent la conception et l’exploitation d’une maquette numérique préfigurant le bâtiment tel que construit et exploité.",
+      "content": "Que fait un BIM manager ?",
+      "explanation": " Le BIM Manager va crée la méthode permettant d'atteindre les objectifs BIM de la MOA",
       "answers": [
         {
-          "content": "Faux",
+          "content": "Il gère le processus BIM dans sa globalité",
+          "is_correct": "true"
+        },
+        {
+          "content": "Il rédige le cahier des charges BIM",
           "is_correct": "false"
         },
-
         {
-          "content": "Vrai",
+          "content": "Il vérifie les livrables BIM aux étapes définis par la convention d'un point de vue global",
           "is_correct": "true"
+        },
+        {
+          "content": "Il assure le déploiement stratégique de la Maîtrise d'Ouvrage",
+          "is_correct": "false"
+        },
+        {
+          "content": "Il crée les gabarits internes de chaque entité",
+          "is_correct": "false"
         }
       ]
     },
     {
-      "content": "Le LIM concerne le monde du BTP uniquement",
-      "explanation": "Le LIM concerne plusieurs domaine puisqu'il s'agit de données scientifiques et techniques qui vont prendre en compte le vivant et son évolution dans les projets",
+      "content": "Le BIM Cordinateur gère plusieurs disciplines simultanément",
+      "explanation": " Le BIM Coordinateur est en charge de son corps de métier seulement, il connaît et maîtrise les logiciels BIM pour son corps de métier et sait comment exporter la maquette BIM de son lot.",
       "answers": [
-        {
-          "content": "Faux",
-          "is_correct": "true"
-        },
         {
           "content": "Vrai",
           "is_correct": "false"
+        },
+        {
+          "content": "Faux",
+          "is_correct": "true"
         }
       ]
     }

@@ -1,45 +1,45 @@
 { "questions":
   [
     {
-      "content": "En quelle année a été créé internet ?",
-      "explanation": "En effet c'est bien dans les années 60 que l'internet mondial a été inventé",
+      "content": "Qui rédige la convention BIM ?",
+      "explanation": " Le BIM Manager est en charge de la rédaction de la convention BIM, elle est validée par le client via son AMO BIM",
       "answers": [
         {
-          "content": "1800",
+          "content": "Le BIM Coordinateur",
           "is_correct": "false"
         },
         {
-          "content": "1992",
+          "content": "L'AMO BIM",
           "is_correct": "false"
         },
         {
-          "content": "1960",
+          "content": "Le BIM Manager",
           "is_correct": "true"
         },
         {
-          "content": "2020",
+          "content": "Le client",
           "is_correct": "false"
         }
       ]
     },
     {
-      "content": "Sélectionne le ou les navigateurs de recherche : ",
-      "explanation": "et certains se font beaucoup beaucoup d'argent",
+      "content": "Le cahier des charges BIM décrit: ",
+      "explanation": "Les principaux éléments listés par le chaier des charges BIM sont les rôles et responsabilités des Contributeurs BIM, les échanges et contrôles BIM prévus, ainsi que les Objectifs BIM du projet.",
       "answers": [
         {
-          "content": "Google",
+          "content": "Les objectifs BIM",
           "is_correct": "true"
         },
         {
-          "content": "Tesla",
+          "content": "La stratégie BIM de la MOA sur tous ses projets BIM",
           "is_correct": "false"
         },
         {
-          "content": "Explorer",
+          "content": "Les rôles et responsabilités des contributeurs BIM",
           "is_correct": "true"
         },
         {
-          "content": "Qwant",
+          "content": "Les niveaux de définition et développement des objets BIM",
           "is_correct": "true"
         }
       ]

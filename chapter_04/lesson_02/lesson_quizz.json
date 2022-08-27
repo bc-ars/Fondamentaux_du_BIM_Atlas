@@ -1,46 +1,30 @@
 { "questions":
   [
     {
-      "content": "En quelle année a été créé internet ?",
-      "explanation": "En effet c'est bien dans les années 60 que l'internet mondial a été inventé",
+      "content": "Un objet BIM peut être lu avec toutes ces caractéristiques (longueur, largeur, matériaux poids, resistance thermique...) quel que soit le logiciel utilisé par l'un des corps de métiers ?",
+      "explanation": " Les logiciels BIM vont intéragir avec des fichiers aux formats BIM particuliers qui peuvent être natifs (dépendant de l’éditeur du logiciel) ou alors au standard IFC (pouvant être ouvert par n’importe quel logiciel BIM).",
       "answers": [
         {
-          "content": "1800",
+          "content": "Faux",
           "is_correct": "false"
         },
         {
-          "content": "1992",
-          "is_correct": "false"
-        },
-        {
-          "content": "1960",
+          "content": "Vrai",
           "is_correct": "true"
-        },
-        {
-          "content": "2020",
-          "is_correct": "false"
         }
       ]
     },
     {
-      "content": "Sélectionne le ou les navigateurs de recherche : ",
-      "explanation": "et certains se font beaucoup beaucoup d'argent",
+      "content": "Un AMO BIM a nécessairement besoin d'un logiciel de modélisation BIM dans son rôle:",
+      "explanation": " Un AMO BIM ne participe pas à la modélisation et n'a en général pas besoin de disposer d'un logiciel de modélisation BIM.",
       "answers": [
         {
-          "content": "Google",
+          "content": "Faux",
           "is_correct": "true"
         },
         {
-          "content": "Tesla",
+          "content": "Vrai",
           "is_correct": "false"
-        },
-        {
-          "content": "Explorer",
-          "is_correct": "true"
-        },
-        {
-          "content": "Qwant",
-          "is_correct": "true"
         }
       ]
     }

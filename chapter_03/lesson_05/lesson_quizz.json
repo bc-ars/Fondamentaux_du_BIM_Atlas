@@ -1,31 +1,35 @@
 { "questions":
   [
     {
-      "content": "Le Niveau de maturité 0 permet de collaborer autour d'une maquette numérique",
-      "explanation": " C'est la **méthode traditionnelle de travail** avec un apport minime du numérique",
+      "content": "La plupart des usages BIM sont génériques et un certain nombre couvrent la majorité des possibilités dans un projet BIM",
+      "explanation": " BuildingSmart a établit 21 usages BIM génériques dans les projets qui sont utiles dans la définition de la démarche BIM spécifique à une opération.",
       "answers": [
         {
           "content": "Vrai",
-          "is_correct": "false"
+          "is_correct": "true"
         },
 
         {
           "content": "Faux",
-          "is_correct": "true"
+          "is_correct": "false"
         }
       ]
     },
     {
-      "content": "Le Niveau 3 de maturité du BIM est utilisé massivement par les acteurs du BTP",
+      "content": "Les Usages BIM permettent la définition:",
       "explanation": "On est encore loin de ce niveau de maturité, pour plusieurs raisons: conflits entre les logiciels BIM, problèmes de serveurs (la blockchain pourra-t-elle régler le problème ? ), format IFC....",
       "answers": [
         {
-          "content": "Vrai",
-          "is_correct": "true"
+          "content": "des acteurs du projet ",
+          "is_correct": "false"
         },
         {
-          "content": "Faux",
+          "content": "des logiciels à utiliser",
           "is_correct": "false"
+        },
+        {
+          "content": "des processus du projet ",
+          "is_correct": "true"
         }
       ]
     }

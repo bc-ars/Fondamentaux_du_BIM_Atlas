@@ -3,7 +3,7 @@
 ------------------------------
 
 
-Quel que soit le type de projet (rénovation ou neuf),si l’on décide de faire du BIM, la garantie de la qualité du processus BIM devient une priorité. La Maîtise d’ouvrage qui décide de travailler avec du BIM a des objectifs précis, en terme de qualité dans la réalisation mais également dans la vie du bâtiment après sa réalisation. Il arrive malheureusement que le projet en BIM n’est apporté aucune plus-value, qu’il est engendré une perte de temps et d’argent avec une modélisation finale inutilisable. C’est le cas lorsque les objectifs BIM ne sont pas clairement ciblés. Abnalysons comment les objectifs BIM sont mis en place dans un projet à partir des attentes du Maître d’ouvrage.
+Quel que soit le type de projet (rénovation ou neuf),si l’on décide de faire du BIM, la garantie de la qualité du processus BIM devient une priorité. La Maîtise d’ouvrage qui décide de travailler avec du BIM a des objectifs précis, en terme de qualité dans la réalisation mais également dans la vie du bâtiment après sa réalisation. Il arrive malheureusement que le projet en BIM n’est apporté aucune plus-value, qu’il est engendré une perte de temps et d’argent avec une modélisation finale inutilisable. C’est le cas lorsque les objectifs BIM ne sont pas clairement ciblés. Analysons comment les objectifs BIM sont mis en place dans un projet à partir des attentes du Maître d’ouvrage.
 
 ## La transcription des Objectifs BIM
 

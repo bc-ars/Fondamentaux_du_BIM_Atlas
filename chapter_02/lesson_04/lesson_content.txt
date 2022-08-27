@@ -3,9 +3,9 @@
 ------------------------------
 
 
-Au fur et à mesure de la réaliation d’un projet de construction, les acteurs s’accumulent, changent ou sortent du projet. Ce qui peut amener à une déperdition d’informations engendrée par un mode de travail insuffisamment collaboratif.
+Au fur et à mesure de la réalisation d’un projet de construction, les acteurs s’accumulent, changent ou sortent du projet. Ce qui peut amener à une déperdition d’informations engendrée par un mode de travail insuffisamment collaboratif.
 
-Les décisions se font en casacade avec une approche top -down (du haut vers le bas). Le BIM ambitionne une mise en commun des données des acteurs plus accessibles et fiables. Voyons ensemble quels sont les changements par rapport à un projet traditionnel.
+Les décisions se font en casacade avec une approche top-down (du haut vers le bas). Le BIM ambitionne une mise en commun des données des acteurs plus accessibles et fiables. Voyons ensemble quels sont les changements par rapport à un projet traditionnel.
 
 <p>&nbsp;</p>
 
@@ -16,13 +16,21 @@ Les décisions se font en casacade avec une approche top -down (du haut vers le 
 
 Avec les avancées technologiques en termes d’infrastructures et de moyens de communication, nous avons pu de numériser les techniques conventionnelles (centrées sur les documents) utilisées traditionnellement. Ce qui a permis l’envoi plus simple de doculments par email, la signature électronique, la visio-conférence…
 
-Néanmoins, en raison d'un manque de confiance dans les données partagées et de jugements inexacts sur la manière de réduire les risques et la responsabilité, les méthodes traditionnelles de gestion de projets (même si elles sont numérisées) ont échoué dans le secteur de la construction et ses clients. Les problèmes sous-jacents affectant et l'industrie du bâtiment et son management de projet ne sont effet toujours pas résolus. Le secteur est confronté à des problèmes problèmes qui sont souvent les suivants :
-
-• Échanges d'informations approximatiifs à travers des briefings, des propositions et des prix qui varient • Des décisions subjectives (conception, gestion de projet, etc.) fondées sur des connaissances tirées de données imprécises, souvent partielles et finalement invérifiables ;
+Néanmoins, en raison d'un manque de confiance dans les données partagées et de jugements inexacts sur la manière de réduire les risques et la responsabilité, les méthodes traditionnelles de gestion de projets (même si elles sont numérisées) ont échoué dans le secteur de la construction et ses clients. Les problèmes sous-jacents affectant l'industrie du bâtiment et son management de projet ne sont effet toujours pas résolus. Le secteur est confronté à des problèmes qui sont souvent les suivants :
+<p>&nbsp;</p>
+• Échanges d'informations approximatiifs à travers des briefings, des propositions et des prix qui varient 
+<p>&nbsp;</p>
+• Des décisions subjectives (conception, gestion de projet, etc.) fondées sur des connaissances tirées de données imprécises, souvent partielles et finalement invérifiables ;
 
 * La programmation des tâches et des activités n'est pas fréquemment partagée ou cohérente entre les membres de l'équipe ;
 * Informations sur les coûts qui varient d'un projet à l'autre et qui ne sont pas suffisamment transparentes
-* le manque de communication initiales avec les utilisateurs finaux qui en fin de compte, exploiteront les actifs construits. • Non-respect des délais et des plannings • Problèmes signalés trop tard ou sans les preuves requises. • Rétroaction et directives incohérentes (verbales ou écrites) tout au long du projet. • L'absence d'une méthode adéquate pour documenter et appliquer les « leçons apprises » d'un projet à l'autre. Chacun des facteurs susmentionnés, seul ou en combinaison, peut réduire l'efficacité de la ‘éxecution pendant les étapes de livraison, d'utilisation et de fin de vie.
+* le manque de communication initiales avec les utilisateurs finaux qui en fin de compte, exploiteront les actifs construits. 
+* Non-respect des délais et des plannings 
+* Problèmes signalés trop tard ou sans les preuves requises. 
+* Rétroaction et directives incohérentes (verbales ou écrites) tout au long du projet. 
+* L'absence d'une méthode adéquate pour documenter et appliquer les « leçons apprises » d'un projet à l'autre. 
+
+Chacun des facteurs susmentionnés, seul ou en combinaison, peut réduire l'efficacité de l‘éxecution pendant les étapes de livraison, d'utilisation et de fin de vie.
 
 Le BIM, utilisé isolément ne pourra pas résoudre ces problèmes. Les procédures fondamentales nécessaires à la circulation de l'information doivent être améliorées par les acteurs de manière collaborative.
 
@@ -35,16 +43,20 @@ Le BIM, utilisé isolément ne pourra pas résoudre ces problèmes. Les procédu
 
 Le BIM nécessite un travail d'équipe collaboratif entre toutes les parties prenantes. Le flux de travail simplifié de la structure du bâtiment illustré à la figure 1 illustre les interactions entre les rôles de l'architecte, de l'ingénieur en structure et de l'ingénieur des services du bâtiment.
 
-Le flux de travail ne fonctionnera pas correctement si l'une des parties est absente. Deux éléments essentiels sont nécessaires au processus BIM : • Les informations que chaque participant doit fournir doivent être clairement indiquées. Les exigences en matière d'informations sur les échanges incluent celles-ci. • Les participants doivent exprimer (et approuver) leur plan pour fournir l'information selon les besoins. Le Plan d'Exécution BIM et la convention BIM en font mention. Ce n'est qu'avec des protocoles d'échange d'informations, des normes pour les livrables et des procédures en place pour vérifier le travail de chacun que le BIM pourra permettre d’augmenter l'efficacité de la gestion d’un projet et réduire les erreurs. Ce processus ne modifient pas radicalement les savoir-faire de chacun des acteurs.
+Le flux de travail ne fonctionnera pas correctement si l'une des parties est absente. Deux éléments essentiels sont nécessaires au processus BIM : 
+<p>&nbsp;</p>
+• Les informations que chaque participant doit fournir doivent être clairement indiquées. Les exigences en matière d'informations sur les échanges incluent celles-ci.
+<p>&nbsp;</p>
+• Les participants doivent exprimer (et approuver) leur plan pour fournir l'information selon les besoins. 
+<p>&nbsp;</p>
+Le Plan d'Exécution BIM et la convention BIM en font mention. Ce n'est qu'avec des protocoles d'échange d'informations, des normes pour les livrables et des procédures en place pour vérifier le travail de chacun que le BIM pourra permettre d’augmenter l'efficacité de la gestion d’un projet et réduire les erreurs. Ce processus ne modifient pas radicalement les savoir-faire de chacun des acteurs.
 
 La maquette numérique instaure un périmètre de travail strict et clair ainsi qu’une organisation des informations nouvelle. Cette digitalisation implique que chaque acteur y participe. L’outil BIM permet la compilation de TOUTES les données du projet de construction. La mise en commun des données des acteurs a pour but les objectifs suivants:
 
-* Repérer les anomalies et contradictions
-* Éviter les pertres d’informations
-* Permettre un travail collaboratif enrtre les acteurs
-* Apporter une capacité analytique
-
-
+* Repérer les anomalies et contradictions.
+* Éviter les pertes d’informations.
+* Permettre un travail collaboratif entre les acteurs.
+* Apporter une capacité analytique.
 
 <p>&nbsp;</p>
 
