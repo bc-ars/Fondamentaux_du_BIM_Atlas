@@ -5,7 +5,7 @@
 
 Le passage de la Conception Assisté par Ordinateur au BIM engendre une organisation différente. Par rapport aux méthodes traditionnelles, la façon de stocker et partager les informations est repensée, ce qui amène à restructurer les équipes pour s’adapter à ces nouvelles méthodes. Le chef de projet doit pouvoir prédire la taille de son équipe technique et le temps requis pour chacune des étapes du projet. Choisir d’intégrer le BIM sans avoir pensé minutieusement l’organisation peut avoir de conséquences désastreuses dans la suite des opérations. De nouveaux postes font leur apparition et certains sont redéfinis:
 <p>&nbsp;</p>
-![metiers_BIM_general.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_Projet/metiers_BIM_general.png)
+![metiers_BIM_general.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/metiers_BIM_general.png)
 <p>&nbsp;</p>
 
 Certains métiers ont plus attrait au management, à la coordination de projet ou à la production. 
@@ -21,7 +21,7 @@ D'autres métiers sont tranverses et permettent la réalisation de tâches très
 C'est une personne externe à la Maîtrise d'Ouvrage (MOA) et aux Maitrise d'Oeuvres (MOEs). Il a une relation contractuelle avec la MOA. Il va porter les intérêts du BIM auprès des autres acteurs BIM.
 
 <p>&nbsp;</p>
-![amo.gif](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_Projet/amo.gif)
+![amo.gif](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/amo.gif)
 <p>&nbsp;</p>
 
 Ses fonctions:
@@ -46,7 +46,7 @@ Son rôle est de gérer les familles 3D et les composants de la maquette requis 
 C'est un technicien du BIM. Il connaît et maîtrise les logiciels BIM pour son corps de métier et sait comment exporter la maquette BIM de son lot. Il va généralement concevoir les éléments les plus complexes du projet tels que les objets paramétriques et les scripts d'automatisation. C'est également le principal interlocuteur du BIM Manager pour son lot. Il va animer le BIM sans son équipe et garantir la cohérence des données qu'il va apporter aux autres contributeurs. 
 
 <p>&nbsp;</p>
-![coordinateur.gif](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_Projet/coordinateur.gif)
+![coordinateur.gif](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/coordinateur.gif)
 <p>&nbsp;</p>
 
 
@@ -73,7 +73,7 @@ Il crée, fait évoluer et associe des annotations à la maquette Numérique pou
 
 C'est un véritable spécialiste des logiciels BIM de la maquette de son métier. Il est sous la responsabilité du BIM Coordinateur et suis ses recommandations.
 <p>&nbsp;</p>
-![Modeleur.gif](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_Projet/Modeleur.gif)
+![Modeleur.gif](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/Modeleur.gif)
 <p>&nbsp;</p>
 
 
@@ -93,7 +93,7 @@ Le BIM manager est une personne spécialisée dans la matière du BIM mais avec 
 
 Avec la convention BIM, le BIM Management va définir le processus de collaboration de tous les acteurs BIM. Il se réunit et échange avec les BIM Coordinateurs qui chacun représentent leur lots ou leur entreprises. Il structure la maquette numérique et les droits d'accès.
 <p>&nbsp;</p>
-![management.gif](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_Projet/management.gif)
+![management.gif](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/management.gif)
 <p>&nbsp;</p>
 
 Ses missions:
@@ -122,7 +122,7 @@ Deux nouveaux métiers ont fait leur apparition ces dernières années: le BIM E
 
 Le BIM Expert est apparu avec l'émergence des applications et des extensions de logiciels de construction utilisant le BIM. Ces extensions (appelés plugins), offrent la possibilité de créer de nouvelles focntionnalités sur des logiciels BIM proposés sur le marché pour remplir des tâches répétitives et spécifiques. Par exemple, un plugin sur Revit pour l'automatisation de remplissage de formulaire d'une demande de permis de construire à partir d'une maquette BIM. Ou encore un plugin permettant l'analyse du nommage et de la codification des objets BIM d'une maquette en respectant les préconisations de la convention BIM.
 <p>&nbsp;</p>
-![expert.gif](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_Projet/expert.gif)
+![expert.gif](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/expert.gif)
 <p>&nbsp;</p>
 
 Ses tâches d'expertise et/ou de consulting (pas de tâches opérationnelles) vont pêtre conféis au BIM Expert. Il analyse les faisabilités techniques des interopérabilités et propose des développements informatiques éventuels pour la suite. Il travaille de concert avec le BIM Manageur qui lui fait remonter les besoins et avec le BIM Informaticien qui développe les idées. Sa tâche peut être également l'exploitation de données de maquette numérique à grande échelles pour une optimisation dans les futurs projets.
@@ -136,7 +136,7 @@ Ses tâches d'expertise et/ou de consulting (pas de tâches opérationnelles) vo
 
 À l'instar du BIM Expert, le BIM Informaticien apparait de plus en plus au sein des équipes BIM. Son positionnement se situe proche du BIM Manager qu'il va épauler.
 <p>&nbsp;</p>
-![informaticien.gif](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_Projet/informaticien.gif)
+![informaticien.gif](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/informaticien.gif)
 <p>&nbsp;</p>
 
 Sa première tâche sera d'abord de bien définir et dimensionner le parc informatique nécessaire au déroulement du projet.  Quel doit être la configutation des ordianteurs utilisés pour la conception de maquettes numériques ? 
@@ -157,7 +157,7 @@ Les nouvelles fonctions, le budget ainsi que la vision vont engendrer le dimensi
 On peut résumer les différents types de métiers comme suit:
 <p>&nbsp;</p>
 
-![metiers_BIM.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_Projet/metiers_BIM.png)
+![metiers_BIM.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/metiers_BIM.png)
 <p>&nbsp;</p>
 
 Et évidemment, cette organisation est dépendante du niveau de maturité BIM de chacun des inntervenants. Il est nécessaire que les contributeurs BIM maîtrisent les chanmps d'actions sur lesquels ils vont opérer. Ce point décisif et l'oganisation qui en découle seront les garants du succès d'une opération en BIM. 

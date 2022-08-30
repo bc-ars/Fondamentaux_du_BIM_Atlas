@@ -34,7 +34,7 @@ Chacun des facteurs susmentionnés, seul ou en combinaison, peut réduire l'effi
 
 <p>&nbsp;</p>
 
-![interoperability.jpeg](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_Projet/interoperability.jpeg)
+![interoperability.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/interoperability.jpeg)
 
 <p>&nbsp;</p>
 *Les échanges de plans dans un processus de travail traditionnel comparés au BIM* (source: https://biblus.accasoftware.com/)
@@ -59,7 +59,7 @@ Le cahier des chargs BIM et la convention BIM en font mention. Ce n'est qu'avec 
 
 La maquette numérique instaure un périmètre de travail strict et clair ainsi qu’une organisation des informations nouvelle. Cette digitalisation implique que chaque acteur y participe. L’outil BIM permet la compilation de TOUTES les données du projet de construction.
 <p>&nbsp;</p>
-![bim-cycle.jpeg](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_Projet/bim-cycle.jpeg)
+![bim-cycle.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/bim-cycle.jpeg)
 <p>&nbsp;</p>
 *Les informations des objets BIM couvrent l'ensemble du cycle de vie des matériaux* (source: https://biblus.accasoftware.com/)
 <p>&nbsp;</p>
@@ -79,7 +79,7 @@ La maquette numérique instaure un périmètre de travail strict et clair ainsi 
 
 La courbe dite de McLeamy illustre bien l’apport du BIM visé en comparaison d’un projet mené de manière traditionnel.
 <p>&nbsp;</p>
-![McLeamy.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_Projet/McLeamy.png)
+![McLeamy.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/McLeamy.png)
 <p>&nbsp;</p>
 
 À mesure de la réalisation du projet, il devient de plus en plus difficile de le modifier (courbe bleue) et les coûts de modifications (courbe rouge) augmente. Le BIM permet de déplacer le centre de gravité d’un projet traditionnel (courbe noire) afin de concentrer plus en amont les efforts de conception et production (courbe verte). Les impacts de modifications sur le projet deviennent alors moins critiques et les changements minimisés.

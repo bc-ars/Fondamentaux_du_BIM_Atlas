@@ -21,7 +21,7 @@ Pour les plus élaborés, la charte BIM peut spécifier la codification et le no
 Ces composants organiseront les maquettes numériques créées par les nombreux contributeurs selon les phases du projet.
 
 <p>&nbsp;</p>
-![charte_BIM.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/charte_BIM.png)
+![charte_BIM.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/charte_BIM.png)
 <p>&nbsp;</p>
 _Page de garde de la charte BIM de la société du Grand Paris. La Charte est téléchargeable au lien suivant: https://media-mediatheque.societedugrandparis.fr/pm_1_144_144824-13yyyuvq7e.pdf_
 <p>&nbsp;</p>
@@ -44,7 +44,7 @@ Pour aider les donneurs d’ordre, le [Plan BIM 2022](https://plan-bim-2022.fr/)
 
 Elle a pour vocation d’aider les Maîtrises d’Ouvrages dans la rédaction des cahiers des charges BIM de leurs projets.
 <p>&nbsp;</p>
-![CC_BIM.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/CC_BIM.png)
+![CC_BIM.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/CC_BIM.png)
 
 <p>&nbsp;</p>
 _Page de garde du Cahier des charges BIM de la société Immobilier 3F. Il est téléchargeable au lien suivant: https://www.groupe3f.fr/sites/default/files/Cahier%20des%20charges%20BIM%203F%20-%20Janvier%202021%20-%20Version%203.pdf
@@ -64,7 +64,7 @@ La Convention BIM est une réponse aux spécifications BIM. Quelle que soit la m
 
 Les tâches de la Convention BIM sont exécutées dans un ordre logique:
 <p>&nbsp;</p>
-![processus_convention.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/processus_convention.png)
+![processus_convention.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/processus_convention.png)
 _Source : BuildingSmart MediaConstruct - La convention BIM en pratique_
 
 <p>&nbsp;</p>

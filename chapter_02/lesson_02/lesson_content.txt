@@ -10,7 +10,7 @@ Dans le monde de la construction, on ne peut plus passer à coté du terme BIM. 
 
 Schématisons un peu les choses: Voyons le BIM comme un éléphant au milieu d'une pièce où tous les acteurs d'un projet sont rassemblés. Chacun des acteurs a une vision qui lui est propre, il semble même parfois qu'il a un bandeau devant les yeux pour son interlocuteur.
 <p>&nbsp;</p>
-![elephant_BIM.jpg](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_Projet/elephant_BIM.jpg)
+![elephant_BIM.jpg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/elephant_BIM.jpg)
 <p>&nbsp;</p>
 
 *La perception du BIM par les différents acteurs (source: https://www.thenbs.com/knowledge/bim-for-all-dummies-or-not)*
@@ -27,47 +27,47 @@ Tout cela est très bien illustré par l'image ci-dessus. Comme dit en langue an
 
 La maquette numérique va se retrouver au centre des échanges durant le processus BIM. Chacun des acteurs aura une relation particulière avec celle-ci:
 <p>&nbsp;</p>
-![acteurs_trad1.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad1.png)
+![acteurs_trad1.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad1.png)
 <p>&nbsp;</p>
 
 
 - Les géomètres ... ont pour mission le relevé des données et informations permettant notamment le géoréférencement du projet de la maquette numérique. Ils utilisent des outils d'acquisition tels que le télémètre laser et vont transmettre ces informations pour l'usage dans la maquette.
 <p>&nbsp;</p>
-![acteurs_trad2.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad2.png)
+![acteurs_trad2.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad2.png)
 <p>&nbsp;</p>
 
 - Les architectes vont pouvoir retranscrire leur vision du projet grâce à leurs esquisses. Ils peuvent pour ce faire utiliser des logiciels de conception en BIM qui fourniront les premières informations géométriques sur les matériaux constituant le bâtiment.
 <p>&nbsp;</p>
-![acteurs_trad3.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad3.png)
+![acteurs_trad3.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad3.png)
 <p>&nbsp;</p>
 
 - Les bureaux d'études vont étudier la faisabilité technique des propositions architecturales grâce aux logiciels propres à leur discipline (structure, acoustique, thermique...). Ces simulations vont peu à peu enrichir la précision de la maquette.
 <p>&nbsp;</p>
-![acteurs_trad4.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad4.png)
+![acteurs_trad4.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad4.png "acteurs_trad4.png")
 <p>&nbsp;</p>
 - Les fabricants de matériaux accompagnent les bureaux d'études et architectes dans le choix des gammes de produits qui vont se retrouver dans les objets BIM. 
 <p>&nbsp;</p>
-![acteurs_trad5.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad5.png)
+![acteurs_trad5.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad5.png)
 <p>&nbsp;</p>
 
 - Les pouvoirs publics imposent des règlementations tels que l'impact environnemental des produits de construction (sur la base de données INIES) ou le plan local d'urbanisme (PLU) dans chaque zone géographique.
 <p>&nbsp;</p>
-![acteurs_trad6.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad6.png)
+![acteurs_trad6.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad6.png)
 <p>&nbsp;</p>
 - Les économistes de la construction vont établir des devis générés grâce aux objets BIM de la maquette numérique et renseigner sur le coût de la construction.
 <p>&nbsp;</p>
-![acteurs_trad7.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad7.png)
+![acteurs_trad7.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad7.png)
 <p>&nbsp;</p>
 
 - Les entreprises générales et leurs sous-traitants vont prendre les informations nécessaires sur la maquette numérique pour la préciser au fur et à mesure de l'éxecution avec les matériaux bels et bien installés. La correction progressive et l'enrichissement de la maquette numérique mèneront alors vers l'établissement du dossier des ouvrages exécutés (DOE) qui sera une réflection de l'ouvrage tel que construit.
 <p>&nbsp;</p>
-![acteurs_trad8.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad8.png)
+![acteurs_trad8.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad8.png)
 <p>&nbsp;</p> 
 
 - La maîtrise d'ouvrage publique ou privé va peu à peu voir se constituer sa maquette numérique qui pourra peut-être se transformer en jumeau numérique (comme un jumeau qui née peu de temps avant son ainé) et l'utiliser pour son exploitation et sa maintenance.
 
 <p>&nbsp;</p>
-![acteurs_trad9.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad9.png)
+![acteurs_trad9.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad9.png)
 <p>&nbsp;</p>
 
 Nous verrons dans le chapitre sur les métiers du BIM les rôles du BIM Manager et des informaticiens ainsi que leurs interactions avec la maquette numérique.
@@ -83,7 +83,7 @@ Tous les acteurs n'ont pas les mêmes besoins et attentes dans leur utilisation 
 Vous pouvez revoir le cours sur les niveaux de maturités BIM du chapitre précédent pour vous remérorer la distinction entre chacun d'entre eux.
 L'adoption du BIM est encore assez faible en France et elle est assez inégale si l'on regarde chacun des acteurs. En 2017, le cabinet de conseil Oliver Wyman a dressé un état des lieux du niveau de différents types de société de construction quant à leur usage du BIM. Le schéma ci-dessous donne indication sur le niveau de maturité de différents groupes: TPE, PME, ETI et grandes entreprises. À noter que les niveaux de 1 à 5 n'ont rien à voir avec les niveaux de maturité explicités précedemment mais représente le niveau estimé dans le BIM par les acteurs.
 
-![acteurs_trad11.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad11.png)
+![acteurs_trad11.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad11.png)
 <p>&nbsp;</p>
 
 Pour différentes tailles d'entreprise, seulement 10% des acteurs du BTP se considèrent maturent (au sens de la compréhension) sur le BIM. Dès lors, il faut bien préciser le rôle de chacun dans le processus BIM, et en particulier vis-à-vis de son métier ou de sa discipline. 
@@ -97,7 +97,7 @@ Il apparait qu'il y a seulement très peu d'acteurs qui se considèrent matures 
  Nous distinguons à gauche le niveau général du corps de métier actuellement et le niveau auquel il devrait inspirer pour que le BIM soit efficient dans leurs fonctions:
   <p>&nbsp;</p>
 
- ![acteurs_trad10.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad10.png)
+ ![acteurs_trad10.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad10.png)
  <p>&nbsp;</p>
 
  

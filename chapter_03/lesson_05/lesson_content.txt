@@ -27,7 +27,7 @@ Un usage BIM peut être décrit par un certain nombre de fonctionnalités. Selon
 On peut s’appuyer sur les usages BIM établies, par exemple par BIMmetric ou BuildingSmart. Ces listes d’usages BIM ne sont néanmoins pas exhaustives. Il appartient au BIM Management de créer de nouveaux Usages BIM ou de modifier ceux existants en fonction des Objectifs BIM du projet et des contributeurs.
 
 <p>&nbsp;</p>
-![usages_BIM.jpeg](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/usages_BIM.jpeg)
+![usages_BIM.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/usages_BIM.jpeg)
 <p>&nbsp;</p>
 
 BuildingSmart a établit 21 usages BIM génériques dans les projets qui sont utiles dans la définition de la démarche BIM spécifique à une opération.
@@ -44,7 +44,7 @@ Ces usages sont eux-mêmes inspirés de "Uses of BIM from the Computer Integrate
 
 L'objectif fondamental de la mise en œuvre d'un usage BIM est indiqué par l'objectif dans l'utilisation du BIM. Le tableau ci-dessous répertorie les cinq catégories de base des objectifs d'utilisation du BIM : rassembler ou receuillir, générer, analyser, communiquer et exécuter ou réaliser.
 <p>&nbsp;</p>
-![usages_BIM_buts.jpeg](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/usages_BIM_buts.jpeg)
+![usages_BIM_buts.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/usages_BIM_buts.jpeg)
 <p>&nbsp;</p>
 
 Un utilisateur peut définir plus précisément l'utilisation du BIM en fonction des caractéristiques communes des travaux et des projets grâce aux caractéristiques de l'usague BIM.
@@ -52,12 +52,12 @@ Un utilisateur peut définir plus précisément l'utilisation du BIM en fonction
 On identifie quatre catégories de base pour les caractéristiques : élément, phase du projet, discipline et niveau de développement. Un Usage BIM spécifique est définit de manière plus spécifique par ces critères:
 
 <p>&nbsp;</p>
-![usages_BIM_caracteristiques.jpeg](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/usages_BIM_caracteristiques.jpeg)
+![usages_BIM_caracteristiques.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/usages_BIM_caracteristiques.jpeg)
 <p>&nbsp;</p>
 Les Usages BIM sont divisés en catégories en fonction de leurs objectifs. L'objectif précis qui doit être atteint lors de l'utilisation du BIM tout au long du cycle de vie d'un projet constitue l'attribut d’un usage BIM. Selon les attributs d'attribut tels que le titre, l'objectif, le synonyme et la description, l’usage BIM est mieux cadré.
 
 <p>&nbsp;</p>
-![usages_BIM_attributs.jpeg](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/usages_BIM_attributs.jpeg)
+![usages_BIM_attributs.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/usages_BIM_attributs.jpeg)
 <p>&nbsp;</p>
 
 Pour chaque étape de programmation, conception, éxécution et exploitation/maintenance, la liste des Usages BIM retenus pour un projet est mise à jour. Le BIM peut concerner toutes ou certaines phases du projet.
@@ -65,7 +65,7 @@ Pour chaque étape de programmation, conception, éxécution et exploitation/mai
 La Convention BIM fournit une explication des temporalités d'usages sous forme de tableau ou de chronologie. Vous pouvez ainsi voir les distributions et les durées des Usages BIM par phase de projet.
 
 <p>&nbsp;</p>
-![usages_BIM_convention.jpeg](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/usages_BIM_convention.jpeg)
+![usages_BIM_convention.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/usages_BIM_convention.jpeg)
 <p>&nbsp;</p>
 La liste finale des usages BIM est décidée dans lors de la rédaction de la convention BIM.
 

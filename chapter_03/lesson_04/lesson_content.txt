@@ -16,7 +16,7 @@ Il est crucial d'établir les principaux objectifs que le donneur d’ordres veu
 Par conséquent, une question principale doit être posée à la MOA: Comment voulez-vous utiliser le BIM sur ce projet ?
 <p>&nbsp;</p>
 
-![Questions.gif](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/Questions.gif)
+![Questions.gif](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/Questions.gif)
 <p>&nbsp;</p>
 
 Qu’attendez-vous du BIM sur le projet ?
@@ -40,11 +40,11 @@ S’il existe dans le projet, le rôle de l’AMO BIM est de reformuler les obje
 - Temporellement défini
 <p>&nbsp;</p>
 
-![goals.gif](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/goals.gif)
+![goals.gif](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/goals.gif)
 <p>&nbsp;</p>
 Les objectifs sont multiples et doivent être en corrélation avec les attentes de la Maîtrise d’Ouvrage dans le cycle de vie de son bâtiment. Les possibilités sont immenses et le risque est de surdimensionné les attentes du client…
 <p>&nbsp;</p>
-![MOA_Objectifs.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/MOA_Objectifs.png)
+![MOA_Objectifs.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/MOA_Objectifs.png)
 <p>&nbsp;</p>
 
 ## Les objectifs BIM dans la documention BIM
@@ -60,11 +60,11 @@ Le BIM Management est chargé de mettre ces objectifs en lien avec des Usages BI
 
 Les Usages BIM sont définis par le BIM Management à la lumière des Objectifs BIM. L’exemple ci-dessous est tirée de la Socité du Grand Paris. Elle a listé les objectifs BIM en fonction de leurs priorités et les phases du projet:
 <p>&nbsp;</p>
-![objectifs_BIM.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/objectifs_BIM.png)
+![objectifs_BIM.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/objectifs_BIM.png)
 <p>&nbsp;</p>
 _Exemples de 4 objectifs BIM pour la Société du Grand Paris_
 <p>&nbsp;</p>
-![objectifs_BIM_2.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/objectifs_BIM_2.png)
+![objectifs_BIM_2.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/objectifs_BIM_2.png)
 _Déclinaison de l'objectif 2 par la Société du Grand Paris_
 
 <p>&nbsp;</p>

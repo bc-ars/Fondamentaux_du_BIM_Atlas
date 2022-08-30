@@ -10,7 +10,7 @@ Chacun de ces logiciels permettent de sauvegarder dans un format dit natif (fotm
 
 Revenons au schéma que nous avons vu précédemment:
 <p>&nbsp;</p>
-![logiciels_differents.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/logiciels_differents.png)
+![logiciels_differents.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/logiciels_differents.png)
 <p>&nbsp;</p>
 
 Comment fait-on dans un projet où chacun des utilisateurs travaille sur un logiciel différent avec des formats natifs tous différents ? Comment faire pour partager des fichiers et collaborer ? Pourquoi choisir tel format par rapport à un autre ? Comment différents logiciels peuvent intéragir avec des fichiers d’autres éditeurs ?
@@ -32,7 +32,7 @@ Depuis 2005, cette association opère sous le nom de buildingSMART ([](https://w
 <p>&nbsp;</p>
 
 
-![BuildingSMART.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/BuildingSMART.png)
+![BuildingSMART.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/BuildingSMART.png)
 <p>&nbsp;</p>
 _Logo de l'association BuildingSMart_
 <p>&nbsp;</p>
@@ -55,11 +55,11 @@ L’OpenBIM se veut une approche universel dans la conception et la réalisation
 
 L’IFC est le standard de base d’échange de données basé sur l’OpenBIM. Le BIM ne saurait exister sans l’IFC puisqu’il garantit la collaboration et l’interopérabilité du processus. C’est un standard non-propriétaire (il n’est la propriété d’aucun éditeur de logiciels), neutre. Un fichier IFC contient des informations géométriques et de données.
 <p>&nbsp;</p>
-![ifc.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc.png)
+![ifc.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc.png)
 <p>&nbsp;</p>
 Il hierarchise et classifie les objets selon leurs types. Tous les types d’objets du monde de laconstruction se retrouvent dans les classes d’obets IFC: murs, fondations, portes, fenêtres, poutres….
 <p>&nbsp;</p>
-![ifc_objects.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_objects.png)
+![ifc_objects.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_objects.png)
 <p>&nbsp;</p>
 _Source: BuildingSMart_
 <p>&nbsp;</p>
@@ -76,7 +76,7 @@ On peut définir l’IFC comme **le PDF du BIM**.
 <p>&nbsp;</p>
 Si l’on ouvre un fichier IFC avec un éditeur de texte, on va retrouver une série de ligne de codes générés par l’intermediaire d’un logiciel de coneption BIM. Chacune de ces lignes à des dépendances avec les autres et la modification de l’une d’entre elles peut avoir des conséquences sur les autres. Il est intéressant de comprendre ce que ces lignes contiennent pour saisir la structuration d”une maquette numérique. Analysons ensemble le fichier IFC du projet OLYMPI pour la maquette architecture fournit par le Plan BIM 2022 ([](https://plan-bim-2022.fr/)https://plan-bim-2022.fr/).
 <p>&nbsp;</p>
-![ifc_code.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_code.png)
+![ifc_code.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_code.png)
 <p>&nbsp;</p>
 
 Il arrive parfois qu’il y ait des problèmes de compatibilité après l’export et l’import successifs depuis deux logiciels provenant d’éditeurs différents. On peut identifier quels objets sont problématiques en recherchant son code dans le fichier IFC pour l’indiquer dans le logiciel cible.
@@ -95,7 +95,7 @@ On peut catégoriser un ficher IFC en 3 catégories:
 ---------------------------------------
 
 <p>&nbsp;</p>
-![ifc_norme.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_norme.png)
+![ifc_norme.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_norme.png)
 <p>&nbsp;</p>
 
 La toute première ligne du fichier désigne la norme ISO-10303 utilisée pour l’écriture. Cette information est essentielle puisque le logiciel BIM qui va éxécuter le fichier doit être assez récent pour lire cette norme afin de pouvoir garantir l’intégrité des informations. Le format IFC étant en constante évolution, cette norme permet également de comprendre le contexte technologique de création du fichier. La connaissance de cette norme nous donne la possibilité d’en connaître ses limites techniques.
@@ -103,7 +103,7 @@ La toute première ligne du fichier désigne la norme ISO-10303 utilisée pour l
 **Section Header**
 
 <p>&nbsp;</p>
-![ifc_header.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_header.png)
+![ifc_header.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_header.png)
 <p>&nbsp;</p>
 
 Header (en français “en-tête”) contient les informations générales sur le fichier. On retrouve notamment la mention de ArchiCAD (logiciel de conception BIM) et même l’emplacement du fichier sur le disque dur local de la personne en charge de la conception. De plus, on retrouve la version de l’IFC utilisé: 2x3. Cette section se termine par la balise ENDSEC(”fin de section”).
@@ -111,14 +111,14 @@ Header (en français “en-tête”) contient les informations générales sur l
 **Section DATA**
 
 <p>&nbsp;</p>
-![ifc_data.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_data.png)
+![ifc_data.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_data.png)
 <p>&nbsp;</p>
 
 La section Data contient l’ensemble des données de la maqette numérique c’est-à-dire les objets, leur géométrie, les caractéristiques techniques, leur positionnement dans la structure du bâtiment, relations entre les objets… Chaque ligne commence par un indice sous la forme “#XX” suivie de la classe d’objet et enfin les attributs. Le numéro de l’objet permet à la fois de le rechercher dans la maquette, mais aussi de créer des renvois vers d’autres éléments identifiés par le numéro de l’autre objet. Une des fonctions de ces renvois est de lier les objets entre eux.
 
 Dans le format IFC, un objet ne correspond pas nécessairement à un éléments physique mais peut être une information, le nom d’une pièce, le module d’elasticité d’un matériau, la classe de résistance du béton, le degré coupe-feu… À titre d’exemple dans ce fichier:
 <p>&nbsp;</p>
-![ifc_data_2.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_data_2.png)
+![ifc_data_2.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_data_2.png)
 <p>&nbsp;</p>
 #8 précise les coordonées du point correspondant à l’origine du projet.
 
@@ -127,14 +127,14 @@ Dans le format IFC, un objet ne correspond pas nécessairement à un éléments 
 #283914 correspond à l’unité de volume à utiliser pour les volumes, ici le mètre cube.
 
 <p>&nbsp;</p>
-![ifc_cloison.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_cloison.png)
+![ifc_cloison.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_cloison.png)
 <p>&nbsp;</p>
 Si on prend le cas d’une cloison, l’élément #1506 représente un mur.
 Cette ligne (”encadrée en bleu) donne tout d’abord la classe de l’élément, il s’agit d’un mur et c’est donc IFCWALL. Les principales classes d’objets correspondant à des éléments physiques sont les suivantes:
 <p>&nbsp;</p>
 Pour illustrer de façon succincte le fonctionnement des relations entre éléments, prenons le cas d’une porte dans un mur.
 <p>&nbsp;</p>
-![ifc_door.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_door.png)
+![ifc_door.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_door.png)
 <p>&nbsp;</p>
 
 L’IFC utilisera entre autres les classes d’objets suivantes:
@@ -148,21 +148,21 @@ L’IFC utilisera entre autres les classes d’objets suivantes:
 
 Dans chaque cas, ces classes seront liaisonnées entre elles et renverront aussi vers d’autres classes qui indiqueront par exemple la position de la réservation ou ses dimensions. Maintenant que ces éléments seront liaisonnés, ils seront dépendants (ou contraints) les uns par rapport aux autres et si le mur se déplace, la fenêtre en fera de même. Idem si jamais on venait à supprimer le mur, la réservation et la porte le seraient aussi (mais l’inverse n’est pas vrai, l’IFC hiérarchie les objets).
 <p>&nbsp;</p>
-![ifc_hierarchy.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_hierarchy.png)
+![ifc_hierarchy.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_hierarchy.png)
 <p>&nbsp;</p>
 
 La ligne #1506 correspond au Mur de base, la chaîne de caractères suivante «3g6FEUGHj3dA$UC7dS91bn » correspond à son identifiant. Chaque objet de la maquette possèdant un identifiant unique GUID Globally Unique IDentifier (identifiant universel et unique). Cet identifiant restera toujours le même y compris en cas de modification du modèle 3D. Cette caractéristique est fondamentale car en cas de mise à jour de la maquette, le GUID permet à tous les logiciels exploitant l’IFC de savoir si un objet est nouveau ou s’il s’agit d’une modification d’un ancien objet. Tout ceci à condition que la personne ayant modifié la maquette ait bien effectué une transformation de l’objet existant et non une suppression/remplacement de cet objet.
 <p>&nbsp;</p>
-![ifc_1.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_1.png)
+![ifc_1.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_1.png)
 <p>&nbsp;</p>
 Pour le mur correspondant à l’objet #1506, nous trouvons le nom du type de mur indiqué dans le logiciel : « Cloison Paclostil». On notera également la présence de renvois vers les objets de #302379, #277586 qui représentent respectivement l’unité de dessin, les coordonnées du point de placement de l’objet (classe IFCLOCALPLACEMENT) et sa composition (classe IFCPRODUCTDEFINITIONSHAPE).
 <p>&nbsp;</p>
-![ifc_2.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_2.png)
+![ifc_2.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_2.png)
 <p>&nbsp;</p>
 
 #277586 Cette même définition renvoie également vers d’autres lignes (classe IFCSHAPEREPRESENTATION) qui désignent le mode de représentation d’un objet. Ces renvois se déclinent en un nombre très important de «sous-renvois» illustrant la notion fondamentale du BIM : l’intelligence du modèle par les liaisons entre les objets.
 <p>&nbsp;</p>
-![ifc_3.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_3.png)
+![ifc_3.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_3.png)
 <p>&nbsp;</p>
 
 Le contenu des maquettes numériques est organisé afin de pouvoir repérer où sont les éléments.
@@ -179,7 +179,7 @@ On désigne BCF par BIM Collaboration Format. C’est un format qui a été dév
 
 Le BCF permet de réaliser des annotations sur la maquette numérique. À la manière des commentaires visibles sur des documents provenants de logiciel de traitement de texte comme Word. On peut le schématiser comme un post-it que l’on va poser sur une maquette numérique afin de mettre en évidence une remarque sur un ou plusieurs éléments de celle-ci.
 <p>&nbsp;</p>
-![bcf.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/bcf.png)
+![bcf.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/bcf.png)
 <p>&nbsp;</p>
 _Source: BuildingSMart_
 <p>&nbsp;</p>
@@ -191,7 +191,7 @@ C’est donc un fichier XML contenues dans un dossier compressé d’extension b
 * Leurs numéros d’identifiant unique (GUID)
 * Des prises de vue de caméra afin de contextualiser l’annotation dans la maquette numérique
 <p>&nbsp;</p>
-![bcf_evebim.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/bcf_evebim.png)
+![bcf_evebim.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/bcf_evebim.png)
 <p>&nbsp;</p>
 _Exemple de BCF réalisé avec la visionneuse EveBIM sur la maquette olumpi_
 <p>&nbsp;</p>

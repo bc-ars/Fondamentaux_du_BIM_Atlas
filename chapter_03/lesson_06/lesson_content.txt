@@ -11,7 +11,7 @@
 <p>&nbsp;</p>
 La définition des niveaux de développement (LOD) peut être schématisé ci-dessous:
 <p>&nbsp;</p>
-![LOD.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_Projet/LOD.png)
+![LOD.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/LOD.png)
 <p>&nbsp;</p>
 _Les LODS pour une chaise de bureau (source: http://practicalbim.blogspot.com/)_
 
@@ -41,7 +41,7 @@ Les conventions BIM désignent avec précision le niveau de LOD attendu pour cha
 À l’instar d’autres documents essentiels dans un projet de construction comme le CCTP ou la DPGF les documents BIM d’un projet permettent de cadrer le pourquoi du processus BIM et les livrables associés.
 
 <p>&nbsp;</p>
-![documentation_BIM.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/documentation_BIM.png)
+![documentation_BIM.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/documentation_BIM.png)
 <p>&nbsp;</p>
 
 
@@ -62,7 +62,7 @@ Le BIM contient divers documents. Selon l'acteur et selon que l'on travaille sur
 
 Dans un projet de construction avec du BIM, la garantie de la qualité du processus BIM est une priorité. La Maîtrise d’ouvrage qui décide de travailler avec du BIM a des objectifs précis, en terme de qualité dans la réalisation mais également dans la vie du bâtiment après sa réalisation. Ces objectifs BIM sont ensuite décrits dans leurs étapes par usages BIM, qui engendreront les processus nécessaires à leurs réalisations.
 <p>&nbsp;</p>
-![usages_BIM.jpeg](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/usages_BIM.jpeg)
+![usages_BIM.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/usages_BIM.jpeg)
 <p>&nbsp;</p>
 
 Les usages BIM déclinent les objecrtifs et vont avoir des répercussions sur le contenu des maquettes numériques associées au projet.
