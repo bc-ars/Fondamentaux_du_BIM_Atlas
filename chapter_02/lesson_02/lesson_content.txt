@@ -27,46 +27,55 @@ Tout cela est très bien illustré par l'image ci-dessus. Comme dit en langue an
 
 La maquette numérique va se retrouver au centre des échanges durant le processus BIM. Chacun des acteurs aura une relation particulière avec celle-ci:
 <p>&nbsp;</p>
+
 ![acteurs_trad1.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad1.png)
 <p>&nbsp;</p>
 
 
 - Les géomètres ... ont pour mission le relevé des données et informations permettant notamment le géoréférencement du projet de la maquette numérique. Ils utilisent des outils d'acquisition tels que le télémètre laser et vont transmettre ces informations pour l'usage dans la maquette.
 <p>&nbsp;</p>
+
 ![acteurs_trad2.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad2.png)
 <p>&nbsp;</p>
 
 - Les architectes vont pouvoir retranscrire leur vision du projet grâce à leurs esquisses. Ils peuvent pour ce faire utiliser des logiciels de conception en BIM qui fourniront les premières informations géométriques sur les matériaux constituant le bâtiment.
 <p>&nbsp;</p>
+
 ![acteurs_trad3.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad3.png)
 <p>&nbsp;</p>
 
 - Les bureaux d'études vont étudier la faisabilité technique des propositions architecturales grâce aux logiciels propres à leur discipline (structure, acoustique, thermique...). Ces simulations vont peu à peu enrichir la précision de la maquette.
 <p>&nbsp;</p>
+
 ![acteurs_trad4.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad4.png "acteurs_trad4.png")
 <p>&nbsp;</p>
 - Les fabricants de matériaux accompagnent les bureaux d'études et architectes dans le choix des gammes de produits qui vont se retrouver dans les objets BIM. 
 <p>&nbsp;</p>
+
 ![acteurs_trad5.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad5.png)
 <p>&nbsp;</p>
 
 - Les pouvoirs publics imposent des règlementations tels que l'impact environnemental des produits de construction (sur la base de données INIES) ou le plan local d'urbanisme (PLU) dans chaque zone géographique.
 <p>&nbsp;</p>
+
 ![acteurs_trad6.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad6.png)
 <p>&nbsp;</p>
 - Les économistes de la construction vont établir des devis générés grâce aux objets BIM de la maquette numérique et renseigner sur le coût de la construction.
 <p>&nbsp;</p>
+
 ![acteurs_trad7.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad7.png)
 <p>&nbsp;</p>
 
 - Les entreprises générales et leurs sous-traitants vont prendre les informations nécessaires sur la maquette numérique pour la préciser au fur et à mesure de l'éxecution avec les matériaux bels et bien installés. La correction progressive et l'enrichissement de la maquette numérique mèneront alors vers l'établissement du dossier des ouvrages exécutés (DOE) qui sera une réflection de l'ouvrage tel que construit.
 <p>&nbsp;</p>
+
 ![acteurs_trad8.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad8.png)
-<p>&nbsp;</p> 
+<p>&nbsp;</p>
 
 - La maîtrise d'ouvrage publique ou privé va peu à peu voir se constituer sa maquette numérique qui pourra peut-être se transformer en jumeau numérique (comme un jumeau qui née peu de temps avant son ainé) et l'utiliser pour son exploitation et sa maintenance.
 
 <p>&nbsp;</p>
+
 ![acteurs_trad9.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad9.png)
 <p>&nbsp;</p>
 
