@@ -8,6 +8,10 @@ Un projet de construction fait intervenir des intervenants aux compétences mult
 On peut mettre en oeuvre un projet BIM avec différents logiciels qui ont chacun leur caractéristiques et leurs particularités propres.
 
 Ces logiciels vont intéragir avec des fichiers aux formats BIM particuliers qui peuvent être natifs (dépendant de l’éditeur du logiciel) ou alors au standard IFC (pouvant être ouvert par n’importe quel logiciel BIM). Nous avons vu que ces fichiers contiennent une grande quantité d’informations liée à la géométrie ou aux propriétés. Nous allons voir ensemble les types de logiciels que l’on rencontre lorsqu’on travaille en BIM.
+<p>&nbsp;</p>
+![logiciels_BIM.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/logiciels_BIM.png)
+<p>&nbsp;</p>
+
 
 Des logiciels BIM adaptés aux utilisations:
 
@@ -35,6 +39,8 @@ Ils peuvent être une GED (Gestion Electronique de documents), une armoire à pl
 
 -------------------------------
 <p>&nbsp;</p>
+![modelisation.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/modelisation.png)
+<p>&nbsp;</p>
 
 Ils permettent la création d'objets BIM: avec des informations géométriques et des métadonnées. C'est ce qui amène beaucoup de personnes à les considérer comme le BIM en lui-même: Qui n'a jamais entendu: "Oui, on fait du BIM parce que l'on travaille sur Revit" ? Un logiciel de modélisation ne couvre qu'un aspect nécessaire du BIM. Il existe des logiciels permettant la création de géométrie 3D tel que 3Ds Max mais qui ne sont pas des logiciels BIM.
 
@@ -49,6 +55,8 @@ Selon le type de projet et les besoins, on utilisera l'outil qui répond le mieu
 ## Logiciels de visualisation BIM.
 
 ---------------------------------------
+<p>&nbsp;</p>
+![visualisation.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/visualisation.png)
 <p>&nbsp;</p>
 
 Certains acteurs ont seulement des besoins de visualisation de maquette comme la Maitrise d'ouvrage, les conducteurs de travaux, artisans ou les autres acteurs lors qu'ils doivent visualiser une maquette qui n'est pas dans leur lot.
@@ -66,12 +74,15 @@ N'importe quel outil de modélisation peut être employé en mode visionneuse. M
 
 ---------------------------
 <p>&nbsp;</p>
+![analyse.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/analyse.png)
+<p>&nbsp;</p>
+
 
 Certains corps de métiers du bâtiment peuvent intéragir avec des maquettes BIM, mais ne permettent pas de modéliser ou concevoir des objets BIM. Il sont liés à des corps de métiers spécifiques:
 
 * Calcul de structures
 * Calcul thermiques
-* Outils de gtb, GMAO, gestion de patrimoine
+* Outils de GTB, GMAO, gestion de patrimoine
 * outils de fabrication
 * Outils de planning, levée de réserves
 * Visionneuses améliorées
@@ -84,6 +95,8 @@ Ces dernières inclus toutes les fonctionnalités d'une visionneuse mais permett
 
 --------------------------
 
+<p>&nbsp;</p>
+![plateforme_serveur.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/plateforme_serveur.png)
 <p>&nbsp;</p>
 
 La collaboration entre plusieurs acteurs entrainent la nécessité de centraliser l'information selon une arborescence, une hierarchie et des droits spécifiques. Il existe des plateforme collaborative permettant l'accès à des informations sécurisés et decentralisé d'un disque dur physique.
@@ -99,7 +112,12 @@ Les plus simples permettent de partager ensemble les maquettes BIM de manières 
 
 --------------------------
 
- Il est important de bien cerné les besoins de chacuns au cours du projet pour comprendre quels types de logiciels BIM on va utiliser. Le plus souvent on va retrouver les besoins suivants. Ils peuvent bien sûr dépendre des organisations d'entreprises avec des besoins de modélisation qui peuvent parfois être présents chez la MOA.
+ Il est important de bien cerné les besoins de chacuns au cours du projet pour comprendre quels types de logiciels BIM on va utiliser. On peut schématiser l'utilisation des logiciels en fonction du métier des contributeurs BIM par le schéma suivant:
+ <p>&nbsp;</p>
+![logiciels_acteurs.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/logiciels_acteurs.png)
+ <p>&nbsp;</p>
+
+C'est ce que l'on va le plus souvent retrouver. Il peut bien sûr y avoir des variations dépendant des organisations d'entreprises avec des besoins de modélisation qui peuvent parfois être présents chez la MOA.
  
  
 <p>&nbsp;</p>

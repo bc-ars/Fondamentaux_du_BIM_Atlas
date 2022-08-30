@@ -16,16 +16,17 @@ Les logiciels BIM permettent de sauvegarder dans un format dit natif (fotmat pro
 <p>&nbsp;</p>
 
 L’interopérabilité est défini par BuildingSmart comme « Capacité d’échanger par la présence d’un standard neutre et ouvert des données entre les différents « modèles » sans dépendre d’un acteur ou d’un outil en particulier ». L’interopérabilité est le point clé pour assurer la bonne conduite d’un projet BIM, car c’est grâce à une bonne interopérabilité que les échanges vont être réussis. Chaque acteur participant au projet de construction utilise son logiciel métier, le nombre de logiciels différents peut être important.
+<p>&nbsp;</p>
+![logiciels_differents.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/logiciels_differents.png)
+<p>&nbsp;</p>
 
-SCHEMA Logiciel BIM SG
-
-**Remarque**: Les niveaux de maturité sont liés à la coordination des acteurs et à la compatibilité des logiciels BIM entre eux. Le niveau 3 de maturité BIM vers lequel on essaie de tendre va de pair avec une interoperabilité BIM parfaite.
-
-La transition vers le BIM implique un changement radicale dans chaque strate de gestion de projet BTP. Chaque acteur doit maîtriser son coeur de métier mais également travailler dans un processus interopérable. Ce processus impolique de partager des données et les communiquer sous un format compatible avec les logiciels des acteurs du projet.
+La transition vers le BIM implique un changement radicale dans chaque strate de gestion de projet BTP. Chaque acteur doit maîtriser son coeur de métier mais également travailler dans un processus interopérable. Ce processus implique de partager des données et les communiquer sous un format compatible avec les logiciels des acteurs du projet.
 
 Nous avons vu la courbe de de McLeamy schématisant les coûts suivants les phases d’un projet.
+<p>&nbsp;</p>
+![McLeamy.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_Projet/McLeamy.png)
+<p>&nbsp;</p>
 
-IMAGE
 
 Une étude de la Fédération Française du Bâtiment FFB a estimé les coûts supplémentaires liées au fait de travailler avec des outils non interopérables.
 
@@ -72,8 +73,9 @@ On est en plein dans le concept d'interopérabilité car des logiciels d'éditeu
 Le bémol étant que seul les données normalisées sont transmises et donc certaines informations peuvent être perdus. Le format qui associe les données géométriques aux metadonnées est appelé l'IFC (Industry Foundation Classe) comme nous le verrons dans un prochain chapitre.
 
 Certaines nuances plus subtiles existent pour décrire un processus de travail en BIM.
-
-SCHEMA OPEN CLOSED BIM
+<p>&nbsp;</p>
+![open_closed_BIM.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/infrastructure_logiciel/open_closed_BIM.png)
+<p>&nbsp;</p>
 
 Une discipline travaillant avec le même logiciel est en little closed BIM, si elle travaille avec diférrents logiciels elle est en Little open BIM. Pour plusieurs disciplines travaillant avec le même logiciel on parle de Big Closed BIM, et avec différents logiciels on parle de Big Open BIM.
 

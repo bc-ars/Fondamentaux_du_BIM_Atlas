@@ -3,7 +3,14 @@
 ------------------------------
 <p>&nbsp;</p>
 
-A ECRIRE
+Dans l'acronyme BIM, la lettre la plus importante est le I qui représente l'Information ou l'Intelligence. Ces informations peuvent concerner les caractéristiques des matériaux ou leur interactions avec les autres objets BIM de la maquette. 
+<p>&nbsp;</p>
+
+![data_BIM.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_Projet/data_BIM.png)
+<p>&nbsp;</p>
+Au fur et à mesure que le projet se précise et répond aux contraintes temporelles, budgétaires et d'approcivionnement du projet. Ces informations seront de plus en plus précises.
+Voyons comment ces informations se définissent dans un projet BIM en fonction du niveau d'avancement du projet.
+
 <p>&nbsp;</p>
 
 ## Les Niveaux de développement, d’informations et de détails
@@ -13,9 +20,12 @@ A ECRIRE
 
 Les niveaux de développement (Level Of Development ou LOD en anglais) représentent un standard de l’industrie de la construction et de l’architecture. Chaque niveau définit une profondeur de développement et varie grandement dans les phases d’un projet de construction. Le concept central des niveaux développement se définit comme une manière de représenter l’information et la géométrie d’un objet BIM en rapport avec les objectifs et le stade du projet durant son cycle de vie.
 
+Prenons l'exemple d'un mobilier de bureau comme une chaise.
 La définition des niveaux de développement (LOD) peut être schématisé ci-dessous:
-
-SCHEMA LOD
+<p>&nbsp;</p>
+![LOD.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_Projet/LOD.png)
+<p>&nbsp;</p>
+_Les LODS pour une chaise de bureau (source: http://practicalbim.blogspot.com/)_
 
 **LOD = LoD + LoI**
 
@@ -25,7 +35,7 @@ Pour une même phase le niveau de détail graphique peut être différent selon 
 
 Comme on l’a vu le BIM présente les informations d’un projet de construction constitué par des objets BIM. Le concept de LOD a été développé dans le but d’avoir un référentiel commun de définition de ces objets. La détermination du LOD pour un objet BIM est spécifié dans la convention BIM. Elle permet d’éviter les malentendus dans ce que chacun des acteurs qui participe à la conception et de planifier le temps nécessaire à la modélisation des objets.
 
-Voyons ensemble les différences entre chacun des LODs
+Explorons ensemble les différences entre chacun des LODs. Les images ci-dessous proviennent du cahier pratique du moniteur n° 5763 du 9 Mai 2014. Nous les avons fait correspondre au LODs généralement observés en fonction de la phase de la Loi MOP (voir https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000693683/)
 
 <p>&nbsp;</p>
 
@@ -35,8 +45,10 @@ Voyons ensemble les différences entre chacun des LODs
 <p>&nbsp;</p>
 
 Le LOD 100 définit une modélisation réalisée manuellement, ou une modélisation symbolique du concept. Il peut être représenté dans le modèle avec quelques informations (prix par m2, débit d’air…). Ce n’est pas une représentation géométrique précise. La forme, taille, et localisation est approximative et els informations en résultant le sont autant.
+<p>&nbsp;</p>
 
-
+<p>&nbsp;</p>
+![LOD_100.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/LOD_100.png)
 <p>&nbsp;</p>
 
 ## LOD 200 - Design schématique
@@ -44,6 +56,9 @@ Le LOD 100 définit une modélisation réalisée manuellement, ou une modélisat
 ---------------------------
 
 Le LOD 200 représente une idée de design partiel avec une taille et localisation encore approximative. L’objet BIM est générique, ou alors assemblé à partir de quantités, localisation, forme et orientation approximative. Des informations non-graphiques peuvent aussi être contenues dans les objets. Ces derniers peuvent être reconnaissables à partir de leur forme et identifiables graphiquements. L’information provenant d’un objet au LOD 200 restent toujours considérée comme approximative.
+<p>&nbsp;</p>
+![LOD_200.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/LOD_200.png)
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -54,6 +69,9 @@ Le LOD 200 représente une idée de design partiel avec une taille et localisati
 <p>&nbsp;</p>
 
 Le LOD 300 est la représentation détaillée d’un composant du bâtiment en accord avec le dessin architectural et les dessins techniques, avec des dimensions, quantités, formes, orientations et une localisation exactes. L’objet BIM représente un système spécifique dont les dimentsions epeuvent être mesurés directement depuis la maquette numérique sans avoir besoin de se référer à une fiche produit ou à des plans de détails 2D. L’objet BIM est défini avec un point d’origine localisé avec précision par rapport à l’origine du projet.
+<p>&nbsp;</p>
+![LOD_300.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/LOD_300.png)
+<p>&nbsp;</p>
 
 
 <p>&nbsp;</p>
@@ -75,6 +93,9 @@ Un objet BIM au LOD 350 permet de déterminer de manière efficaces sa connectio
 <p>&nbsp;</p>
 
 Le LOD 400 fournit des informations sur un produit qui concernent sa fabrication et son assemblage. Les quantités, localisation, forme et orientation de l’élément sont directement mesurables depuis la maquette numérique sans avoir besoin de se référer à une fiche produit ou à des plans de détails 2D. Il est également précisé les spécificités liées à l’assemblage ou l’installation d’équipements.
+<p>&nbsp;</p>
+![LOD_400.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/LOD_400.png)
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
@@ -86,10 +107,15 @@ Le LOD 400 fournit des informations sur un produit qui concernent sa fabrication
 
 Le LOD 500 contient les quantités, localisation, forme et orientation de l’élément, les matériaux, le processus d’installation, la date d’installation, les commentaires des intervenants… On peut alors parler de véritable jumeau numérique.
 <p>&nbsp;</p>
+![LOD_500.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/LOD_500.png)
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
 
 ## En conclusion
 
 --------------------------
+<p>&nbsp;</p>
 
 Les conventions BIM désignent avec précision le niveau de LOD attendu pour chacune des phases. On retrouve généralement en annexe un tableau des niveau de développement de chacun des objets BIM qui constuituent la maquette numérique.
 

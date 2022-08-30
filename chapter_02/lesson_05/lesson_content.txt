@@ -23,12 +23,6 @@ La maquette numérique va se retrouver au centre des échanges durant le process
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-
-
 
 
 ### Le BIM amène de nouveaux métiers 
@@ -40,20 +34,12 @@ La maquette numérique va se retrouver au centre des échanges durant le process
 <p>&nbsp;</p>
 
 Avec le BIM, De nouveaux postes font leur apparition et certains sont redéfinis:
-
-IMAGE ORGANISATION BIM
-
+<p>&nbsp;</p>
+![metiers_BIM.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_Projet/metiers_BIM.png)
+<p>&nbsp;</p>
 Certains métiers ont plus attrait au management, à la coordination de projet ou à la production. 
 D'autres métiers sont tranverses et permettent la réalisation de tâches très techniques liés à l'automatisation de routine. Voyons ensemble quels sont ces différentes fonctions et leurs positionnement dans un projet BIM.
-
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
 
 
 
@@ -63,20 +49,15 @@ D'autres métiers sont tranverses et permettent la réalisation de tâches très
 -----------------------------------
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-
-
 On gardera bien en tête la courbe de McLeamy illustrant l’apport du BIM visé en comparaison d’un projet mené de manière traditionnel.
-
-COURBE MC LEAMY
+<p>&nbsp;</p>
+![McLeamy.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_Projet/McLeamy.png)
+<p>&nbsp;</p>
 
 À mesure de la réalisation du projet, il devient de plus en plus difficile de le modifier (courbe bleue) et les coûts de modifications (courbe rouge) augmente. Le BIM permet de déplacer le centre de gravité d’un projet traditionnel (courbe noire) afin de concentrer plus en amont les efforts de conception et production (courbe verte). Les impacts de modifications sur le projet deviennent alors moins critiques et les changements minimisés.
 
-*À vous de maintenant manipuler cette maquette de la visionneuse xeokit et vous rendre compte des possibilités offertes ! La vidéo peut vous aider à réaliser des manipulations simples*.
+*À modifier
 
-<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 

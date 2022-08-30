@@ -10,7 +10,7 @@ Dans le monde de la construction, on ne peut plus passer à coté du terme BIM. 
 
 Schématisons un peu les choses: Voyons le BIM comme un éléphant au milieu d'une pièce où tous les acteurs d'un projet sont rassemblés. Chacun des acteurs a une vision qui lui est propre, il semble même parfois qu'il a un bandeau devant les yeux pour son interlocuteur.
 <p>&nbsp;</p>
-![elephant_BIM.jpg](../../../../plateform-images/BIM_Enjeux_et_Fondements/elephant_BIM.jpg)
+![elephant_BIM.jpg](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_Projet/elephant_BIM.jpg)
 <p>&nbsp;</p>
 
 *La perception du BIM par les différents acteurs (source: https://www.thenbs.com/knowledge/bim-for-all-dummies-or-not)*

@@ -21,6 +21,11 @@ Pour les plus élaborés, la charte BIM peut spécifier la codification et le no
 Ces composants organiseront les maquettes numériques créées par les nombreux contributeurs selon les phases du projet.
 
 <p>&nbsp;</p>
+![charte_BIM.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/charte_BIM.png)
+<p>&nbsp;</p>
+_Page de garde de la charte BIM de la société du Grand Paris. La Charte est téléchargeable au lien suivant: https://media-mediatheque.societedugrandparis.fr/pm_1_144_144824-13yyyuvq7e.pdf_
+<p>&nbsp;</p>
+
 
 ## Le Cahier des Charges BIM : besoins spécifiques de la maîtrise d’ouvrage sur un projet particulier
 
@@ -38,7 +43,11 @@ Ce document est souvent la base de toute démarche BIM d’une maitrise d’ouvr
 Pour aider les donneurs d’ordre, le [Plan BIM 2022](https://plan-bim-2022.fr/) et la Direction de l’Habitat de l’Urbanisme et du Paysage (DHUP) ont lancé [Orélie](https://www.orelie-bim.fr/). Une plateforme interactive d’**aide à la rédaction des cahiers des charges BIM**, afin d’accompagner la transition numérique dans la filière de la construction.
 
 Elle a pour vocation d’aider les Maîtrises d’Ouvrages dans la rédaction des cahiers des charges BIM de leurs projets.
+<p>&nbsp;</p>
+![CC_BIM.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/CC_BIM.png)
 
+<p>&nbsp;</p>
+_Page de garde du Cahier des charges BIM de la société Immobilier 3F. Il est téléchargeable au lien suivant: https://www.groupe3f.fr/sites/default/files/Cahier%20des%20charges%20BIM%203F%20-%20Janvier%202021%20-%20Version%203.pdf
 
 <p>&nbsp;</p>
 
@@ -53,9 +62,12 @@ Dans la mesure où les domaines qu'il couvre ne sont pas actuellement couverts p
 
 La Convention BIM est une réponse aux spécifications BIM. Quelle que soit la manière dont ils ont contribué à la Maquette Numérique, tous les acteurs impliqués dans le projet doivent la respecter.
 
-Les tâches de la Convention BIM sont exécutées dans un ordre logique.
+Les tâches de la Convention BIM sont exécutées dans un ordre logique:
+<p>&nbsp;</p>
+![processus_convention.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/processus_convention.png)
+_Source : BuildingSmart MediaConstruct - La convention BIM en pratique_
 
-Voir document BuildingSmart
+<p>&nbsp;</p>
 
 La convention peut être mise en place à n'importe quel moment du cycle de vie de l'œuvre, mais il est préférable qu’elle le soit le plus tôt possible. Il est néanmoins nécessaire de séparer au minimum les phases de conception et de construction.
 
@@ -68,6 +80,7 @@ L'équipe de BIM Management modifie le processus après consultation de toutes l
 Tout acteur du projet ayant au une intéraction avec la maquette numérique est concerné par la convention BIM. Elle détermine l’environnement de travail, c’est à dire les modalités d’échanges, les droits, objectifs et missions de chacun.
 
 Présentée sous la fiorme d’un document éditable par un logiciel de traitement de texte, elle est constituée de divers chapitres. Elle est donc intégrée dans la chaine documentaire du managmeent de projet.
+
 
 <p>&nbsp;</p>
 
