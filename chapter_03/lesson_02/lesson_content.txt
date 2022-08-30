@@ -6,6 +6,7 @@
 Dans l'acronyme BIM, la lettre la plus importante est le I qui représente l'Information ou l'Intelligence. Ces informations peuvent concerner les caractéristiques des matériaux ou leur interactions avec les autres objets BIM de la maquette. 
 <p>&nbsp;</p>
 
+
 ![data_BIM.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/data_BIM.png)
 <p>&nbsp;</p>
 Au fur et à mesure que le projet se précise et répond aux contraintes temporelles, budgétaires et d'approcivionnement du projet. Ces informations seront de plus en plus précises.
@@ -23,6 +24,7 @@ Les niveaux de développement (Level Of Development ou LOD en anglais) représen
 Prenons l'exemple d'un mobilier de bureau comme une chaise.
 La définition des niveaux de développement (LOD) peut être schématisé ci-dessous:
 <p>&nbsp;</p>
+
 ![LOD.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/LOD.png)
 <p>&nbsp;</p>
 _Les LODS pour une chaise de bureau (source: http://practicalbim.blogspot.com/)_
@@ -48,6 +50,7 @@ Le LOD 100 définit une modélisation réalisée manuellement, ou une modélisat
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
+
 ![LOD_100.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/LOD_100.png)
 <p>&nbsp;</p>
 
@@ -57,6 +60,7 @@ Le LOD 100 définit une modélisation réalisée manuellement, ou une modélisat
 
 Le LOD 200 représente une idée de design partiel avec une taille et localisation encore approximative. L’objet BIM est générique, ou alors assemblé à partir de quantités, localisation, forme et orientation approximative. Des informations non-graphiques peuvent aussi être contenues dans les objets. Ces derniers peuvent être reconnaissables à partir de leur forme et identifiables graphiquements. L’information provenant d’un objet au LOD 200 restent toujours considérée comme approximative.
 <p>&nbsp;</p>
+
 ![LOD_200.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/LOD_200.png)
 <p>&nbsp;</p>
 
@@ -70,6 +74,7 @@ Le LOD 200 représente une idée de design partiel avec une taille et localisati
 
 Le LOD 300 est la représentation détaillée d’un composant du bâtiment en accord avec le dessin architectural et les dessins techniques, avec des dimensions, quantités, formes, orientations et une localisation exactes. L’objet BIM représente un système spécifique dont les dimentsions epeuvent être mesurés directement depuis la maquette numérique sans avoir besoin de se référer à une fiche produit ou à des plans de détails 2D. L’objet BIM est défini avec un point d’origine localisé avec précision par rapport à l’origine du projet.
 <p>&nbsp;</p>
+
 ![LOD_300.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/LOD_300.png)
 <p>&nbsp;</p>
 
@@ -94,6 +99,7 @@ Un objet BIM au LOD 350 permet de déterminer de manière efficaces sa connectio
 
 Le LOD 400 fournit des informations sur un produit qui concernent sa fabrication et son assemblage. Les quantités, localisation, forme et orientation de l’élément sont directement mesurables depuis la maquette numérique sans avoir besoin de se référer à une fiche produit ou à des plans de détails 2D. Il est également précisé les spécificités liées à l’assemblage ou l’installation d’équipements.
 <p>&nbsp;</p>
+
 ![LOD_400.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/LOD_400.png)
 <p>&nbsp;</p>
 
@@ -107,6 +113,7 @@ Le LOD 400 fournit des informations sur un produit qui concernent sa fabrication
 
 Le LOD 500 contient les quantités, localisation, forme et orientation de l’élément, les matériaux, le processus d’installation, la date d’installation, les commentaires des intervenants… On peut alors parler de véritable jumeau numérique.
 <p>&nbsp;</p>
+
 ![LOD_500.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/LOD_500.png)
 <p>&nbsp;</p>
 

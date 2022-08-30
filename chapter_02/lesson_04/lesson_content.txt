@@ -34,6 +34,7 @@ Chacun des facteurs susmentionnés, seul ou en combinaison, peut réduire l'effi
 
 <p>&nbsp;</p>
 
+
 ![interoperability.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/interoperability.jpeg)
 
 <p>&nbsp;</p>
@@ -59,6 +60,7 @@ Le cahier des chargs BIM et la convention BIM en font mention. Ce n'est qu'avec 
 
 La maquette numérique instaure un périmètre de travail strict et clair ainsi qu’une organisation des informations nouvelle. Cette digitalisation implique que chaque acteur y participe. L’outil BIM permet la compilation de TOUTES les données du projet de construction.
 <p>&nbsp;</p>
+
 ![bim-cycle.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/bim-cycle.jpeg)
 <p>&nbsp;</p>
 *Les informations des objets BIM couvrent l'ensemble du cycle de vie des matériaux* (source: https://biblus.accasoftware.com/)
@@ -79,6 +81,7 @@ La maquette numérique instaure un périmètre de travail strict et clair ainsi 
 
 La courbe dite de McLeamy illustre bien l’apport du BIM visé en comparaison d’un projet mené de manière traditionnel.
 <p>&nbsp;</p>
+
 ![McLeamy.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/McLeamy.png)
 <p>&nbsp;</p>
 

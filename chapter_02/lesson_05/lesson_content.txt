@@ -16,8 +16,6 @@ La maquette numérique va se retrouver au centre des échanges durant le process
 
 <p>&nbsp;</p>
 
-
-
  ![acteurs_trad10.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad10.png "acteurs_trad10.png")
 
 
@@ -35,6 +33,7 @@ La maquette numérique va se retrouver au centre des échanges durant le process
 
 Avec le BIM, De nouveaux postes font leur apparition et certains sont redéfinis:
 <p>&nbsp;</p>
+
 ![metiers_BIM.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/metiers_BIM.png)
 <p>&nbsp;</p>
 Certains métiers ont plus attrait au management, à la coordination de projet ou à la production. 
@@ -51,6 +50,7 @@ D'autres métiers sont tranverses et permettent la réalisation de tâches très
 <p>&nbsp;</p>
 On gardera bien en tête la courbe de McLeamy illustrant l’apport du BIM visé en comparaison d’un projet mené de manière traditionnel.
 <p>&nbsp;</p>
+
 ![McLeamy.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/McLeamy.png)
 <p>&nbsp;</p>
 

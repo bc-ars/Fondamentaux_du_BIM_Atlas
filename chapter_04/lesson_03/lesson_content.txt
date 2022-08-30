@@ -17,6 +17,7 @@ Les logiciels BIM permettent de sauvegarder dans un format dit natif (fotmat pro
 
 L’interopérabilité est défini par BuildingSmart comme « Capacité d’échanger par la présence d’un standard neutre et ouvert des données entre les différents « modèles » sans dépendre d’un acteur ou d’un outil en particulier ». L’interopérabilité est le point clé pour assurer la bonne conduite d’un projet BIM, car c’est grâce à une bonne interopérabilité que les échanges vont être réussis. Chaque acteur participant au projet de construction utilise son logiciel métier, le nombre de logiciels différents peut être important.
 <p>&nbsp;</p>
+
 ![logiciels_differents.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/logiciels_differents.png)
 <p>&nbsp;</p>
 
@@ -24,6 +25,7 @@ La transition vers le BIM implique un changement radicale dans chaque strate de 
 
 Nous avons vu la courbe de de McLeamy schématisant les coûts suivants les phases d’un projet.
 <p>&nbsp;</p>
+
 ![McLeamy.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/McLeamy.png)
 <p>&nbsp;</p>
 
@@ -65,6 +67,10 @@ Les fichiers dans ce format ne peuvent être lus que par des logiciels particuli
 <p>&nbsp;</p>
 
 L’openBIM signifie de travailler avec le BIM à travers des logiciels, processus et standards ouverts. Le but est d’augmenter l’intégration et l’efficacité de tous les acteurs participant au projet pour faciliter les échanges d’informations.
+<p>&nbsp;</p>
+
+![ifc_acteurs.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_acteurs.png)
+<p>&nbsp;</p>
 
 Si l’on devait faire une analogie, imaginons qu’une équipe doivent écrire un rapport sur un sujet quelqonque. C’est comme si tout le monde écrivait sa partie du rapport sur un logiciel de traitement de texte (type Word) pour ensuite l’enregistrer et l’envoyer au format PDF aux autres membres de l’équipe qui pourraient l’ouvrir même sans logiciel de traitement de texte.
 
@@ -74,6 +80,7 @@ Le bémol étant que seul les données normalisées sont transmises et donc cert
 
 Certaines nuances plus subtiles existent pour décrire un processus de travail en BIM.
 <p>&nbsp;</p>
+
 ![open_closed_BIM.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/open_closed_BIM.png)
 <p>&nbsp;</p>
 

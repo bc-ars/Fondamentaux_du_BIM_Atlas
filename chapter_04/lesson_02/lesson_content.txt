@@ -9,6 +9,7 @@ On peut mettre en oeuvre un projet BIM avec différents logiciels qui ont chacun
 
 Ces logiciels vont intéragir avec des fichiers aux formats BIM particuliers qui peuvent être natifs (dépendant de l’éditeur du logiciel) ou alors au standard IFC (pouvant être ouvert par n’importe quel logiciel BIM). Nous avons vu que ces fichiers contiennent une grande quantité d’informations liée à la géométrie ou aux propriétés. Nous allons voir ensemble les types de logiciels que l’on rencontre lorsqu’on travaille en BIM.
 <p>&nbsp;</p>
+
 ![logiciels_BIM.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/logiciels_BIM.png)
 <p>&nbsp;</p>
 
@@ -17,28 +18,30 @@ Des logiciels BIM adaptés aux utilisations:
 
 On peut définir 4 types de logiciels BIM:
 
-Logiciels de production ou de modélisation BIM:
+
+✍️ Logiciels de production ou de modélisation BIM:
 
 Ils peuvent avoir une spécialité selon le domaine et la phase du projet (conception, execution, production) et permettent de créer des géométries 3D enrichies de métadonnées.
 
-Logiciels de Visualisation de Maquette BIM:
+👁️ Logiciels de Visualisation de Maquette BIM:
 
 Ils permettent de visualiser des géométries et/ou des informations sur une ou plusieurs maquettes BIM
 
-logiciels d'analyse de maquette BIM:
+👷👷‍♀️ logiciels d'analyse de maquette BIM:
 
 Ils peuvent avoir des fonctionnalités particulières, par exemple avec la liaison entre la maquette numérique et le planning, permettre de voir les incohérences entre des maquettes de deux lots différents...
 
-Plateformes et serveurs BIM:
+💻 Plateformes et serveurs BIM:
 
 Ils peuvent être une GED (Gestion Electronique de documents), une armoire à plans ou à maquette
 
 <p>&nbsp;</p>
 
-## Logiciels de modélisation BIM.
+## ✍️ Logiciels de modélisation BIM.
 
 -------------------------------
 <p>&nbsp;</p>
+
 ![modelisation.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/modelisation.png)
 <p>&nbsp;</p>
 
@@ -52,10 +55,11 @@ Selon le type de projet et les besoins, on utilisera l'outil qui répond le mieu
 
 <p>&nbsp;</p>
 
-## Logiciels de visualisation BIM.
+## 👁️ Logiciels de visualisation BIM.
 
 ---------------------------------------
 <p>&nbsp;</p>
+
 ![visualisation.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/visualisation.png)
 <p>&nbsp;</p>
 
@@ -70,10 +74,11 @@ N'importe quel outil de modélisation peut être employé en mode visionneuse. M
 
 <p>&nbsp;</p>
 
-## Logiciels d'analyse de maquettes BIM.
+## 👷👷‍ Logiciels d'analyse de maquettes BIM.
 
 ---------------------------
 <p>&nbsp;</p>
+
 ![analyse.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/analyse.png)
 <p>&nbsp;</p>
 
@@ -91,11 +96,12 @@ Ces dernières inclus toutes les fonctionnalités d'une visionneuse mais permett
 
 <p>&nbsp;</p>
 
-## Plateformes et serveurs BIM.
+## 💻 Plateformes et serveurs BIM.
 
 --------------------------
 
 <p>&nbsp;</p>
+
 ![plateforme_serveur.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/plateforme_serveur.png)
 <p>&nbsp;</p>
 
@@ -114,6 +120,7 @@ Les plus simples permettent de partager ensemble les maquettes BIM de manières 
 
  Il est important de bien cerné les besoins de chacuns au cours du projet pour comprendre quels types de logiciels BIM on va utiliser. On peut schématiser l'utilisation des logiciels en fonction du métier des contributeurs BIM par le schéma suivant:
  <p>&nbsp;</p>
+ 
 ![logiciels_acteurs.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/logiciels_acteurs.png)
  <p>&nbsp;</p>
 
