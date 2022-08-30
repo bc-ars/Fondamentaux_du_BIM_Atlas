@@ -49,7 +49,7 @@ Elle a pour vocation d’aider les Maîtrises d’Ouvrages dans la rédaction de
 ![CC_BIM.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/CC_BIM.png)
 
 <p>&nbsp;</p>
-_Page de garde du Cahier des charges BIM de la société Immobilier 3F. Il est téléchargeable au lien suivant: https://www.groupe3f.fr/sites/default/files/Cahier%20des%20charges%20BIM%203F%20-%20Janvier%202021%20-%20Version%203.pdf
+_Page de garde du Cahier des charges BIM de la société Immobilier 3F. Il est téléchargeable au lien suivant: https://www.groupe3f.fr/sites/default/files/Cahier%20des%20charges%20BIM%203F%20-%20Janvier%202021%20-%20Version%203.pdf_
 
 <p>&nbsp;</p>
 

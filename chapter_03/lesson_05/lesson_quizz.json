@@ -17,7 +17,7 @@
     },
     {
       "content": "Les Usages BIM permettent la définition:",
-      "explanation": "On est encore loin de ce niveau de maturité, pour plusieurs raisons: conflits entre les logiciels BIM, problèmes de serveurs (la blockchain pourra-t-elle régler le problème ? ), format IFC....",
+      "explanation": " C’est une explication de processus intégrant des pratiques BIM, c’est-à-dire la description d’un processus concret, tel qu’il sera mis en oeuvre sur un projet. Cela permet de décrire factuellement les usages voulus des maquettes numériques, les interactions des différents acteurs avec cette base de données, pour des actions métiers précises allant de la production d’images jusqu’à l’exploitation de bâtiment.",
       "answers": [
         {
           "content": "des acteurs du projet ",

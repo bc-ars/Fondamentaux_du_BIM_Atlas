@@ -54,9 +54,9 @@ Le BIM, utilisé isolément ne pourra pas résoudre ces problèmes. Les procédu
 Le BIM nécessite un travail d'équipe collaboratif entre toutes les parties prenantes. Le flux de travail simplifié de la structure du bâtiment illustré à la figure 1 illustre les interactions entre les rôles de l'architecte, de l'ingénieur en structure et de l'ingénieur des services du bâtiment.
 
 Le flux de travail ne fonctionnera pas correctement si l'une des parties est absente. Deux éléments essentiels sont nécessaires au processus BIM : 
-• Les informations que chaque participant doit fournir doivent être clairement indiquées. Les exigences en matière d'informations sur les échanges incluent celles-ci.
-• Les participants doivent exprimer (et approuver) leur plan pour fournir l'information selon les besoins. 
-Le cahier des chargs BIM et la convention BIM en font mention. Ce n'est qu'avec des protocoles d'échange d'informations, des normes pour les livrables et des procédures en place pour vérifier le travail de chacun que le BIM pourra permettre d’augmenter l'efficacité de la gestion d’un projet et réduire les erreurs. Ce processus ne modifient pas radicalement les savoir-faire de chacun des acteurs.
+- Les informations que chaque participant doit fournir doivent être clairement indiquées. Les exigences en matière d'informations sur les échanges incluent celles-ci.
+- Les participants doivent exprimer (et approuver) leur plan pour fournir l'information selon les besoins. 
+Le cahier des chargès BIM et la convention BIM en font mention. Ce n'est qu'avec des protocoles d'échange d'informations, des normes pour les livrables et des procédures en place pour vérifier le travail de chacun que le BIM pourra permettre d’augmenter l'efficacité de la gestion d’un projet et réduire les erreurs. Ce processus ne modifient pas radicalement les savoir-faire de chacun des acteurs.
 
 La maquette numérique instaure un périmètre de travail strict et clair ainsi qu’une organisation des informations nouvelle. Cette digitalisation implique que chaque acteur y participe. L’outil BIM permet la compilation de TOUTES les données du projet de construction.
 <p>&nbsp;</p>

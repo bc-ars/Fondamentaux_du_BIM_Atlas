@@ -38,7 +38,7 @@ Ces usages sont eux-mêmes inspirés de "Uses of BIM from the Computer Integrate
 <p>&nbsp;</p>
 
 
-## La caractérisation d'un usage BIM
+## Usage BIM: buts, caractéristiques et attributs
 
 -------------------------------
 <p>&nbsp;</p>
