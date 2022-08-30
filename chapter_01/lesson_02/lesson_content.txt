@@ -184,7 +184,7 @@ Avec le BIM, les objets deviennent intelligents avec une idée final d'élément
 
 Nous entrons dans un nouveau paradigme avec le BIM. La conception devient orientée objet et va nous permettre de retranscrire plus fidèlement la vision des architectes et des ingénieurs. 
 
-***Revoyez ci-contre la vidéo historique de présentation du logicel Sketchpad en 1963.***
+***📺 Revoyez ci-contre la vidéo historique de présentation du logicel Sketchpad en 1963. ➡️***
 
 <p>&nbsp;</p>
 

@@ -72,5 +72,4 @@ On est encore loin de ce niveau de maturité, pour plusieurs raisons: conflits e
 
 Avec ces niveaux de maturités, on comprend bien **l’importance de la collaboration** au sein d’une démarche BIM et que, sans elle, les promesses du BIM ne pourront être atteintes. Le passage d’un niveau à l’autre n’est pas sans efforts mais nécessaire. Les différents niveaux sont illustrés par la société Arcadis ci-dessus pour une meilleure compréhension.
 
-***N'hésitez pas à consulter cette vidéo de Tekla, un éditeur de logiciels BIM, qui résume ces niveaux de maturité.***
-
+***📺 N'hésitez pas à consulter cette vidéo de Tekla, un éditeur de logiciels BIM, qui résume ces niveaux de maturité. ➡️***
