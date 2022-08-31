@@ -73,9 +73,11 @@ Un phasage 4D réaliste permet aide à simuler les interventions de chacune des 
 
 _Un exemple de détections de collosions entre objets BIM réalisé avec le logiciel Navisworks_
 <p>&nbsp;</p>
+
 ![dimensions_BIM11.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM11.png)
 
 <p>&nbsp;</p>
+
 _Le rapport de détection de clashs associé_
 
 
