@@ -96,9 +96,10 @@ L’idéal serait bien sûr de travailler en Big Open BIM sur n’importe quel p
 ---------------------------
 <p>&nbsp;</p>
 L’idéal serait bien sûr de travailler en Big Open BIM sur n’importe quel projet BIM. Le marché et les acteurs n'ont pas encore décidé quel sera le processus dominant dans le futur mais tout logiciel BIM doit offrir la possibilité d'exporter au format IFC.
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
-
+<p>&nbsp;</p>
+***📺  La vidéo ci-contre réalisée par BuildingSMART France résume les notions d'interopérabilité et d'OpenBIM  l. ➡️***
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 

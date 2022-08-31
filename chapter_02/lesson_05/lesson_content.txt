@@ -16,7 +16,7 @@ La maquette numérique va se retrouver au centre des échanges durant le process
 
 <p>&nbsp;</p>
 
- ![acteurs_trad10.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad10.png "acteurs_trad10.png")
+ ![acteurs_trad10.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad12.png "acteurs_trad12.png")
 
 
 <p>&nbsp;</p>
@@ -56,7 +56,8 @@ On gardera bien en tête la courbe de McLeamy illustrant l’apport du BIM visé
 
 À mesure de la réalisation du projet, il devient de plus en plus difficile de le modifier (courbe bleue) et les coûts de modifications (courbe rouge) augmente. Le BIM permet de déplacer le centre de gravité d’un projet traditionnel (courbe noire) afin de concentrer plus en amont les efforts de conception et production (courbe verte). Les impacts de modifications sur le projet deviennent alors moins critiques et les changements minimisés.
 
-*À modifier
+<p>&nbsp;</p>
+***📺  Vous rappelez-vous de l'émission C'est pas sorcier 😊 ? L'équipe de Jamy a réalisé une vidéo très instructive concernant le BIM sur le chantier.  ➡️***
 
 
 <p>&nbsp;</p>

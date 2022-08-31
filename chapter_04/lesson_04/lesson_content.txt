@@ -223,9 +223,10 @@ _Exemple de BCF réalisé avec la visionneuse EveBIM sur la maquette olumpi_
 ---------------------------
 <p>&nbsp;</p>
 L'IFC conserve numériquement les informations d’un projet durant le cycle de vie de l'édifice. Avec le BCF, ils constituent la pierre angulaire de  l’OpenBIM, garantissant un processus BIM interopérable, et la possibilité d'une collaboration avec tous les contributeurs BIM. Ces formats ouverts sont aménés à évoluer dans le temps pour se rapprocher toujours plus de la réalité du terrain et la constitution d'un jumeau numérique pérenne.
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
-
+<p>&nbsp;</p>
+***📺  La chaîne Youtube "BIM me up" nous définit dans cette vidéo l'IFC et son utilisation dans le logiciel d'Autodesk Revit (vidéo en anglais sous-titrée en français). ➡️***
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 

@@ -127,6 +127,9 @@ Le LOD 500 contient les quantités, localisation, forme et orientation de l’é
 Les conventions BIM désignent avec précision le niveau de LOD attendu pour chacune des phases. On retrouve généralement en annexe un tableau des niveau de développement de chacun des objets BIM qui constuituent la maquette numérique.
 
 <p>&nbsp;</p>
+***📺  La très intéressante chaîne Youtube "Balkan Architect" nous explique les LODs en se basant sur le document du BIM Forum explicitant les LODs en fonction des types d'objets BIM. Ce document se nomme "LOD Specification Guide", il est téléchargeable sur: https://bimforum.org/ (vidéo en anglais avec sous-titrage français) ➡️***
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
