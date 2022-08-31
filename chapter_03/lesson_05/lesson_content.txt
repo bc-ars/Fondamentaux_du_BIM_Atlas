@@ -29,6 +29,7 @@ On peut s’appuyer sur les usages BIM établies, par exemple par BIMmetric ou B
 <p>&nbsp;</p>
 
 ![usages_BIM.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/usages_BIM.jpeg)
+
 <p>&nbsp;</p>
 
 BuildingSmart a établit 21 usages BIM génériques dans les projets qui sont utiles dans la définition de la démarche BIM spécifique à une opération.
@@ -86,7 +87,9 @@ Les Usages BIM répondent bien aux objectifs BIM dont ils sont la mise en applic
 
 
 ******
+
 ***Nos confrères Canadiens du Collège Canadien des Sciences & Technologies nous expliquent les concepts d'Objectifs BIM et d'Usages BIM. ➡️***
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

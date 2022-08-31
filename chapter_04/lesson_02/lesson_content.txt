@@ -126,8 +126,12 @@ Les plus simples permettent de partager ensemble les maquettes BIM de manières 
 
 C'est ce que l'on va le plus souvent retrouver. Il peut bien sûr y avoir des variations dépendant des organisations d'entreprises avec des besoins de modélisation qui peuvent parfois être présents chez la MOA.
  
- 
+
 <p>&nbsp;</p>
+
+******
+
+
 ***📺  Le CSTC (Centre Scientifique et Technique de la Construction) de Belgique nous résume dans cette vidéo les différents types de logiciels BIM. ➡️***
 <p>&nbsp;</p>
 <p>&nbsp;</p>

@@ -17,6 +17,9 @@ Ce chapitre est le dernier de notre cours sur les Fondamenataux du BIM !
 Nous terminerons ce cours avec une ouverture sur les possibilités du BIM et son développement futur en France.
 
 <p>&nbsp;</p>
+
+******
+
 ***📺  Après un rappel sur le concept du BIM, Autodesk nous détaille dans cette vidéo les innovations apportés par les logiciels de modélisation BIM (vidéo en anglais sous-titrée en français). ➡️***
 <p>&nbsp;</p>
 <p>&nbsp;</p>

@@ -22,4 +22,8 @@ Nous verrons dans ce chapitre comment les acteurs s'approprient le BIM:
 
 Le BIM prend tout son sens si chacun des acteurs partagent une vision commune autour de la collaboration et de la fiabilité des données. Voyons comment tout cela s'articule !
 
+<p>&nbsp;</p>
+
+******
+
 ***📺 Bouygues Construction a réalisé une vidéo d'explication du BIM  ➡️***

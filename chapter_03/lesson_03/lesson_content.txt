@@ -109,6 +109,9 @@ Le protocole décrit les procédures à suivre afin d'assurer l'exactitude des m
 Le BIM contient divers documents. Selon l'acteur et selon que l'on travaille sur un projet spécifique ou sur uen typologie de projets, chacun de ces documents sera pertinent à son niveau. Quoi qu'il en soit, le but de chaque document est d'établir le processus de collaboration entre les parties en décrivant leurs missions respectives et leurs techniques de modélisation et d'échange d'idées.
 
 <p>&nbsp;</p>
+
+******
+
 ***📺  Nos confrères de BIM Flix résument dans cette vidéo les différentrs types de documents BIM. ➡️***
 <p>&nbsp;</p>
 <p>&nbsp;</p>

@@ -106,6 +106,10 @@ L'objectif n'est pas de demain connaître toutes les données d'une ville en tem
 Néanmoins, une Smart City raisonnée et pensée en amont par les pouvois publics sera un outil formidable pour l'évolution des villes et notre impact sur l'environnement. 
 
 Le digital et son implémentation au travers du 🏗️ BIM, 🏙️ CIM & du 🌳 LIM sera l'outil indispensable dans cette évolution. 
+<p>&nbsp;</p>
+
+******
+
 
 ***📺 La vidéo du CSTB ci-contre illustre un début d'usage du CIM dans un quartier de Bordeaux. ➡️***
 <p>&nbsp;</p>

@@ -86,7 +86,11 @@ La courbe dite de McLeamy illustre bien l’apport du BIM visé en comparaison d
 <p>&nbsp;</p>
 
 À mesure de la réalisation du projet, il devient de plus en plus difficile de le modifier (courbe bleue) et les coûts de modifications (courbe rouge) augmente. Le BIM permet de déplacer le centre de gravité d’un projet traditionnel (courbe noire) afin de concentrer plus en amont les efforts de conception et production (courbe verte). Les impacts de modifications sur le projet deviennent alors moins critiques et les changements minimisés.
+
 <p>&nbsp;</p>
+
+******
+
 ***📺  Autodesk s'est associée au cabinet Art Graphique & Patrimoine AGP pour la rénovation de Notre Dame. Le secteur du BIM qui va numériser des monuments historiques s'appelle le HBIM (Heritage BIM) ➡️***
 
 <p>&nbsp;</p>

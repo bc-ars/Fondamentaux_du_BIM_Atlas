@@ -75,6 +75,11 @@ La maquette numérique est la partie la plus tangible du BIM. On est passé du d
     height: 500px;
 "></iframe>
 
+<p>&nbsp;</p>
+
+******
+
+
 ***📺  À vous de maintenant manipuler cette maquette de la visionneuse xeokit et vous rendre compte des possibilités offertes ! La vidéo peut vous aider à réaliser des manipulations simples ➡️***
 
 <p>&nbsp;</p>

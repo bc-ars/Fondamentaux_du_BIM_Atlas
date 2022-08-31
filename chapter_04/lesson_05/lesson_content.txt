@@ -70,6 +70,9 @@ Le BCF (BIM COLLABORATION FORMAT) permet de réaliser des annotations sur la maq
 À l’instar de l’IFC, c’est un format ouvert pour tous les logiciels BIM. Il trouve son utilité sur les plateformes collaboratives, les visionneuses BIM et les logiciels d’analyse BIM où il permet à un utilisateur ne participant directement à la conception de noter ses remarques.
 
 <p>&nbsp;</p>
+
+******
+
 ***📺  Pour aller plus loin, explorons avec l'architecte Stanislas Chaillou les possibilités qu'offrent l'Intelligence Artificielle dans le métier de l'Architecte grâce au BIM et au Generative Design. ➡️***
 <p>&nbsp;</p>
 <p>&nbsp;</p>
