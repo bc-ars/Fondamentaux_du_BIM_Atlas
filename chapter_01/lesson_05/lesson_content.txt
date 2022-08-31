@@ -16,7 +16,7 @@ Une maquette numérique correctement renseigné va permettre d’accroitre la co
 
 Les maquettes numériques sont développés dans le but de renseigner toutes les données essentielles à l’éxécution et la vie d’un projet de constrcution. Pour illustrer les différents paramètres d’une maquette BIM, l’industrie a introduit la notion de dimensions. En fonction des besoins, nous introduisons ou non une dimension !
 
-![BIM Dimensions.gif](../../../../plateform-images/BIM_Enjeux_et_Fondements/dimensions_BIM/BIM Dimensions.gif)
+![BIM Dimensions.gif](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/dimensions_BIM/BIM Dimensions.gif)
 
 <p>&nbsp;</p>
 
@@ -36,7 +36,7 @@ Les dimensions BIM représentent les informations additionnels en lien avec la r
 
 Observons plus en détail chacune de ces dimensions.
 
-![dimensions_BIM1.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM1.png)
+![dimensions_BIM1.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM1.png)
 
 <p>&nbsp;</p>
 
@@ -44,13 +44,13 @@ Observons plus en détail chacune de ces dimensions.
 
 ---------------------------------------
 
-![dimensions_BIM2.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM2.png)
+![dimensions_BIM2.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM2.png)
 
 Le BIM 3D est la représentation tridimensionelle virtuelle d’un bâtiment dans un environnement commun de donnée (en anglais CDE: Common data environment), représentation qui permet une visualisation claire du projet. La 3D offre la possibilité aux acteurs d’identifier plus aisément les erreurs de conception et de mise en oeuvre qui, si elles ne sont pas détectées avant la réalisation conduisent à des modifications coûteuses.
 
 Les équipes pluridisciplinaires d’un projet ont la possibilité d’accéder à une source fiable unique pour optimiser, coordoner et éviter toutes collisions des modèles BIM 3D. Les acteurs disposent d’un outil d’aide à la décision qui incorporent leurs remarques via des annotations et qui évoluent en même temps que le projet.
 
-![dimensions_BIM8.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM8.png)
+![dimensions_BIM8.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM8.png)
 
 
 <p>&nbsp;</p>
@@ -61,7 +61,7 @@ Les équipes pluridisciplinaires d’un projet ont la possibilité d’accéder 
 <p>&nbsp;</p>
 
 
-![dimensions_BIM3.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM3.png)
+![dimensions_BIM3.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM3.png)
 <p>&nbsp;</p>
 
 La dimension du temps permet d’envisager la planification et l’ordonnancement des tâches via la maquette numérique. Quand on parle de 4D on parle d’une 3D qui prend en compte la durée et l’évolution du projet. La planification et le phasage 4D permettent aux différents intervenants d’avoir une vision globale de l’enchainemeent des tâches prenant en compte les travaux de fondations, de mise en oeuvre, d’installation, d’excavations, de coulage, de coffrage, de séchage…
@@ -69,11 +69,11 @@ La dimension du temps permet d’envisager la planification et l’ordonnancemen
 Un phasage 4D réaliste permet aide à simuler les interventions de chacune des équipes pour la livraison d’un projet sans aléas et clashs et respectant le planning initial.
 <p>&nbsp;</p>
 
-![dimensions_BIM9.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM9.png)
+![dimensions_BIM9.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM9.png)
 
 _Un exemple de détections de collosions entre objets BIM réalisé avec le logiciel Navisworks_
 <p>&nbsp;</p>
-![dimensions_BIM11.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM11.png)
+![dimensions_BIM11.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM11.png)
 
 <p>&nbsp;</p>
 _Le rapport de détection de clashs associé_
@@ -87,7 +87,7 @@ _Le rapport de détection de clashs associé_
 
 <p>&nbsp;</p>
 
-![dimensions_BIM4.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM4.png)
+![dimensions_BIM4.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM4.png)
 
 Les données budgétaires et l’analyse des coûts sont importantes dans tous projets de construction. Après la visuatlisation 3D et la planification, la 5ème dimension est celle qui concerne le budget du projet. La 5D trace le coût de chacun des matériaux qui constituent le projet et le coût total du bâtiment. Elle va établir une prédiction plus précise du budget requis selon les presciptions du projet,ses altérations et sa mise en oeuvre. La 5D évolue également en fontion des modificatiosn du proejt et des objets BIM.
 
@@ -99,7 +99,7 @@ Les données budgétaires et l’analyse des coûts sont importantes dans tous p
 --------------------------
 <p>&nbsp;</p>
 
-![dimensions_BIM5.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM5.png)
+![dimensions_BIM5.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM5.png)
 <p>&nbsp;</p>
 
 La 6D correspond à une dimension qui a trait à l’analyse des consommations énergétiques d’un bâtiment et de son éfficacité énergétique. La 6D instaure un lien avec les informations contenus dans les matériaux qui concernent l’impact environnemental et l’analyse énergétique. Les acteurs du projet et le bénéficiaire final acquiert une meilleure connaissance de la performance énergétique selon les matériaux utilisés, en lien constant avec le phasage des travaux, le budget et les choix architecturaux.
@@ -112,7 +112,7 @@ La 6D correspond à une dimension qui a trait à l’analyse des consommations �
 --------------------------
 
 <p>&nbsp;</p>
-![dimensions_BIM6.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM6.png)
+![dimensions_BIM6.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM6.png)
 <p>&nbsp;</p>
 
 LA 7D introduit les données relatives à la mainteance et l’exploitation du bâtiment. La 7D optimise les opérations de maintenance et l’occupation du bâtiment durant son cycle de vie. Travailler en 7D requiert de renseigner les préconisations techniques des équiepements en fonction de leurs dates de garantie, leurs mode d’emploi, leurs procédures et notices d’entretien et de remplacement… Le gestionnaire du bâtiment va pouvoir optimiser et dimensionner ces équiepzs de maintenance en fonction de toutes ces informations.
@@ -135,7 +135,7 @@ En 2022, le gouvernement français a lancé la plateforme Trackdéchets. Trackd�
 Tous les acteurs présents sur une chaîne de traçabilité sont concernés par Trackdéchets, la mission de cette plateforme est notamment de garantir la circulation de l’information de traçabilité d’un bout à l’autre de la chaîne.
 <p>&nbsp;</p>
 
-![dimensions_BIM10.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM10.png "dimensions_BIM10.png")
+![dimensions_BIM10.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM10.png "dimensions_BIM10.png")
 <p>&nbsp;</p>
 
 Va-t-on voir pouvoir interfacer cette plateforme avec des maquettes numériques ? C'est le genre de développement qui sera rendu un jour possible avec une massification de la digitalisation du BTP.
@@ -146,7 +146,7 @@ Va-t-on voir pouvoir interfacer cette plateforme avec des maquettes numériques 
 La sécurité des compagnons et autres intervenants est essentielle dans tout chantier de construction. Le BIM peut être un outil pour le management de chantier afin de prendre des mesures préventives pour éviter au maximum tout accident durant l’éxécution des travaux. La visualisation du projet en lien avec son phasage dans en réalité virtuelle ou augmentée facilite l’analyse des risques et les plans de préventions d’incident.
 <p>&nbsp;</p>
 
-![dimensions_BIM12.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM12.png)
+![dimensions_BIM12.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM12.png)
 <p>&nbsp;</p>
 
 
@@ -154,7 +154,7 @@ La sécurité des compagnons et autres intervenants est essentielle dans tout ch
 
 L’industrialisation du processus de construction est en plein développement et le BIM en est le plus grand vecteur. On observe de plus en plus de matériaux préfabriqués en dehors du chantier et livrés pour être prêts à être monté. Les données obtenues grâce aux retours d’expériences de proejt en BIM sont une source inestimables permettant d’optimiser le kitting et l’acheminement d’un projet. Plusieurs startups commencent à émerger sur ce créneau. Elles allient la conception avec le BIM à une production une usine s’appuyant directement sur les objets modélisés.
 <p>&nbsp;</p>
-![dimensions_BIM13.png](../../../../plateform-images/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM13.png)
+![dimensions_BIM13.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM13.png)
 <p>&nbsp;</p>
 
 L’image ci-dessus provient de la startup Vestack. Vestack s’appuie sur une solution de conception digitale, basée sur le logiciel de modélisation Revit. La maquette numérique leur permet de réaliser des analyses structurelles, thermiques, le permis de construire et les instructions de production en usine.
