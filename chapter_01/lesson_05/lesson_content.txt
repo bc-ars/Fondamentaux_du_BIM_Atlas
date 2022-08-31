@@ -16,7 +16,7 @@ Une maquette numérique correctement renseigné va permettre d’accroitre la co
 
 Les maquettes numériques sont développés dans le but de renseigner toutes les données essentielles à l’éxécution et la vie d’un projet de constrcution. Pour illustrer les différents paramètres d’une maquette BIM, l’industrie a introduit la notion de dimensions. En fonction des besoins, nous introduisons ou non une dimension !
 
-![BIM Dimensions.gif](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/dimensions_BIM/BIM Dimensions.gif)
+![BIM Dimensions.gif](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/dimensions_BIM/BIM%20Dimensions.gif)
 
 <p>&nbsp;</p>
 
@@ -112,6 +112,7 @@ La 6D correspond à une dimension qui a trait à l’analyse des consommations �
 --------------------------
 
 <p>&nbsp;</p>
+
 ![dimensions_BIM6.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM6.png)
 <p>&nbsp;</p>
 
@@ -154,7 +155,8 @@ La sécurité des compagnons et autres intervenants est essentielle dans tout ch
 
 L’industrialisation du processus de construction est en plein développement et le BIM en est le plus grand vecteur. On observe de plus en plus de matériaux préfabriqués en dehors du chantier et livrés pour être prêts à être monté. Les données obtenues grâce aux retours d’expériences de proejt en BIM sont une source inestimables permettant d’optimiser le kitting et l’acheminement d’un projet. Plusieurs startups commencent à émerger sur ce créneau. Elles allient la conception avec le BIM à une production une usine s’appuyant directement sur les objets modélisés.
 <p>&nbsp;</p>
-![dimensions_BIM13.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM13.png)
+
+![dimensions_BIM13.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/dimensions_BIM/dimensions_BIM13.png "dimensions_BIM13.png")
 <p>&nbsp;</p>
 
 L’image ci-dessus provient de la startup Vestack. Vestack s’appuie sur une solution de conception digitale, basée sur le logiciel de modélisation Revit. La maquette numérique leur permet de réaliser des analyses structurelles, thermiques, le permis de construire et les instructions de production en usine.
