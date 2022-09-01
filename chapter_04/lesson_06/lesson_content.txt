@@ -78,7 +78,7 @@ Vous êtes les plus à même d'impulser les changements nécessaires dans l'acte
 C'est dans cette optique que nous avons crée le bootcamp Arsenio qui allie la collaboration et l'apprentissage technique de savoir-faire avec pédagogie de type “bootcamp”.
 <p>&nbsp;</p>
 
-![bootcamp1.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/bootcamp/bootcamp1.jpeg "bootcamp1.jpeg")
+![bootcamp1.jpg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/bootcamp/bootcamp1.jpg "bootcamp1.jpg")
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -89,14 +89,14 @@ Toutes les heures en présentiel se dispensent au centre Léonard Paris 12, y co
 
 <p>&nbsp;</p>
 
-![bootcamp3.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/bootcamp/bootcamp1.jpeg "bootcamp3.jpeg")
+![bootcamp3.jpg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/bootcamp/bootcamp3.jpg "bootcamp3.jpg")
 <p>&nbsp;</p>
 
 Le parcours multimodal se déroule selon plusieurs modalités qui favorisent l’individualisation des parcours : pédagogie inversée, pédagogie de l‘action et de la découverte, mise en pratique, coaching, mentorat. 
 
 <p>&nbsp;</p>
 
-![Image non trouvée : https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/bootcamp/bootcamp2.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/bootcamp/bootcamp1.jpeg "Image non trouvée : https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/bootcamp/bootcamp2.jpeg")
+![bootcamp2.jpg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/bootcamp/bootcamp2.jpg "bootcamp2.jpg")
 <p>&nbsp;</p>
 
 Nous nous différencions en appliquant une pédagogie de type “bootcamp”. Chaque journée de formation dure 7 heures. Elles ont lieu alternativement en présentiel (possibilité également en visio-conférence) et en autonomie encadrée lorsqu’il s’agit de travail en mode projet soit sur site soit en ligne avec l’appui de la plateforme Arsenio et du logiciel Discord.
