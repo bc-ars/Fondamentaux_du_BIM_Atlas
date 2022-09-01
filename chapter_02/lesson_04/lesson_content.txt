@@ -38,7 +38,9 @@ Chacun des facteurs susmentionnés, seul ou en combinaison, peut réduire l'effi
 ![interoperability.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/interoperability.jpeg)
 
 <p>&nbsp;</p>
+
 *Les échanges de plans dans un processus de travail traditionnel comparés au BIM* (source: https://biblus.accasoftware.com/)
+
 <p>&nbsp;</p>
 
 Le BIM, utilisé isolément ne pourra pas résoudre ces problèmes. Les procédures fondamentales nécessaires à la circulation de l'information doivent être améliorées par les acteurs de manière collaborative.
@@ -63,7 +65,9 @@ La maquette numérique instaure un périmètre de travail strict et clair ainsi 
 
 ![bim-cycle.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/bim-cycle.jpeg)
 <p>&nbsp;</p>
+
 *Les informations des objets BIM couvrent l'ensemble du cycle de vie des matériaux* (source: https://biblus.accasoftware.com/)
+
 <p>&nbsp;</p>
 
  La mise en commun des données des acteurs a pour but les objectifs suivants:

@@ -75,9 +75,11 @@ Notre organisme Arsenio est une startup dédiée à la formation à la construct
 <p>&nbsp;</p>
 Vous êtes les plus à même d'impulser les changements nécessaires dans l'acte de construire et manager des projets grâce au BIM. En effet, votre expérience et votre connaissance du terrain est inestimable car elle a nécessité des années d'implications et de dévouement. Le complément digital va permettre de démocratiser des approches encore trop marginales comme l'éco-conception ou l'économie circulaire.
 <p>&nbsp;</p>
-C'estr dans cette optique que nous avons crée le bootcamp Arsenio qui allie la collaboration et l'apprentissage technique de savoir-faire avec pédagogie de type “bootcamp”.
+C'est dans cette optique que nous avons crée le bootcamp Arsenio qui allie la collaboration et l'apprentissage technique de savoir-faire avec pédagogie de type “bootcamp”.
 <p>&nbsp;</p>
-IMAGE BOOTCAMP
+
+![bootcamp1.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/bootcamp/bootcamp1.jpeg "bootcamp1.jpeg")
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 Les stagiaires ont accès à tout le contenu en classe inversée et sont encouragés à le consulter même avant le début de la formation. Que la formation soit mixte ou en présentiel, chaque apprenant a la possibilité de rejoindre une communauté digitale d’apprenants disponible même après la formation.
@@ -85,7 +87,17 @@ Les stagiaires ont accès à tout le contenu en classe inversée et sont encoura
 
 Toutes les heures en présentiel se dispensent au centre Léonard Paris 12, y compris le centre d’examen pour le passage du titre professionnel Coordinateur BIM.
 
+<p>&nbsp;</p>
+
+![bootcamp3.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/bootcamp/bootcamp1.jpeg "bootcamp3.jpeg")
+<p>&nbsp;</p>
+
 Le parcours multimodal se déroule selon plusieurs modalités qui favorisent l’individualisation des parcours : pédagogie inversée, pédagogie de l‘action et de la découverte, mise en pratique, coaching, mentorat. 
+
+<p>&nbsp;</p>
+
+![Image non trouvée : https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/bootcamp/bootcamp2.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/bootcamp/bootcamp1.jpeg "Image non trouvée : https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/bootcamp/bootcamp2.jpeg")
+<p>&nbsp;</p>
 
 Nous nous différencions en appliquant une pédagogie de type “bootcamp”. Chaque journée de formation dure 7 heures. Elles ont lieu alternativement en présentiel (possibilité également en visio-conférence) et en autonomie encadrée lorsqu’il s’agit de travail en mode projet soit sur site soit en ligne avec l’appui de la plateforme Arsenio et du logiciel Discord.
 

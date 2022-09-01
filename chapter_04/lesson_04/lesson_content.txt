@@ -36,7 +36,9 @@ Depuis 2005, cette association opère sous le nom de buildingSMART ([](https://w
 
 ![BuildingSMART.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/BuildingSMART.png)
 <p>&nbsp;</p>
+
 _Logo de l'association BuildingSMart_
+
 <p>&nbsp;</p>
 En France, BuildingSMART est représenté par Mediaconstruct ([](https://buildingsmartfrance-mediaconstruct.fr/)https://buildingsmartfrance-mediaconstruct.fr/), association professionnelle créée avant BuildingSMART en 1989. Elle accompagne la généralisation des usages de la maquette numérique et du BIM en France et contribue au développement de l'openBIM et de l’interopérabilité. Médiaconstruct est le chapitre (Chapter) français de BuildingSMART, comme d’autres chapitres existent dans plusieurs pays du monde.
 
@@ -65,7 +67,9 @@ Il hierarchise et classifie les objets selon leurs types. Tous les types d’obj
 
 ![ifc_objects.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_objects.png)
 <p>&nbsp;</p>
+
 _Source: BuildingSMart_
+
 <p>&nbsp;</p>
 
 BuildingSMART a défini un processus de certification pour garantir la véracité dans l’import et l’export de données IFC en accord avec le standard. Tous les logiciels BIM certifiés IFC peuvent lire, écrire, échanger des informations avec d’autres logiciels BIM certifiés. Les fichiers IFC peuvent être échangés et exportés entre logiciels avec une terminaison en .ifc, .ifcXML et .ifcZIP.
@@ -95,7 +99,7 @@ On peut catégoriser un ficher IFC en 3 catégories:
 
 
 <p>&nbsp;</p>
-### **Norme IFC**
+### Norme IFC
 
 ---------------------------------------
 
@@ -129,6 +133,7 @@ Dans le format IFC, un objet ne correspond pas nécessairement à un éléments 
 
 ![ifc_data_2.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_data_2.png)
 <p>&nbsp;</p>
+
 #8 précise les coordonées du point correspondant à l’origine du projet.
 
 #283913 correspond à l’unité de mesure à utiliser qui est ici le mètre
@@ -138,10 +143,13 @@ Dans le format IFC, un objet ne correspond pas nécessairement à un éléments 
 <p>&nbsp;</p>
 
 ![ifc_cloison.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_cloison.png)
+
 <p>&nbsp;</p>
 Si on prend le cas d’une cloison, l’élément #1506 représente un mur.
 Cette ligne (”encadrée en bleu) donne tout d’abord la classe de l’élément, il s’agit d’un mur et c’est donc IFCWALL. Les principales classes d’objets correspondant à des éléments physiques sont les suivantes:
+
 <p>&nbsp;</p>
+
 Pour illustrer de façon succincte le fonctionnement des relations entre éléments, prenons le cas d’une porte dans un mur.
 
 <p>&nbsp;</p>
@@ -156,6 +164,7 @@ L’IFC utilisera entre autres les classes d’objets suivantes:
 - IfcRelVoidsElement (classe qui va fusionner les deux précédemment citées) 
 - IfcDoor (classe correspondante aux fenêtres) 
 - IfcRelFillsElement (classe qui va liaisonner la fenêtre avec la réservation dans le mur). 
+
 <p>&nbsp;</p>
 
 Dans chaque cas, ces classes seront liaisonnées entre elles et renverront aussi vers d’autres classes qui indiqueront par exemple la position de la réservation ou ses dimensions. Maintenant que ces éléments seront liaisonnés, ils seront dépendants (ou contraints) les uns par rapport aux autres et si le mur se déplace, la fenêtre en fera de même. Idem si jamais on venait à supprimer le mur, la réservation et la porte le seraient aussi (mais l’inverse n’est pas vrai, l’IFC hiérarchie les objets).
@@ -169,17 +178,20 @@ La ligne #1506 correspond au Mur de base, la chaîne de caractères suivante «3
 <p>&nbsp;</p>
 
 ![ifc_1.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_1.png)
+
 <p>&nbsp;</p>
 Pour le mur correspondant à l’objet #1506, nous trouvons le nom du type de mur indiqué dans le logiciel : « Cloison Paclostil». On notera également la présence de renvois vers les objets de #302379, #277586 qui représentent respectivement l’unité de dessin, les coordonnées du point de placement de l’objet (classe IFCLOCALPLACEMENT) et sa composition (classe IFCPRODUCTDEFINITIONSHAPE).
 <p>&nbsp;</p>
 
 ![ifc_2.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_2.png)
+
 <p>&nbsp;</p>
 
 #277586 Cette même définition renvoie également vers d’autres lignes (classe IFCSHAPEREPRESENTATION) qui désignent le mode de représentation d’un objet. Ces renvois se déclinent en un nombre très important de «sous-renvois» illustrant la notion fondamentale du BIM : l’intelligence du modèle par les liaisons entre les objets.
 <p>&nbsp;</p>
 
 ![ifc_3.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_3.png)
+
 <p>&nbsp;</p>
 
 Le contenu des maquettes numériques est organisé afin de pouvoir repérer où sont les éléments.
@@ -200,7 +212,9 @@ Le BCF permet de réaliser des annotations sur la maquette numérique. À la man
 
 ![bcf.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/bcf.png)
 <p>&nbsp;</p>
+
 _Source: BuildingSMart_
+
 <p>&nbsp;</p>
 
 C’est donc un fichier XML contenues dans un dossier compressé d’extension bcfzip contenant différentes informations précisant une annotation. Cette annotation est désignée par:
@@ -213,10 +227,13 @@ C’est donc un fichier XML contenues dans un dossier compressé d’extension b
 
 ![bcf_evebim.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/bcf_evebim.png)
 <p>&nbsp;</p>
+
 _Exemple de BCF réalisé avec la visionneuse EveBIM sur la maquette olumpi_
+
 <p>&nbsp;</p>
 À l’instar de l’IFC, c’est un format ouvert pour tous les logiciels BIM. Il trouve son utilité sur les plateformes collaboratives, les visionneuses BIM et les logiciels d’analyse BIM où il permet à un utilisateur ne participant directement à la conception de noter ses remarques.
 
+<p>&nbsp;</p>
 
 ## En conclusion
 

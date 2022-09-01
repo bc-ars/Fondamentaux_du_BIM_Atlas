@@ -27,6 +27,7 @@ La définition des niveaux de développement (LOD) peut être schématisé ci-de
 
 ![LOD.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/LOD.png)
 <p>&nbsp;</p>
+
 _Les LODS pour une chaise de bureau (source: http://practicalbim.blogspot.com/)_
 
 **LOD = LoD + LoI**

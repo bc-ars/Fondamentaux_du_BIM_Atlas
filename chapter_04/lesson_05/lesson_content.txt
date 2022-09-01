@@ -15,7 +15,7 @@ Il est important de bien cerné les besoins de chacuns au cours du projet pour c
 On peut définir 4 types de logiciels BIM:
 <p>&nbsp;</p>
 
-![logiciels_BIM.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/logiciels_BIM.png)
+![logiciels_BIM.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/logiciels_BIM.png "logiciels_BIM.png")
 <p>&nbsp;</p>
 
 On peut schématiser l'utilisation des logiciels en fonction du métier des contributeurs BIM par le schéma suivant:

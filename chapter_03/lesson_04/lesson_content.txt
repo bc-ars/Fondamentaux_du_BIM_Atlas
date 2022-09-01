@@ -42,7 +42,7 @@ S’il existe dans le projet, le rôle de l’AMO BIM est de reformuler les obje
 
 ![goals.gif](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/goals.gif)
 <p>&nbsp;</p>
-Les objectifs sont multiples et doivent être en corrélation avec les attentes de la Maîtrise d’Ouvrage dans le cycle de vie de son bâtiment. Les possibilités sont immenses et le risque est de surdimensionné les attentes du client…
+Les objectifs sont multiples et doivent être en corrélation avec les attentes de la Maîtrise d’Ouvrage dans le cycle de vie de son bâtiment. Les possibilités sont immenses et le risque est de surdimensionner les attentes du client…
 <p>&nbsp;</p>
 
 ![MOA_Objectifs.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/MOA_Objectifs.png)
@@ -64,7 +64,9 @@ Les Usages BIM sont définis par le BIM Management à la lumière des Objectifs 
 
 ![objectifs_BIM.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/objectifs_BIM.png)
 <p>&nbsp;</p>
+
 _Exemples de 4 objectifs BIM pour la Société du Grand Paris_
+
 <p>&nbsp;</p>
 
 ![objectifs_BIM_2.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/objectifs_BIM_2.png)

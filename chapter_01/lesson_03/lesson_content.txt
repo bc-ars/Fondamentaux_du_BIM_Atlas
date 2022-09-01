@@ -44,7 +44,7 @@ En somme, on peut dire que le BIM est un **modèle de CAO 3D auquel on a associ�
 
 
 
-On peut retenir celle proposée par (Celnik & Lebegue, 2015), largement répandue en France : « Le BIM [pour Building Information Model, Modeling ou Management] est une **manière intégrée de travailler**, permettant une conception, une exécution et une gestion de bâtiments et de biens immobiliers elle aussi intégrées. **Ce n’est pas un outil, un logiciel, c’est un processus de travail et de collaboration** entre intervenants d’un projet de construction reposant sur des outils métiers particuliers qui permettent la conception et l’exploitation d’une maquette numérique préfigurant le bâtiment tel que construit et exploité (...) ».
+On peut retenir celle proposée (par Celnik & Lebegue en 2015), largement répandue en France : « Le BIM [pour Building Information Model, Modeling ou Management] est une **manière intégrée de travailler**, permettant une conception, une exécution et une gestion de bâtiments et de biens immobiliers elle aussi intégrées. **Ce n’est pas un outil, un logiciel, c’est un processus de travail et de collaboration** entre intervenants d’un projet de construction reposant sur des outils métiers particuliers qui permettent la conception et l’exploitation d’une maquette numérique préfigurant le bâtiment tel que construit et exploité (...) ».
 
 **Le BIM est le partage d'informations fiables tout au long de la durée de vie** d'un bâtiment ou d'infrastructures, de leur conception jusqu'à leur démolition.
 

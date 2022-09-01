@@ -1,4 +1,4 @@
-# Les métiers du BIM.
+# Les métiers du BIM
 
 ------------------------------
 
@@ -146,10 +146,12 @@ Ses tâches d'expertise et/ou de consulting (pas de tâches opérationnelles) vo
 ![informaticien.gif](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/informaticien.gif)
 <p>&nbsp;</p>
 
-Sa première tâche sera d'abord de bien définir et dimensionner le parc informatique nécessaire au déroulement du projet.  Quel doit être la configutation des ordianteurs utilisés pour la conception de maquettes numériques ? 
-Doit-on privilégier un stockage dans le cloud ou en local ? 
-Quels sont les les logiciels nécessaires pour la sécurité des données du projet ?
-Quelle version de logiciels est nécessaire d'installer chez les collaborateurs ?
+Sa première tâche sera d'abord de bien définir et dimensionner le parc informatique nécessaire au déroulement du projet.
+- Quel doit être la configutation des ordianteurs utilisés pour la conception de maquettes numériques ? 
+- Doit-on privilégier un stockage dans le cloud ou en local ? 
+- Quels sont les les logiciels nécessaires pour la sécurité des données du projet ?
+- Quelle version de logiciels est nécessaire d'installer chez les collaborateurs ?
+<p>&nbsp;</p>
 Il va avoir un rôle de cadrage et de management de projet en terme de ressources informatiques et logiciels (hardware et software). Pour des projets plus complexes et plus ambitieux nécessitant la création de logiciels ou de plugins, il va rédiger el cahier des charges de concert avec le BIM Manager et le confier au BIM Expert poour la réalisation. C'est aussi lui qui va vérifier que le livrable produit répoind bien aux attentes du projet.
 
 <p>&nbsp;</p>
