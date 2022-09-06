@@ -40,7 +40,7 @@ Observons plus en détail chacune de ces dimensions.
 
 <p>&nbsp;</p>
 
-##🧊 BIM 3D - Représentation tridimensionnelle
+## 🧊 BIM 3D - Représentation tridimensionnelle
 
 ---------------------------------------
 

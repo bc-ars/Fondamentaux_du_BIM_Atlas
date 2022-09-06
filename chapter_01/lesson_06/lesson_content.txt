@@ -52,10 +52,29 @@ Nous verrons bientôt comment différents acteurs peuvent collaborer plus facile
 
 <p>&nbsp;</p>
 
+### Un outil dont les informations ont de multiples dimensions 
+
+-----------------------------------
+
 <p>&nbsp;</p>
 
+<p>&nbsp;</p>
 
+Les dimensions BIM représentent les informations additionnelles en lien avec la représentation tridimensionnelle géométrique que contient la maquette numérique, voici à quoi elles correspondent:
 
+🧊 **3D**: Représentation tridimensionnelle (x, y, z) de la géométrie.
+
+📅 **4D**: 3D + la planification du projet de construction en fonction du temps.
+
+💰 **5D**: 4D + estimation des coûts et analyse budgétaire.
+
+♻️ **6D**: 5D et performance énergétique du bâtiment, efficacité energétique.
+
+🏢 **7D**: 6D et maintenance immobilière du projet.
+
+⚙️ **XD**: Les dimensions supplémentaires incorporent la 7D avec d’autres concepts qui peuvent être la gestion de la sécurité durant le chantier, la construction lean, la gestion des déchets ou encore la conception industrialisée via la préfabrication.
+
+<p>&nbsp;</p>
 
 
 ### Une nouvelle manière de représenter le réel
