@@ -8,9 +8,9 @@ On peut le résumer à une série d'actions coordonnées... ✔
 ... selon un planning déterminé à l'avance... 🗓  
 ... et dans le cadre d'un budget donné (charge, €, matériel,...). 💰  
  
-Au cours de ce cheminement la maquette numérique va changer et les objets BIM qui la constituent vont évoluer en termes de **niveaux de développement**. La méthodologie BIM va être cadré au moyen de **documents et contrats BIM** qui vont faire définir des **Objectifs BIM et des Usages BIM**.
+Au cours de ce cheminement la maquette numérique va changer et les objets BIM qui la constituent vont évoluer en termes de **Niveaux de Développement**. La méthodologie BIM va être cadré au moyen de **Documents et Contrats BIM** qui vont faire définir des **Objectifs BIM et des Usages BIM**.
 
-Nous allons voir plsu en détail tous ces éléments à travers les chapitres suivants:
+Nous allons voir plus en détail tous ces éléments à travers les chapitres suivants:
 
 - Niveaux de développement.
 - Les documents et contrat BIM / loi MOP.

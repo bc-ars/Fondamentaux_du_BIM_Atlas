@@ -10,7 +10,7 @@ Le passage de la Conception Assisté par Ordinateur au BIM engendre une organisa
 <p>&nbsp;</p>
 
 Certains métiers ont plus attrait au management, à la coordination de projet ou à la production. 
-D'autres métiers sont tranverses et permettent la réalisation de tâches très techniques liés à l'automatisation de routine. Voyons ensemble quels sont ces différentes fonctions et leurs positionnement dans un projet BIM.
+D'autres métiers sont tranverses et permettent la réalisation de tâches très techniques liées à l'automatisation de routine. Voyons ensemble quels sont ces différentes fonctions et leurs positionnement dans un projet BIM.
 
 <p>&nbsp;</p>
 
@@ -31,7 +31,7 @@ Ses fonctions:
 * Conseil à l'élaboration, au contexte du projet le développement et la mise en oeuvre des standards BIM.
 * Reformulation des objectifs de la MOA sous la forme d'objectifs BIM et de cas d'usage. Il va notamment définir pour le client pourquoi et comment va être utiliser la maquette BIM après l'opération.
 * Définition des missions du BIM Manager et plus généralement l’étendue et les limites du BIM dans le projet ;
-* Déterminaion des objectifs permettant au BIM Manager de fixer les règles de modélisation ;
+* Détermination des objectifs permettant au BIM Manager de fixer les règles de modélisation ;
 * Fixation des formats de livrables ;
 * Détermination des contributeurs à la maquette numérique ;
 * Détermination du niveau de détail et d’information en fonction de l’étendue BIM du projet et du planning des livrables de la maquette numérique. (un rôle parfois porté par le BIM Manager)
@@ -45,7 +45,7 @@ Ses fonctions:
 
 Son rôle est de gérer les familles 3D et les composants de la maquette requis pour le projet, ce qui peut aussi inclure des familles paramétriques comme les portes, les fenêtres, les murs, les glissières dans une autoroute, les signalisations directionnelles, les éléments d’un pont… Il est aussi en charge de la gestion des hiérarchies entre chacune des familles et du planning du projet.
 
-C'est un technicien du BIM. Il connaît et maîtrise les logiciels BIM pour son corps de métier et sait comment exporter la maquette BIM de son lot. Il va généralement concevoir les éléments les plus complexes du projet tels que les objets paramétriques et les scripts d'automatisation. C'est également le principal interlocuteur du BIM Manager pour son lot. Il va animer le BIM sans son équipe et garantir la cohérence des données qu'il va apporter aux autres contributeurs. 
+C'est un technicien du BIM. Il connaît et maîtrise les logiciels BIM pour son corps de métier et sait comment exporter la maquette BIM de son lot. Il va généralement concevoir les éléments les plus complexes du projet tels que les objets paramétriques et les scripts d'automatisation. C'est également le principal interlocuteur du BIM Manager pour son lot. Il va animer le BIM dans son équipe et garantir la cohérence des données qu'il va apporter aux autres contributeurs. 
 
 <p>&nbsp;</p>
 
@@ -61,7 +61,7 @@ Ses missions:
 * Audit des modèles fournis par les prestataires et assurance du respect du protocole BIM.
 * Création des rapports de collisions, avec suivi de tous les conflits en lien avec son corps de métier.
 * Vérification auprès des sous-traitants des modèles à chaque phase du projet.
-* Identifie les changements à effectuer dans les modèles.
+* Identification des changements à effectuer dans les modèles.
 
 
 
@@ -72,9 +72,9 @@ Ses missions:
 ---------------------------
 
 
-Il crée, fait évoluer et associe des annotations à la maquette Numérique pour les différents modèles BIM du projet. Il crée aussi les familles du projet, quelles y soient spécifiques (éléments de façade à la géométrie recourbée) ou générales (regard d’assainissement, cloisons avec isolation…).
+Il crée, fait évoluer et associe des annotations à la maquette numérique pour les différents modèles BIM du projet. Il crée aussi les familles du projet, quelles y soient spécifiques (éléments de façade à la géométrie recourbée) ou générales (regard d’assainissement, cloisons avec isolation…).
 
-C'est un véritable spécialiste des logiciels BIM de la maquette de son métier. Il est sous la responsabilité du BIM Coordinateur et suis ses recommandations.
+C'est un véritable spécialiste des logiciels BIM de la maquette de son métier. Il est sous la responsabilité du BIM Coordinateur et il suit ses recommandations.
 <p>&nbsp;</p>
 
 ![Modeleur.gif](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/Modeleur.gif)
@@ -93,9 +93,9 @@ Un architecte d'intérieur maîtrisant le BIM peut aussi être apparenté à un 
 
 <p>&nbsp;</p>
 
-Le BIM manager est une personne spécialisée dans la matière du BIM mais avec une solide expérience en phase conception et exécution des projets de construction. Une sensibilité particulière par rapport aux attentes clients et à la phase exploitation est requise. Il est un assistant auprès du Maître d'ouvrage ou fait partie de la MOE mais , selon des besoins spécifiques, il pourrait être intégré directement à l’équipe du MOA . Le BIM manager sera nommé par le Maitre d’ouvrage ou l'AMO BIM et ne fera la plupart des cas partie de l’organisation mise en œuvre par l’entrepreneur en charge de la réalisation.
+Le BIM Manager est une personne spécialisée dans la matière du BIM mais avec une solide expérience en phase conception et exécution des projets de construction. Une sensibilité particulière par rapport aux attentes clients et à la phase exploitation est requise. Il est un assistant auprès du Maître d'ouvrage ou fait partie de la MOE mais, selon des besoins spécifiques, il pourrait être intégré directement à l’équipe du MOA. Le BIM Manager sera nommé par le Maitre d’ouvrage ou l'AMO BIM et ne fera la plupart des cas partie de l’organisation mise en œuvre par l’entrepreneur en charge de la réalisation.
 
-Avec la convention BIM, le BIM Management va définir le processus de collaboration de tous les acteurs BIM. Il se réunit et échange avec les BIM Coordinateurs qui chacun représentent leur lots ou leur entreprises. Il structure la maquette numérique et les droits d'accès.
+Avec la convention BIM, le BIM Manager va définir le processus de collaboration de tous les acteurs BIM. Il se réunit et échange avec les BIM Coordinateurs qui chacun représentent leur lots ou leur entreprises. Il structure la maquette numérique et les droits d'accès.
 <p>&nbsp;</p>
 
 ![management.gif](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/management.gif)
@@ -107,7 +107,7 @@ Ses missions:
 * Élaboration de la convention BIM pour définir:
     * le niveau de développement à chaque phase du projet.
     * les gabarits BIM d'usage
-    * Nommage et codification des objets BIM
+    * nommage et codification des objets BIM
     * processus de collaboration des acteurs BIM du projet.
     * planning de diffusion des livrables.
     * paramètrage des exports d'IFC.
@@ -119,7 +119,7 @@ Ses missions:
 
 --------------------------
 
-Deux nouveaux métiers ont fait leur apparition ces dernières années: le BIM Expert et le BIM Information. Leurs apparitions est dûs à l'émergence de nouveaux besoins dans les projetrs de construction et la prise de conscience. des possibilités offertes par les algorithmes et l'exploitation de la donnée des projets de construction induits par le BIM.  
+Deux nouveaux métiers ont fait leur apparition ces dernières années: le BIM Expert et le BIM Informaticien. Leurs apparitions est dûs à l'émergence de nouveaux besoins dans les projets de construction et la prise de conscience. Des possibilités offertes par les algorithmes et l'exploitation de la donnée des projets de construction induites par le BIM.  
 
 ## BIM Expert
 
@@ -131,7 +131,7 @@ Le BIM Expert est apparu avec l'émergence des applications et des extensions de
 ![expert.gif](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/expert.gif)
 <p>&nbsp;</p>
 
-Ses tâches d'expertise et/ou de consulting (pas de tâches opérationnelles) vont pêtre conféis au BIM Expert. Il analyse les faisabilités techniques des interopérabilités et propose des développements informatiques éventuels pour la suite. Il travaille de concert avec le BIM Manageur qui lui fait remonter les besoins et avec le BIM Informaticien qui développe les idées. Sa tâche peut être également l'exploitation de données de maquette numérique à grande échelles pour une optimisation dans les futurs projets.
+Ces tâches d'expertise et/ou de consulting (pas de tâches opérationnelles) vont être confiées au BIM Expert. Il analyse les faisabilités techniques des interopérabilités et propose des développements informatiques éventuels pour la suite. Il travaille de concert avec le BIM Manager qui lui fait remonter les besoins et avec le BIM Informaticien qui développe les idées. Sa mission peut être également l'exploitation de données de maquette numérique à grande échelles pour une optimisation dans les futurs projets.
 
 
 <p>&nbsp;</p>
@@ -152,7 +152,7 @@ Sa première tâche sera d'abord de bien définir et dimensionner le parc inform
 - Quels sont les les logiciels nécessaires pour la sécurité des données du projet ?
 - Quelle version de logiciels est nécessaire d'installer chez les collaborateurs ?
 <p>&nbsp;</p>
-Il va avoir un rôle de cadrage et de management de projet en terme de ressources informatiques et logiciels (hardware et software). Pour des projets plus complexes et plus ambitieux nécessitant la création de logiciels ou de plugins, il va rédiger el cahier des charges de concert avec le BIM Manager et le confier au BIM Expert poour la réalisation. C'est aussi lui qui va vérifier que le livrable produit répoind bien aux attentes du projet.
+Il va avoir un rôle de cadrage et de management de projet en terme de ressources informatiques et logiciels (hardware et software). Pour des projets plus complexes et plus ambitieux nécessitant la création de logiciels ou de plugins, il va rédiger le cahier des charges de concert avec le BIM Manager et le confier au BIM Expert pour la réalisation. C'est aussi lui qui va vérifier que le livrable produit répond bien aux attentes du projet.
 
 <p>&nbsp;</p>
 
@@ -162,7 +162,7 @@ Il va avoir un rôle de cadrage et de management de projet en terme de ressource
 -----------------------—
 
 Tout projet réalisé en BIM va avoir une organisation spécifique. 
-Les nouvelles fonctions, le budget ainsi que la vision vont engendrer le dimensionnement des rôles, les zones d'interventions et les missions de chacun. Il n'y a pas d'organisation figé, elle doit être réfléchie au cas par cas à minima par l'AMO BIM et le BIM Manager.
+Les nouvelles fonctions, le budget ainsi que la vision vont engendrer le dimensionnement des rôles, les zones d'interventions et les missions de chacun. Il n'y a pas d'organisation figée, elle doit être réfléchie au cas par cas à minima par l'AMO BIM et le BIM Manager.
 On peut résumer les différents types de métiers comme suit:
 <p>&nbsp;</p>
 
@@ -170,7 +170,7 @@ On peut résumer les différents types de métiers comme suit:
 ![metiers_BIM.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/metiers_BIM.png)
 <p>&nbsp;</p>
 
-Et évidemment, cette organisation est dépendante du niveau de maturité BIM de chacun des inntervenants. Il est nécessaire que les contributeurs BIM maîtrisent les chanmps d'actions sur lesquels ils vont opérer. Ce point décisif et l'oganisation qui en découle seront les garants du succès d'une opération en BIM. 
+Et évidemment, cette organisation est dépendante du niveau de maturité BIM de chacun des inntervenants. Il est nécessaire que les contributeurs BIM maîtrisent les champs d'actions sur lesquels ils vont opérer. Ce point décisif et l'oganisation qui en découle seront les garants du succès d'une opération en BIM. 
 
 <p>&nbsp;</p>
 

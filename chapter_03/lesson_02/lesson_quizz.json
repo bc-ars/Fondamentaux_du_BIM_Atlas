@@ -1,12 +1,12 @@
 { "questions":
   [
     {
-      "content": "Tous les métiers d'une maquette BIM doivent avoir le même LOD pour une même phase de projet ?",
+      "content": "Tous les métiers d'une maquette BIM doivent avoir le même LOD pour une même phase de projet ",
       "explanation": " Ce n'est pas une obligation, tout dépend de la convention BIM, par exemple en phase PRO les maquettes numériques structure, façade, CVC... ne doivent pas être nécessairement au LOD 300",
       "answers": [
         {
           "content": "Vrai",
-          "is_correct": "false"
+          "is_correct": "true"
         },
         {
           "content": "Faux",

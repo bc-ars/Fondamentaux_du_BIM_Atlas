@@ -30,7 +30,7 @@ Nous avons vu la courbe de de McLeamy schématisant les coûts suivants les phas
 <p>&nbsp;</p>
 
 
-Une étude de la Fédération Française du Bâtiment FFB a estimé les coûts supplémentaires liées au fait de travailler avec des outils non interopérables.
+Une étude de la Fédération Française du Bâtiment FFB a estimé les coûts supplémentaires liés au fait de travailler avec des outils non interopérables.
 
 Cette étude a pris en compte les coûts selon trois catégories :
 
@@ -72,11 +72,11 @@ L’openBIM signifie de travailler avec le BIM à travers des logiciels, process
 ![ifc_acteurs.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_acteurs.png)
 <p>&nbsp;</p>
 
-Si l’on devait faire une analogie, imaginons qu’une équipe doivent écrire un rapport sur un sujet quelqonque. C’est comme si tout le monde écrivait sa partie du rapport sur un logiciel de traitement de texte (type Word) pour ensuite l’enregistrer et l’envoyer au format PDF aux autres membres de l’équipe qui pourraient l’ouvrir même sans logiciel de traitement de texte.
+Si l’on devait faire une analogie, imaginons qu’une équipe doit écrire un rapport sur un sujet quelqonque. C’est comme si tout le monde écrivait sa partie du rapport sur un logiciel de traitement de texte (type Word) pour ensuite l’enregistrer et l’envoyer au format PDF aux autres membres de l’équipe qui pourraient l’ouvrir même sans logiciel de traitement de texte.
 
-On est en plein dans le concept d'interopérabilité car des logiciels d'éditeurs différents peuvent communiquer entre eux grâce à un format ouvert, et ce quel que soit le format natif. Les informations liées à une maquette numérique vont être conservés et peuvent s'échanger entre plusieurs acteurs du projet.
+On est en plein dans le concept d'interopérabilité car des logiciels d'éditeurs différents peuvent communiquer entre eux grâce à un format ouvert, et ce quel que soit le format natif. Les informations liées à une maquette numérique vont être conservées et peuvent s'échanger entre plusieurs acteurs du projet.
 
-Le bémol étant que seul les données normalisées sont transmises et donc certaines informations peuvent être perdus. Le format qui associe les données géométriques aux metadonnées est appelé l'IFC (Industry Foundation Classe) comme nous le verrons dans un prochain chapitre.
+Le bémol étant que seul les données normalisées sont transmises et donc certaines informations peuvent être perdues. Le format qui associe les données géométriques aux metadonnées est appelé l'IFC (Industry Foundation Classe) comme nous le verrons dans un prochain chapitre.
 
 Certaines nuances plus subtiles existent pour décrire un processus de travail en BIM.
 <p>&nbsp;</p>

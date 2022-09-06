@@ -4,7 +4,7 @@
 
 ## "There is an elephant in the room"
 
-En participant à des réunions de chantier, on voit très vite que la perception d'un projet est différentes en fonction des acteurs. Là où l'architecte voit un immense atrium apportant un puits de lumière naturelle, l'ingénieur structure y voit un renfort nécessaires des aciers dans les poteaux en béton armé. 
+En participant à des réunions de chantier, on voit très vite que la perception d'un projet est différente en fonction des acteurs. Là où l'architecte voit un immense atrium apportant un puits de lumière naturelle, l'ingénieur structure y voit un renfort nécessaires des aciers dans les poteaux en béton armé. 
 
 Dans le monde de la construction, on ne peut plus passer à coté du terme BIM. Ce nouveau paradigme est amené à progressivement s'installer durablement dans les projets de BTP. Alors que fait-on ?
 
@@ -16,7 +16,7 @@ Schématisons un peu les choses: Voyons le BIM comme un éléphant au milieu d'u
 
 *La perception du BIM par les différents acteurs (source: https://www.thenbs.com/knowledge/bim-for-all-dummies-or-not)*
 
-Tout cela est très bien illustré par l'image ci-dessus. Comme dit en langue anglaise: "There is an elephant in the room", il y a un élépant dans la pièce. Pour certains le BIM est un logiciel, pour d'autres une méthode de gestion de projet, un outil pour l'exploitation et la maintenance du bâtiment. Il faut prendre en compte également le fait que le niveau de compréhension du BIM et ses processus varie en fonction des acteurs mais est encore à de manière générale l'heure actuelle très faible.
+Tout cela est très bien illustré par l'image ci-dessus. Comme dit en langue anglaise: "There is an elephant in the room", il y a un élépant dans la pièce. Pour certains le BIM est un logiciel, pour d'autres une méthode de gestion de projet, un outil pour l'exploitation et la maintenance du bâtiment. Il faut prendre en compte également le fait que le niveau de compréhension du BIM et ses processus varient en fonction des acteurs mais ils sont encore de manière générale à l'heure actuelle très faibles.
 <p>&nbsp;</p>
 
 
@@ -73,7 +73,7 @@ La maquette numérique va se retrouver au centre des échanges durant le process
 ![acteurs_trad8.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad8.png)
 <p>&nbsp;</p>
 
-- La maîtrise d'ouvrage publique ou privé va peu à peu voir se constituer sa maquette numérique qui pourra peut-être se transformer en jumeau numérique (comme un jumeau qui née peu de temps avant son ainé) et l'utiliser pour son exploitation et sa maintenance.
+- La maîtrise d'ouvrage publique ou privée va peu à peu voir se constituer sa maquette numérique qui pourra peut-être se transformer en jumeau numérique (comme un jumeau qui née peu de temps avant son ainé) et l'utiliser pour son exploitation et sa maintenance.
 
 <p>&nbsp;</p>
 
@@ -89,14 +89,14 @@ Nous verrons dans le chapitre sur les métiers du BIM les rôles du BIM Manager 
 ------------------------—
 
 Tous les acteurs n'ont pas les mêmes besoins et attentes dans leur utilisation du BIM. 
-À titre d'exemple, il est rare qu'une maîtrise d'ouvrage ait besoin de modéliser une maquette numérique… De la même manière, un fournisseur de matériaux ne va pas avoir beoin d'intéragir avec les autres acteurs du projet dans une collaboration quotidienne sur la maquette. Il en résulte donc des niveaux de maturité différents anttendus selon les acteurs. 
+À titre d'exemple, il est rare qu'une maîtrise d'ouvrage ait besoin de modéliser une maquette numérique… De la même manière, un fournisseur de matériaux ne va pas avoir besoin d'intéragir avec les autres acteurs du projet dans une collaboration quotidienne sur la maquette. Il en résulte donc des niveaux de maturité différents attendus selon les acteurs. 
 Vous pouvez revoir le cours sur les niveaux de maturités BIM du chapitre précédent pour vous remérorer la distinction entre chacun d'entre eux.
 L'adoption du BIM est encore assez faible en France et elle est assez inégale si l'on regarde chacun des acteurs. En 2017, le cabinet de conseil Oliver Wyman a dressé un état des lieux du niveau de différents types de société de construction quant à leur usage du BIM. Le schéma ci-dessous donne indication sur le niveau de maturité de différents groupes: TPE, PME, ETI et grandes entreprises. À noter que les niveaux de 1 à 5 n'ont rien à voir avec les niveaux de maturité explicités précedemment mais représente le niveau estimé dans le BIM par les acteurs.
 
 ![acteurs_trad11.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/acteurs_trad/acteurs_trad11.png)
 <p>&nbsp;</p>
 
-Pour différentes tailles d'entreprise, seulement 10% des acteurs du BTP se considèrent maturent (au sens de la compréhension) sur le BIM. Dès lors, il faut bien préciser le rôle de chacun dans le processus BIM, et en particulier vis-à-vis de son métier ou de sa discipline. 
+Pour différentes tailles d'entreprise, seulement 10% des acteurs du BTP se considèrent matures (au sens de la compréhension) sur le BIM. Dès lors, il faut bien préciser le rôle de chacun dans le processus BIM, et en particulier vis-à-vis de son métier ou de sa discipline. 
 
 Il apparait qu'il y a seulement très peu d'acteurs qui se considèrent matures en BIM. Voyons maintenant comment nous pouvons catégoriser les différents acteurs de la construction selon la méthode adoptée par l'industrie:
  0: Pre-BIM
@@ -111,7 +111,7 @@ Il apparait qu'il y a seulement très peu d'acteurs qui se considèrent matures 
  <p>&nbsp;</p>
 
  
- Certains acteurs n'ont pas besoin d'atteindre un grand niveau de maturité BIM tels que le fournisseurs de matériaux qui ne vont pas collaborer quotidienneemnt avec la maquette numérique. La collaboration s'avère essentielle pour tous les autres actreurs dont certains pourront un jour même profiter du bniveau de maturité 3 lorsque celui-ci sera pleinement opérationnel.
+ Certains acteurs n'ont pas besoin d'atteindre un grand niveau de maturité BIM tels que le fournisseurs de matériaux qui ne vont pas collaborer quotidienneemnt avec la maquette numérique. La collaboration s'avère essentielle pour tous les autres actreurs dont certains pourront un jour même profiter du niveau de maturité 3 lorsque celui-ci sera pleinement opérationnel.
 
  <p>&nbsp;</p>
 

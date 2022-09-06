@@ -16,7 +16,7 @@
 
 On l'a vu, **le BIM n'est pas un logiciel** et il serait réducteur de le définir simplement comme une maquette numérique. Des centaines de logiciels BIM existent à travers le monde, répondant chacun aux besoins d'une ou plusieurs disciplines.
 
-**Le BIM relève de la stratégie et du management de projet** des acteurs, il est de leur ressort de se l'approprier. Cette stratégie et tout le processus qui va en découler repose sur une documentation BIM plus ou moins détaillé, comme nous le verrons par la suite.
+**Le BIM relève de la stratégie et du management de projet** des acteurs, il est de leur ressort de se l'approprier. Cette stratégie et tout le processus qui va en découler repose sur une documentation BIM plus ou moins détaillée, comme nous le verrons par la suite.
 
 <p>&nbsp;</p>
 
@@ -68,7 +68,7 @@ Nous verrons bientôt comment différents acteurs peuvent collaborer plus facile
 
 
 
-La maquette numérique est la partie la plus tangible du BIM. On est passé du dessin manuel, à la DAO 2D puis CAO 3D pour arriver au **BIM: une modélisation paramètrique** qui va lier des représentations géométriques aux données à travers les objets BIM. L'outil devient de plus en plus une aide pour la conception et la mise en oeuvre d'un bâtiment.  
+La maquette numérique est la partie la plus tangible du BIM. On est passé du dessin manuel, au DAO 2D puis à la CAO 3D pour arriver au **BIM: une modélisation paramètrique** qui va lier des représentations géométriques aux données à travers les objets BIM. L'outil devient de plus en plus une aide pour la conception et la mise en oeuvre d'un bâtiment.  
 
 <iframe src="https://xeokit.github.io/xeokit-sdk/examples/#BIMOffline_XKT_Schependomlaan" style="
     width: 100%;

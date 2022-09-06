@@ -36,7 +36,7 @@ Le **I** est la lettre la plus importante de l'acronyme BIM.
 
 **I** peut faire référence à **l'information**: Il va contenir toutes les informations indispensables sur le projet. Cette information est organisée (par une arborescence dans chacun des objets), cette information a un sens: elle correspond à une propriété propre ou partagée par plusieurs objets.
 
-**I** peut aussi faire référence à **Intelligence**: L'information est utile et peut changer, par exemple lors que l'on change la hauteur d'un mur, la surface du mur change mais également l'élévation de la dalle qui lui est associé... **L'information peut aussi être générée au moyen d’algorithmes** qui vont par exemple calculer l'espacement entre plusieurs montants métalliques dans une façade complexe...
+**I** peut aussi faire référence à **Intelligence**: L'information est utile et peut changer, par exemple lors que l'on change la hauteur d'un mur, la surface du mur change mais également l'élévation de la dalle qui lui est associée... **L'information peut aussi être générée au moyen d’algorithmes** qui vont par exemple calculer l'espacement entre plusieurs montants métalliques dans une façade complexe...
 
 En somme, on peut dire que le BIM est un **modèle de CAO 3D auquel on a associé une base de données**.
 
@@ -56,7 +56,7 @@ On peut retenir celle proposée (par Celnik & Lebegue en 2015), largement répan
 
 
 
-Jusque très récemment, le BIM était utilisait pour des bâtiments isolés. On arrive maintenant à l'associer à d'autres bâtiments et des quartiers pour créer des villes intelligentes: les Smart Cities. C'est une version élargit du BIM qui traite de la ville plus que le bâtiment. Nous avons atteint une stade technologique qui nous permet de traiter en même temps énormément d'informations: le niveau de pollution, le niveau d'hygrométrie, l'éclairage public, la voirie, les infrastructures publics: bus, vélib....
+Jusque très récemment, le BIM était utilisé pour des bâtiments isolés. On arrive maintenant à l'associer à d'autres bâtiments et des quartiers pour créer des villes intelligentes: les Smart Cities. C'est une version élargit du BIM qui traite de la ville plus que le bâtiment. Nous avons atteint une stade technologique qui nous permet de traiter en même temps énormément d'informations: le niveau de pollution, le niveau d'hygrométrie, l'éclairage public, la voirie, les infrastructures publics: bus, vélib....
 
 
 
@@ -77,7 +77,7 @@ On peut maintenant **commencer à simuler et prédire le futur de nouveaux quart
 
 
 
-Le **Landscape Information Modeling** va encore étendre la notion d'information et de représentation avec l'interaction avec des espaces naturels. On va se baser sur des données scientifiques et techniques qui vont **prendre en compte le vivant et son évolution dans les projets**. On peut commencer à simuler l'impact des éléments qui constituent le paysage comme les arbres: leur système racinaire, l'hygrométrie, leur croissance, la consommation en eau... Tous les espaces extérieurs vont nous permettrent de mieux penser les espaces naturels et éviter par exemple des crues, glissement de terrain, des inondations... en prenant en compte les métadonnées des systèmes naturels.
+Le **Landscape Information Modeling** va encore étendre la notion d'information et de représentation avec l'interaction avec des espaces naturels. On va se baser sur des données scientifiques et techniques qui vont **prendre en compte le vivant et son évolution dans les projets**. On peut commencer à simuler l'impact des éléments qui constituent le paysage comme les arbres: leur système racinaire, l'hygrométrie, leur croissance, la consommation en eau... Tous les espaces extérieurs vont nous permettre de mieux penser les espaces naturels et éviter par exemple des crues, glissement de terrain, des inondations... en prenant en compte les métadonnées des systèmes naturels.
 
 ![LIM](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/LIM.jpeg)
 
@@ -91,7 +91,7 @@ Le **Landscape Information Modeling** va encore étendre la notion d'information
 
 <p>&nbsp;</p>
 
-Le BIM en accord avec le CIM et le LIM permettrait de **définir des maquettes à l’échelle d’un quartier ou même d’une ville** , tout en apportant l’ensemble des informations caractérisant la modélisation : un bâtiment ainsi que les sous-sols, les réseaux d’assainissement ainsi que l’ensemble des réseaux autres enterré ( électrique , Gaz , eau …), les espaces verts ainsi que le zone humide intégrer au projet, les sous sol existant (pollution , nappe , Sol types …) , les voiries ainsi que les espaces publics.
+Le BIM en accord avec le CIM et le LIM permettrait de **définir des maquettes à l’échelle d’un quartier ou même d’une ville** , tout en apportant l’ensemble des informations caractérisant la modélisation : un bâtiment ainsi que les sous-sols, les réseaux d’assainissement ainsi que l’ensemble des réseaux autres enterré ( électrique , Gaz , eau …), les espaces verts ainsi que la zone humide intégrée au projet, les sous-sol existants (pollution , nappe , sol types …) , les voiries ainsi que les espaces publics.
 
 <p>&nbsp;</p>
 
@@ -103,7 +103,7 @@ Le BIM en accord avec le CIM et le LIM permettrait de **définir des maquettes �
 
 L'objectif n'est pas de demain connaître toutes les données d'une ville en temps réel: la consommation d'eau au volume près de chaque habitant, la détection de l'emplacement d'une fuite dans une canalisation souterraine... Les services municipaux seraient submergés d'informations qui les rendraient impossible à traiter.
 
-Néanmoins, une Smart City raisonnée et pensée en amont par les pouvois publics sera un outil formidable pour l'évolution des villes et notre impact sur l'environnement. 
+Néanmoins, une Smart City raisonnée et pensée en amont par les pouvoirs publics sera un outil formidable pour l'évolution des villes et notre impact sur l'environnement. 
 
 Le digital et son implémentation au travers du 🏗️ BIM, 🏙️ CIM & du 🌳 LIM sera l'outil indispensable dans cette évolution. 
 <p>&nbsp;</p>

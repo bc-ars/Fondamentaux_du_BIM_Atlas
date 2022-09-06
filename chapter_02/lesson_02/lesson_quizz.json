@@ -1,7 +1,7 @@
 { "questions":
   [
     {
-      "content": "Quel acteur est concerné par le BIM ?",
+      "content": "Quel acteur est concerné par le BIM ",
       "explanation": " Tous les acteurs cités sont concernés par le BIM !",
       "answers": [
         {

@@ -1,9 +1,9 @@
-# Les objectifs BIM.
+# Les objectifs BIM
 
 ------------------------------
 
 
-Quel que soit le type de projet (rénovation ou neuf),si l’on décide de faire du BIM, la garantie de la qualité du processus BIM devient une priorité. La Maîtise d’ouvrage qui décide de travailler avec du BIM a des objectifs précis, en terme de qualité dans la réalisation mais également dans la vie du bâtiment après sa réalisation. Il arrive malheureusement que le projet en BIM n’est apporté aucune plus-value, qu’il est engendré une perte de temps et d’argent avec une modélisation finale inutilisable. C’est le cas lorsque les objectifs BIM ne sont pas clairement ciblés. Analysons comment les objectifs BIM sont mis en place dans un projet à partir des attentes du Maître d’ouvrage.
+Quel que soit le type de projet (rénovation ou neuf), si l’on décide de faire du BIM, la garantie de la qualité du processus BIM devient une priorité. La Maîtise d’ouvrage qui décide de travailler avec du BIM a des objectifs précis, en terme de qualité dans la réalisation mais également dans la vie du bâtiment après sa réalisation. Il arrive malheureusement que le projet en BIM n’est apporté aucune plus-value, qu’il est engendré une perte de temps et d’argent avec une modélisation finale inutilisable. C’est le cas lorsque les objectifs BIM ne sont pas clairement ciblés. Analysons comment les objectifs BIM sont mis en place dans un projet à partir des attentes du Maître d’ouvrage.
 <p>&nbsp;</p>
 
 ## La définition des Objectifs BIM
@@ -11,7 +11,7 @@ Quel que soit le type de projet (rénovation ou neuf),si l’on décide de faire
 -------------------------------
 <p>&nbsp;</p>
 
-Il est crucial d'établir les principaux objectifs que le donneur d’ordres veut accomplir pour chaque projet. Tout découle des objectifs du maître d'ouvrage, il est difficile d'assurer la qualité du processus BIM sans objectifs clairs et définis. Ces objectifs sont ensuite décrits dans leurs étapes par usages BIM, qui engendreront les processus nécessaires à leurs réalisations.
+Il est crucial d'établir les principaux objectifs que le donneur d’ordres veut accomplir pour chaque projet. Tout découle des objectifs du Maître d'Ouvrage, il est difficile d'assurer la qualité du processus BIM sans objectifs clairs et définis. Ces objectifs sont ensuite décrits dans leurs étapes par usages BIM, qui engendreront les processus nécessaires à leurs réalisations.
 
 Par conséquent, une question principale doit être posée à la MOA: Comment voulez-vous utiliser le BIM sur ce projet ?
 <p>&nbsp;</p>
@@ -22,13 +22,13 @@ Par conséquent, une question principale doit être posée à la MOA: Comment vo
 Qu’attendez-vous du BIM sur le projet ?
 
 * Une meilleure compréhension du projet grâce à la 3D et à l’immersion 3D ?
-* L’anticipation d’une réglementation qui tend vers le BIM coimme dans les pays anglo-saxons ?
+* L’anticipation d’une réglementation qui tend vers le BIM comme dans les pays anglo-saxons ?
 * La réduction des erreurs de conception ?
 * La réduction des erreurs de réalisation ?
 * Une meilleure maîtrise du planning ?
 * Une meilleure maîtrise du coût de la construction ?
-* Une aide à la prise de décition ?
-* Permettre de constituer le support numérique “lmaqueztte DOE” pour le client après la réception de l’ouvrage ?
+* Une aide à la prise de décision ?
+* Permettre de constituer le support numérique “lmaquette DOE” pour le client après la réception de l’ouvrage ?
 * etc….
 
 S’il existe dans le projet, le rôle de l’AMO BIM est de reformuler les objectifs du Maître d’Ouvrage dans un langage compréhensible par les contributeurs BIM. Comme dans toute gestion de projet, un objectif BIM doit être SMART:
@@ -46,20 +46,25 @@ Les objectifs sont multiples et doivent être en corrélation avec les attentes 
 <p>&nbsp;</p>
 
 ![MOA_Objectifs.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/MOA_Objectifs.png)
+
+<p>&nbsp;</p>
+
+_Le MOA face à la maquette numérique et ses possibilités_
+
 <p>&nbsp;</p>
 
 ## Les objectifs BIM dans la documention BIM
 
 ---------------------------------------
 
-Le Cahier des Charges BIM du client inclut une définition des Objectifs BIM pour le projet. La Convention BIM a été créée pour répondre aux exigences du projet définit par ces objectifs BIM. Dans le cas l’AMO BIm est absent, les Objectifs BIM et leur niveau de priorité sont déterminés par une analyse réalisée par l'équipe BIM Management en lien avec le maître d'œuvre et les besoins précisés dans le marché.
+**Le Cahier des Charges BIM du client inclut une définition des Objectifs BIM pour le projet.** La Convention BIM a été créée pour répondre aux exigences du projet définit par ces objectifs BIM. Dans le cas l’AMO BIM est absent, les Objectifs BIM et leur niveau de priorité sont déterminés par une analyse réalisée par l'équipe BIM Management en lien avec le Maître d'Oeuvre et les besoins précisés dans le marché.
 
-Le BIM Management est chargé de mettre ces objectifs en lien avec des Usages BIM afin de concevoir les processus d'exécution BIM dans la convention BIM. Cela nécessite donc de maîtriser ces concepts. Il sera important de hiérarchiser les objectifs choisis en fonction de leur valeur ou phase de projet, en fonction de la quantité et de l'importance des Objectifs BIM choisis. Le BIM Management est responsable du classement ou de la priorisation des Objectifs BIM en fonction de l'orientation du projet. Après cela, les objectifs BIM sont classés dans l'une des ces deux catégories :
+Le BIM Management est chargé de mettre ces objectifs en lien avec des Usages BIM afin de concevoir les processus d'exécution BIM dans la convention BIM. Cela nécessite donc de maîtriser ces concepts. Il sera important de hiérarchiser les Objectifs BIM en fonction de leur valeur ou phase de projet, de la quantité et de l'importance. Le BIM Management est responsable du classement ou de la priorisation des Objectifs BIM en fonction de l'orientation du projet. Après cela, les objectifs BIM sont classés dans l'une des ces deux catégories :
 
 * Priorité de réalisation
 * Phase de mise en œuvre
 
-Les Usages BIM sont définis par le BIM Management à la lumière des Objectifs BIM. L’exemple ci-dessous est tirée de la Socité du Grand Paris. Elle a listé les objectifs BIM en fonction de leurs priorités et les phases du projet:
+Les Usages BIM sont définis par le BIM Manager à la lumière des Objectifs BIM. L’exemple ci-dessous est tirée de la Socité du Grand Paris. Elle a listé les objectifs BIM en fonction de leurs priorités et les phases du projet:
 <p>&nbsp;</p>
 
 ![objectifs_BIM.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/objectifs_BIM.png)
@@ -80,7 +85,7 @@ _Déclinaison de l'objectif 2 par la Société du Grand Paris_
 ---------------------------
 
 
-Lorsqu'ils ne sont pas déjà articulés dans la description générale du projet et par l’AMO BIM, l'élaboration des Objectifs BIM est la tâche la plus délicate du BIM Management. l’AMO BIM et le BIM Management doivent tenir une veille des dernières avancées du BIM.
+Lorsqu'ils ne sont pas déjà articulés dans la description générale du projet et par l’AMO BIM, l'élaboration des Objectifs BIM est la tâche la plus délicate du BIM Management. l’AMO BIM et le BIM Manager doivent tenir une veille des dernières avancées du BIM.
 
 Leur expertise est cruciale dans l'application des concepts fondamentaux du BIM, des normes, des outils, des solutions et des procédures qui seront mis en place.
 

@@ -11,7 +11,7 @@
 <p>&nbsp;</p>
 
 
-Il est important de bien cerné les besoins de chacuns au cours du projet pour comprendre quels types de logiciels BIM on va utiliser. 
+Il est important de bien cerner les besoins de chacuns au cours du projet pour comprendre quels types de logiciels BIM on va utiliser. 
 On peut définir 4 types de logiciels BIM:
 <p>&nbsp;</p>
 
@@ -60,7 +60,7 @@ L’Industry Foundation Class (IFC) a pour objectif d’améliorer l’intérop�
 
 ![ifc.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc.png)
 <p>&nbsp;</p>
-L’IFC est le standard de base d’échange de données basé sur l’OpenBIM. Le BIM ne saurait exister sans l’IFC puisqu’il garantit la collaboration et l’interopérabilité du processus. C’est un standard non-propriétaire (il n’est la propriété d’aucun éditeur de logiciels), neutre. Un fichier IFC contient des informations géométriques et de données.
+L’IFC est le standard de référence d’échange de données basé sur l’OpenBIM. Le BIM ne saurait exister sans l’IFC puisqu’il garantit la collaboration et l’interopérabilité du processus. C’est un standard non-propriétaire (il n’est la propriété d’aucun éditeur de logiciels), neutre. Un fichier IFC contient des informations géométriques et de données.
 <p>&nbsp;</p>
 Le BCF (BIM COLLABORATION FORMAT) permet de réaliser des annotations sur la maquette numérique. À la manière des commentaires visibles sur des documents provenants de logiciel de traitement de texte comme Word. On peut le schématiser comme un post-it que l’on va poser sur une maquette numérique afin de mettre en évidence une remarque sur un ou plusieurs éléments de celle-ci.
 <p>&nbsp;</p>

@@ -31,7 +31,7 @@ La maquette numérique va se retrouver au centre des échanges durant le process
 
 <p>&nbsp;</p>
 
-Avec le BIM, De nouveaux postes font leur apparition et certains sont redéfinis:
+Avec le BIM, de nouveaux postes font leur apparition et certains sont redéfinis:
 <p>&nbsp;</p>
 
 ![metiers_BIM.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/metiers_BIM.png)
@@ -54,7 +54,7 @@ On gardera bien en tête la courbe de McLeamy illustrant l’apport du BIM visé
 ![McLeamy.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/McLeamy.png)
 <p>&nbsp;</p>
 
-À mesure de la réalisation du projet, il devient de plus en plus difficile de le modifier (courbe bleue) et les coûts de modifications (courbe rouge) augmente. Le BIM permet de déplacer le centre de gravité d’un projet traditionnel (courbe noire) afin de concentrer plus en amont les efforts de conception et production (courbe verte). Les impacts de modifications sur le projet deviennent alors moins critiques et les changements minimisés.
+À mesure de la réalisation du projet, il devient de plus en plus difficile de le modifier (courbe bleue) et les coûts de modifications (courbe rouge) augmentent. Le BIM permet de déplacer le centre de gravité d’un projet traditionnel (courbe noire) afin de concentrer plus en amont les efforts de conception et production (courbe verte). Les impacts de modifications sur le projet deviennent alors moins critiques et les changements minimisés.
 
 <p>&nbsp;</p>
 

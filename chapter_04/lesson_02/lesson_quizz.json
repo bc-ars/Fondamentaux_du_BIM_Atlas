@@ -1,21 +1,21 @@
 { "questions":
   [
     {
-      "content": "Un objet BIM peut être lu avec toutes ces caractéristiques (longueur, largeur, matériaux poids, resistance thermique...) quel que soit le logiciel utilisé par l'un des corps de métiers ?",
-      "explanation": " Les logiciels BIM vont intéragir avec des fichiers aux formats BIM particuliers qui peuvent être natifs (dépendant de l’éditeur du logiciel) ou alors au standard IFC (pouvant être ouvert par n’importe quel logiciel BIM).",
+      "content": "Un objet BIM peut être lu avec toutes ces caractéristiques (longueur, largeur, matériaux poids, resistance thermique...) quel que soit le logiciel utilisé par l'un des corps de métiers ",
+      "explanation": " Les logiciels BIM vont intéragir avec des fichiers aux formats BIM particuliers qui peuvent être natifs (dépendant de l’éditeur du logiciel) ou alors au standard IFC (pouvant être ouvert par n’importe quel logiciel BIM). Il peut y avoir des pertes d'informations lorsqu'on exporte en IFC depuis un format natif",
       "answers": [
         {
           "content": "Faux",
-          "is_correct": "false"
+          "is_correct": "true"
         },
         {
           "content": "Vrai",
-          "is_correct": "true"
+          "is_correct": "false"
         }
       ]
     },
     {
-      "content": "Un AMO BIM a nécessairement besoin d'un logiciel de modélisation BIM dans son rôle:",
+      "content": "Un AMO BIM a nécessairement besoin d'un logiciel de modélisation BIM dans son rôle",
       "explanation": " Un AMO BIM ne participe pas à la modélisation et n'a en général pas besoin de disposer d'un logiciel de modélisation BIM.",
       "answers": [
         {

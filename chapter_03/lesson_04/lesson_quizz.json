@@ -1,7 +1,7 @@
 { "questions":
   [
     {
-      "content": "Les Objectifs BIM découlent des besoins: ",
+      "content": "De quels besoins découlent les Objectifs BIM ",
       "explanation": " Les Objectifs BIM sont la transcription des besoins de la Maîtrise d'Ouvrage dans son projet dans le langage du BIM.",
       "answers": [
         {
@@ -13,22 +13,22 @@
           "is_correct": "true"
         },
         {
-          "content": "de l'entreprise en charge des travaux'",
+          "content": "de l'entreprise en charge des travaux",
           "is_correct": "false"
         }
       ]
     },
     {
-      "content": "Les objectifs BIM ne nécessitent pas d'être hierarchisés ou priorisés ",
+      "content": "Est-il vrai que les objectifs BIM nécessitent d'être hierarchisés ou priorisés ",
       "explanation": "La hiérarchisation en priorité et phase de réalisation des Objectifs BIM est une des tâches essentiels du BIM Manager.",
       "answers": [
         {
-          "content": "Faux",
-          "is_correct": "true"
+          "content": " Faux",
+          "is_correct": "false"
         },
         {
-          "content": "Vrai",
-          "is_correct": "false"
+          "content": " Vrai",
+          "is_correct": "true"
         }
       ]
     }

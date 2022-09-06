@@ -20,11 +20,11 @@ Néanmoins, en raison d'un manque de confiance dans les données partagées et d
 
 Les problèmes sous-jacents affectant l'industrie du bâtiment et son management de projet ne sont effet toujours pas résolus. Le secteur est confronté à des problèmes qui sont souvent les suivants :
 
-* Échanges d'informations approximatiifs à travers des briefings, des propositions et des prix qui varient.
+* Échanges d'informations approximatifs à travers des briefings, des propositions et des prix qui varient.
 * Des décisions subjectives (conception, gestion de projet, etc.) fondées sur des connaissances tirées de données imprécises, souvent partielles et finalement invérifiables ;
 * La programmation des tâches et des activités n'est pas fréquemment partagée ou cohérente entre les membres de l'équipe ;
 * Informations sur les coûts qui varient d'un projet à l'autre et qui ne sont pas suffisamment transparentes
-* le manque de communication initiales avec les utilisateurs finaux qui en fin de compte, exploiteront les actifs construits. 
+* Le manque de communication initiales avec les utilisateurs finaux qui en fin de compte, exploiteront les actifs construits. 
 * Non-respect des délais et des plannings 
 * Problèmes signalés trop tard ou sans les preuves requises. 
 * Rétroaction et directives incohérentes (verbales ou écrites) tout au long du projet. 
@@ -53,14 +53,14 @@ Le BIM, utilisé isolément ne pourra pas résoudre ces problèmes. Les procédu
 
 <p>&nbsp;</p>
 
-Le BIM nécessite un travail d'équipe collaboratif entre toutes les parties prenantes. Le flux de travail simplifié de la structure du bâtiment illustré à la figure 1 illustre les interactions entre les rôles de l'architecte, de l'ingénieur en structure et de l'ingénieur des services du bâtiment.
+Le BIM nécessite **un travail d'équipe collaboratif** entre toutes les parties prenantes. Le flux de travail simplifié de la structure du bâtiment scématisé dans l'image précédente illustre les interactions entre les rôles de l'architecte, de l'ingénieur en structure et des autres acteurs du bâtiment.
 
 Le flux de travail ne fonctionnera pas correctement si l'une des parties est absente. Deux éléments essentiels sont nécessaires au processus BIM : 
 - Les informations que chaque participant doit fournir doivent être clairement indiquées. Les exigences en matière d'informations sur les échanges incluent celles-ci.
 - Les participants doivent exprimer (et approuver) leur plan pour fournir l'information selon les besoins. 
 Le cahier des chargès BIM et la convention BIM en font mention. Ce n'est qu'avec des protocoles d'échange d'informations, des normes pour les livrables et des procédures en place pour vérifier le travail de chacun que le BIM pourra permettre d’augmenter l'efficacité de la gestion d’un projet et réduire les erreurs. Ce processus ne modifient pas radicalement les savoir-faire de chacun des acteurs.
 
-La maquette numérique instaure un périmètre de travail strict et clair ainsi qu’une organisation des informations nouvelle. Cette digitalisation implique que chaque acteur y participe. L’outil BIM permet la compilation de TOUTES les données du projet de construction.
+La **maquette numérique instaure** un périmètre de travail strict et clair ainsi qu’**une organisation des informations nouvelle**. Cette digitalisation implique que chaque acteur y participe. L’outil BIM permet la compilation de **TOUTES les données** du projet de construction.
 <p>&nbsp;</p>
 
 ![bim-cycle.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/bim-cycle.jpeg)
@@ -89,7 +89,7 @@ La courbe dite de McLeamy illustre bien l’apport du BIM visé en comparaison d
 ![McLeamy.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/McLeamy.png)
 <p>&nbsp;</p>
 
-À mesure de la réalisation du projet, il devient de plus en plus difficile de le modifier (courbe bleue) et les coûts de modifications (courbe rouge) augmente. Le BIM permet de déplacer le centre de gravité d’un projet traditionnel (courbe noire) afin de concentrer plus en amont les efforts de conception et production (courbe verte). Les impacts de modifications sur le projet deviennent alors moins critiques et les changements minimisés.
+À mesure de la réalisation du projet, il devient de plus en plus difficile de le modifier (courbe bleue) et les coûts de modifications (courbe rouge) augmentent. Le BIM permet de déplacer le centre de gravité d’un projet traditionnel (courbe noire) afin de concentrer plus en amont les efforts de conception et production (courbe verte). Les impacts de modifications sur le projet deviennent alors moins critiques et les changements minimisés.
 
 <p>&nbsp;</p>
 

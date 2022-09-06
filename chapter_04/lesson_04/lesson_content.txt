@@ -27,9 +27,9 @@ Comment fait-on dans un projet où chacun des utilisateurs travaille sur un logi
 
 L’Industry Foundation Class (IFC) a pour objectif d’améliorer l’intéropérabilité entre les multiples logiciels BIM issus d’éditeurs différents.
 
-En 1994, Autodesk crée l’International Alliance for Interoperability ou IAI (Allliance internationale pour l’interopérabilité), en association avec 12 entreprises. Le but de cette association est de créer un modèle conceptuel de définitions, de classes d’objets hierarchisés et structurés de manière à être lus et interprétés par n’imprte quel logiciel BIM.
+En 1994, Autodesk crée l’International Alliance for Interoperability ou IAI (Allliance internationale pour l’interopérabilité), en association avec 12 entreprises. Le but de cette association est de créer un modèle conceptuel de définitions, de classes d’objets hierarchisés et structurés de manière à être lus et interprétés par n’importe quel logiciel BIM.
 
-Depuis 2005, cette association opère sous le nom de buildingSMART ([](https://www.buildingsmart.org/)https://www.buildingsmart.org/).
+Depuis 2005, cette association opère sous le nom de BuildingSMART ([](https://www.buildingsmart.org/)https://www.buildingsmart.org/).
 <p>&nbsp;</p>
 
 
@@ -42,13 +42,13 @@ _Logo de l'association BuildingSMart_
 <p>&nbsp;</p>
 En France, BuildingSMART est représenté par Mediaconstruct ([](https://buildingsmartfrance-mediaconstruct.fr/)https://buildingsmartfrance-mediaconstruct.fr/), association professionnelle créée avant BuildingSMART en 1989. Elle accompagne la généralisation des usages de la maquette numérique et du BIM en France et contribue au développement de l'openBIM et de l’interopérabilité. Médiaconstruct est le chapitre (Chapter) français de BuildingSMART, comme d’autres chapitres existent dans plusieurs pays du monde.
 
-Au niveau international, BuildingSMART améliore en continu les échanges de données entre différents logiciels BIM. Elle garantit les normes, standards, et outils entre les plateformes. Elle développe et standardisent des formats dit “Open” qui participent à définir l’OpenBIM:
+Au niveau international, BuildingSMART améliore en continu les échanges de données entre différents logiciels BIM. Elle garantit les normes, standards, et outils entre les plateformes. Elle développe et standardise des formats dit “Open” qui participent à définir l’OpenBIM:
 
 * IFC (Industry Foundation Class): le format ouvert pour les maquettes numériques.
 * bsDD (buildingSmart Data Dictionnary): une bibliothèque d’objets et de leurs attributs.
 * BCF (BIM Collaboration Format): le format ouvert pour les annotaions dans les maquettes numériques.
 
-L’OpenBIM se veut une approche universel dans la conception et la réalisation des bâtiments basés sur ces standards ouverts.
+L’OpenBIM se veut une approche universelle dans la conception et la réalisation des bâtiments basés sur ces standards ouverts.
 
 <p>&nbsp;</p>
 
@@ -57,12 +57,12 @@ L’OpenBIM se veut une approche universel dans la conception et la réalisation
 ---------------------------------------
 <p>&nbsp;</p>
 
-L’IFC est le standard de base d’échange de données basé sur l’OpenBIM. Le BIM ne saurait exister sans l’IFC puisqu’il garantit la collaboration et l’interopérabilité du processus. C’est un standard non-propriétaire (il n’est la propriété d’aucun éditeur de logiciels), neutre. Un fichier IFC contient des informations géométriques et de données.
+L’IFC est le standard de référence d’échange de données basé sur l’OpenBIM. Le BIM ne saurait exister sans l’IFC puisqu’il garantit la collaboration et l’interopérabilité du processus. C’est un standard non-propriétaire (il n’est la propriété d’aucun éditeur de logiciels), neutre. Un fichier IFC contient des informations géométriques et de données.
 <p>&nbsp;</p>
 
 ![ifc.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc.png)
 <p>&nbsp;</p>
-Il hierarchise et classifie les objets selon leurs types. Tous les types d’objets du monde de laconstruction se retrouvent dans les classes d’obets IFC: murs, fondations, portes, fenêtres, poutres….
+Il hierarchise et classifie les objets selon leurs types. Tous les types d’objets du monde de la construction se retrouvent dans les classes d’obets IFC: murs, fondations, portes, fenêtres, poutres….
 <p>&nbsp;</p>
 
 ![ifc_objects.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/ifc_objects.png)
@@ -205,7 +205,7 @@ L’arborescence spatiale de chaque objet de la maquette numérique les rattache
 
 <p>&nbsp;</p>
 
-On désigne BCF par BIM Collaboration Format. C’est un format qui a été développé par BuildingSmart et élaboré sur la base du XML (eXtensible Markup Language ou langage de balisage extensible, lui-même très connu dans le monde de l’informatique.
+On désigne BCF par BIM Collaboration Format. C’est un format qui a été développé par BuildingSmart et élaboré sur la base du XML (eXtensible Markup Language ou langage de balisage extensible, lui-même très connu dans le monde de l’informatique).
 
 Le BCF permet de réaliser des annotations sur la maquette numérique. À la manière des commentaires visibles sur des documents provenants de logiciel de traitement de texte comme Word. On peut le schématiser comme un post-it que l’on va poser sur une maquette numérique afin de mettre en évidence une remarque sur un ou plusieurs éléments de celle-ci.
 <p>&nbsp;</p>
@@ -239,7 +239,7 @@ _Exemple de BCF réalisé avec la visionneuse EveBIM sur la maquette olumpi_
 
 ---------------------------
 <p>&nbsp;</p>
-L'IFC conserve numériquement les informations d’un projet durant le cycle de vie de l'édifice. Avec le BCF, ils constituent la pierre angulaire de  l’OpenBIM, garantissant un processus BIM interopérable, et la possibilité d'une collaboration avec tous les contributeurs BIM. Ces formats ouverts sont aménés à évoluer dans le temps pour se rapprocher toujours plus de la réalité du terrain et la constitution d'un jumeau numérique pérenne.
+L'IFC conserve numériquement les informations d’un projet durant le cycle de vie de l'édifice. Avec le BCF, ils constituent la pierre angulaire de l’OpenBIM, garantissant un processus BIM interopérable, et la possibilité d'une collaboration avec tous les contributeurs BIM. Ces formats ouverts sont aménés à évoluer dans le temps pour se rapprocher toujours plus de la réalité du terrain et la constitution d'un jumeau numérique pérenne.
 
 <p>&nbsp;</p>
 

@@ -1,7 +1,7 @@
 { "questions":
   [
     {
-      "content": "Le format utilisé par les visionneuses BIM est",
+      "content": "Quel est le format utilisé par les visionneuses BIM ",
       "explanation": " l'IFC est le PDF du BIM",
       "answers": [
         {
@@ -16,16 +16,16 @@
       ]
     },
     {
-      "content": "Un fichier BCF ne dépend pas d'une maquette numérique.",
+      "content": "Un fichier BCF dépend-il d'une maquette numérique.",
       "explanation": " Le BCF permet de réaliser des annotations sur la maquette numérique. Sans cette maquette numérique, il ne prend aucun sens.",
       "answers": [
         {
           "content": "Faux",
-          "is_correct": "true"
+          "is_correct": "false"
         },
         {
           "content": "Vrai",
-          "is_correct": "false"
+          "is_correct": "true"
         }
       ]
     }

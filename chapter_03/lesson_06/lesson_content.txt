@@ -9,12 +9,12 @@
 -----------------------------------
 
 <p>&nbsp;</p>
-La définition des niveaux de développement (LOD) peut être schématisé ci-dessous:
+La définition des niveaux de développement (LOD) peut être schématisée ci-dessous:
 <p>&nbsp;</p>
 
 ![LOD.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_Projet/LOD.png)
 <p>&nbsp;</p>
-_Les LODS pour une chaise de bureau (source: http://practicalbim.blogspot.com/)_
+_Les LODs pour une chaise de bureau (source: http://practicalbim.blogspot.com/)_
 
 <p>&nbsp;</p>
 
@@ -25,7 +25,7 @@ Les LODs sont l’addition du Niveau de Détail (Level of Detail: LoD) et du Niv
 
 Pour une même phase le niveau de détail graphique peut être différent selon les lots et les besoins du projet.
 
-Les conventions BIM désignent avec précision le niveau de LOD attendu pour chacune des phases. On retrouve généralement en annexe un tableau des niveau de développement de chacun des objets BIM qui constuituent la maquette numérique.
+**Les conventions BIM désignent avec précision le niveau de LOD attendu pour chacune des phases**. On retrouve généralement en annexe un tableau des niveaux de développement de chacun des objets BIM qui constuituent la maquette numérique.
 
 
 <p>&nbsp;</p>
@@ -47,7 +47,7 @@ Les conventions BIM désignent avec précision le niveau de LOD attendu pour cha
 <p>&nbsp;</p>
 
 
-Le BIM contient divers documents. Selon l'acteur et selon que l'on travaille sur un projet spécifique ou sur uen typologie de projets, chacun de ces documents sera pertinent à son niveau. Quoi qu'il en soit, le but de chaque document est d'établir le processus de collaboration entre les parties en décrivant leurs missions respectives et leurs techniques de modélisation et d'échange d'idées.
+Le BIM contient divers documents. Selon l'acteur et selon que l'on travaille sur un projet spécifique ou sur une typologie de projets, chacun de ces documents sera pertinent à son niveau. Quoi qu'il en soit, le but de chaque document est d'établir le processus de collaboration entre les parties en décrivant leurs missions respectives et leurs techniques de modélisation et d'échange d'idées.
 
 <p>&nbsp;</p>
 

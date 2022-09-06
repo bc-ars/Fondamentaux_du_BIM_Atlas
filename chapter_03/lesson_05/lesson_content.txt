@@ -16,9 +16,9 @@ Les objectifs BIM définis, nous devons maintenant réfléchir à la méthode qu
 
 
 
-Le Plan Transition Numérique dans le Bâtiment (PTNB) définit l’usage BIm dans son Guide de recommandations à la Maitrise d’Ouvrage comme suit:
+Le Plan Transition Numérique dans le Bâtiment (PTNB) définit l’usage BIM dans son Guide de recommandations à la Maitrise d’Ouvrage comme suit:
 
-“C’est une explication de processus intégrant des pratiques BIM, c’est-à-dire la description d’un processus concret, tel qu’il sera mis en oeuvre sur un projet. Cela permet de décrire factuellement les usages voulus des maquettes numériques, les interactions des différents acteurs avec cette base de données, pour des actions métiers précises allant de la production d’images jusqu’à l’exploitation de bâtiment.”
+“C’est une explication de processus intégrant des pratiques BIM, c’est-à-dire la description d’un processus concret, tel qu’il sera mis en œuvre sur un projet. Cela permet de décrire factuellement les usages voulus des maquettes numériques, les interactions des différents acteurs avec cette base de données, pour des actions métiers précises allant de la production d’images jusqu’à l’exploitation de bâtiment.”
 
 La fonction d’un usage BIM est de définir un vocabulaire uniforme pour expliquer l'utilisation ciblée du BIM dans un projet afin d'en améliorer la communication
 
@@ -44,7 +44,7 @@ Ces usages sont eux-mêmes inspirés de "Uses of BIM from the Computer Integrate
 -------------------------------
 <p>&nbsp;</p>
 
-L'objectif fondamental de la mise en œuvre d'un usage BIM est indiqué par l'objectif dans l'utilisation du BIM. Le tableau ci-dessous répertorie les cinq catégories de base des objectifs d'utilisation du BIM : rassembler ou receuillir, générer, analyser, communiquer et exécuter ou réaliser.
+L'objectif fondamental de la mise en œuvre d'un usage BIM est indiqué par la finalité voulue dans l'utilisation du BIM. Le tableau ci-dessous répertorie les cinq catégories de base des objectifs d'utilisation du BIM : rassembler ou receuillir, générer, analyser, communiquer et exécuter ou réaliser.
 <p>&nbsp;</p>
 
 ![usages_BIM_buts.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/usages_BIM_buts.jpeg)
@@ -52,28 +52,28 @@ L'objectif fondamental de la mise en œuvre d'un usage BIM est indiqué par l'ob
 
 Un utilisateur peut définir plus précisément l'utilisation du BIM en fonction des caractéristiques communes des travaux et des projets grâce aux caractéristiques de l'usage BIM.
 
-On identifie quatre catégories de base pour les caractéristiques : élément, phase du projet, discipline et niveau de développement. Un Usage BIM spécifique est définit de manière plus spécifique par ces critères:
+On identifie quatre catégories de base pour les caractéristiques : élément, phase du projet, discipline et niveau de développement. Un Usage BIM particulier est définit de manière plus spécifique par ces critères:
 
 <p>&nbsp;</p>
 
 ![usages_BIM_caracteristiques.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/usages_BIM_caracteristiques.jpeg)
 <p>&nbsp;</p>
-Les Usages BIM sont divisés en catégories en fonction de leurs objectifs. L'objectif précis qui doit être atteint lors de l'utilisation du BIM tout au long du cycle de vie d'un projet constitue l'attribut d’un usage BIM. Selon les attributs d'attribut tels que le titre, l'objectif, le synonyme et la description, l’usage BIM est mieux cadré.
+Les Usages BIM sont divisés en catégories en fonction de leurs objectifs. L'objectif précis qui doit être atteint lors de l'utilisation du BIM tout au long du cycle de vie d'un projet constitue l'attribut d’un usage BIM. Selon les attributs tels que le titre, l'objectif, le synonyme et la description, l’usage BIM est mieux cadré.
 
 <p>&nbsp;</p>
 
-![usages_BIM_attributs.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/usages_BIM_attributs.jpeg)
+![usages_BIM_attributs.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/usages_BIM_attributs.jpeg "usages_BIM_attributs.jpeg")
 <p>&nbsp;</p>
 
 Pour chaque étape de programmation, conception, éxécution et exploitation/maintenance, la liste des Usages BIM retenus pour un projet est mise à jour. Le BIM peut concerner toutes ou certaines phases du projet.
 
-La Convention BIM fournit une explication des temporalités d'usages sous forme de tableau ou de chronologie. Vous pouvez ainsi voir les distributions et les durées des Usages BIM par phase de projet.
+**La Convention BIM** fournit une explication des temporalités d'usages sous forme de tableau ou de chronologie. Vous pouvez ainsi voir les distributions et les durées des Usages BIM par phase de projet.
 
 <p>&nbsp;</p>
 
 ![usages_BIM_convention.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/BIM_objectifs_usages/usages_BIM_convention.jpeg)
 <p>&nbsp;</p>
-La liste finale des usages BIM est décidée dans lors de la rédaction de la convention BIM.
+La **liste finale des Usages BIM** est décidée **dans** lors de la rédaction de la **convention BIM**.
 
 <p>&nbsp;</p>
 
@@ -82,7 +82,7 @@ La liste finale des usages BIM est décidée dans lors de la rédaction de la co
 
 -------------------------------
 <p>&nbsp;</p>
-Les Usages BIM répondent bien aux objectifs BIM dont ils sont la mise en application effective dans un projet. Il est nécessaire de bien définir le cadre du projet, et non aps se lancer tête baissée dans l’application de tous les usages BIM possibles. Cette phase de réfléxion est indispensable car elle conditionne le déploiement du BIM et son succès dans une opération. Les usages BIM vont avoir des répercussions sur le contenu des maquettes numériques associées au projet.
+Les Usages BIM répondent bien aux objectifs BIM dont ils sont la mise en application effective dans un projet. Il est nécessaire de bien **définir le cadre du projet**, et non pas se lancer tête baissée dans l’application de tous les usages BIM possibles. Cette phase de réfléxion est indispensable car elle conditionne le déploiement du BIM et son succès dans une opération. Les Usages BIM vont avoir des répercussions sur le contenu des maquettes numériques associées au projet.
 <p>&nbsp;</p>
 
 

@@ -1,7 +1,7 @@
 { "questions":
   [
     {
-      "content": "L'OpenBIM est la méthodologie par laquelle l'assemblage des maquettes projete fait par le biais d'un format d'échange propriétaire",
+      "content": "L'OpenBIM est la méthodologie par laquelle l'assemblage des maquettes projet se fait par le biais d'un format d'échange propriétaire",
       "explanation": " L’openBIM signifie de travailler avec le BIM à travers des logiciels, processus et standards ouverts. Le but est d’augmenter l’intégration et l’efficacité de tous les acteurs participant au projet pour faciliter les échanges d’informations.",
       "answers": [
         {
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "content": "Pour un travail collaboratif BIM efficace, tout le monde doit avoir le même logiciel.",
+      "content": "Pour un travail collaboratif BIM efficace, tout le monde doit-il avoir le même logiciel",
       "explanation": " L’idéal serait de travailler en Big Open BIM sur n’importe quel projet BIM. Plusieurs acteurs peuvent travailler sur des logiciels BIM différents mais l'exportation au format IFC doit conserver les informations et la géométrie des objets.",
       "answers": [
         {

@@ -4,7 +4,7 @@
 
 
 
-L'intérêt d'avoir une maquette numérique et d'utiliser la technologie BIM est de pouvoir collaborer entre entreprises avec des équipes internes et externes. **En 2008, au Royaume-Uni, Mark Bew et Mervyn Richards** élaboré une schéma permettant de classifier le niveau de maturité d'une organisation.
+L'intérêt d'avoir une maquette numérique et d'utiliser la technologie BIM est de pouvoir collaborer entre entreprises avec des équipes internes et externes. **En 2008, au Royaume-Uni, Mark Bew et Mervyn Richards** a élaboré un schéma permettant de classifier le niveau de maturité d'une organisation.
 
 ![niveau_maturite](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/niveau_maturite.jpeg)
 
@@ -16,7 +16,7 @@ L'intérêt d'avoir une maquette numérique et d'utiliser la technologie BIM est
 
 
 
-La majorité des agences d'architecture se trouvent au niveau 0. C'est la **méthode traditionnelle de travail** avec un apport minime du numérique. Les dessins sont d'abord réalisés sur papier avant d’être retranscris grâce à la CAO en 2D. On transmets ces différents fichiers en .dwg, .pdf... Chaque agence peut avoir sa propre forme de représentation. La collaboration n'est pas simple puisqu'il faut à chaque fois vérifier la cohérence générale du projet, et il est très difficile de standardiser les échanges.
+La majorité des agences d'architecture se trouvent au niveau 0. C'est la **méthode traditionnelle de travail** avec un apport minime du numérique. Les dessins sont d'abord réalisés sur papier avant d’être retranscris grâce à la CAO en 2D. On transmet ces différents fichiers en .dwg, .pdf... Chaque agence peut avoir sa propre forme de représentation. La collaboration n'est pas simple puisqu'il faut à chaque fois vérifier la cohérence générale du projet, et il est très difficile de standardiser les échanges.
 
 ![niveau0](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/niveau0.jpeg)
 
@@ -38,7 +38,7 @@ On atteint un premier véritable niveau de BIM avec le niveau de maturité 1. Un
 
 -------------------------------
 
-**Chaque discipline conçoit une maquette numérique pour son lot et son usage**. Elles permettent chacune **l'interopérabilité**. Les acteurs peuvent tester, comparer, et améliorer leurs maquettes grâce aux autres modèles issus des autres corps de métier: on parle d'échanges bidirectionnels. Les modèles contiennent des informations détaillés qui interagissent avec des paramètres de la maquette et sont donc intelligents. **On a maintenant une vraie collaboration** car ces informations sont échangées avec l’entièreté des modèles (aux formats natifs ou IFC) et non plus sous la forme de livrables ne permettant que la visualisation brute (type pdf). Grâce à des outils, on peut comparer différentes versions d'un fichier, détecter des clashs entre modèles et même notifier les utilisateurs de changement instantanément. La **mise à jour de chacun des modèles se fait de manière asynchrone**.
+**Chaque discipline conçoit une maquette numérique pour son lot et son usage**. Elles permettent chacune **l'interopérabilité**. Les acteurs peuvent tester, comparer, et améliorer leurs maquettes grâce aux autres modèles issus des autres corps de métier: on parle d'échanges bidirectionnels. Les modèles contiennent des informations détaillées qui interagissent avec des paramètres de la maquette et sont donc intelligents. **On a maintenant une vraie collaboration** car ces informations sont échangées avec l’entièreté des modèles (aux formats natifs ou IFC) et non plus sous la forme de livrables ne permettant que la visualisation brute (type pdf). Grâce à des outils, on peut comparer différentes versions d'un fichier, détecter des clashs entre modèles et même notifier les utilisateurs de changement instantanément. La **mise à jour de chacun des modèles se fait de manière asynchrone**.
 
 ![niveau2](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/niveau2.jpeg)
 

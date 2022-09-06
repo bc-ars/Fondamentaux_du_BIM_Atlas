@@ -5,7 +5,7 @@
 
 Un projet de construction fait intervenir des intervenants aux compétences multiples et dont le degré d’implication va varier en fonction du métier et de la phase de projet. Le processus BIM n’échappe pas à la règle, beaucoup de logiciels différents existent, ayant chacun des caractéristiques et fonctions particulières, et il est parfois difficile de s’y retrouver
 
-On peut mettre en oeuvre un projet BIM avec différents logiciels qui ont chacun leur caractéristiques et leurs particularités propres.
+On peut mettre en oeuvre un projet BIM avec différents logiciels qui ont chacun leurs caractéristiques et leurs particularités propres.
 
 Ces logiciels vont intéragir avec des fichiers aux formats BIM particuliers qui peuvent être natifs (dépendant de l’éditeur du logiciel) ou alors au standard IFC (pouvant être ouvert par n’importe quel logiciel BIM). Nous avons vu que ces fichiers contiennent une grande quantité d’informations liée à la géométrie ou aux propriétés. Nous allons voir ensemble les types de logiciels que l’on rencontre lorsqu’on travaille en BIM.
 <p>&nbsp;</p>
@@ -27,7 +27,7 @@ Ils peuvent avoir une spécialité selon le domaine et la phase du projet (conce
 
 Ils permettent de visualiser des géométries et/ou des informations sur une ou plusieurs maquettes BIM
 
-👷👷‍♀️ logiciels d'analyse de maquette BIM:
+👷👷‍♀️ Logiciels d'analyse de maquette BIM:
 
 Ils peuvent avoir des fonctionnalités particulières, par exemple avec la liaison entre la maquette numérique et le planning, permettre de voir les incohérences entre des maquettes de deux lots différents...
 
@@ -49,7 +49,7 @@ Ils permettent la création d'objets BIM: avec des informations géométriques e
 
 Un logiciel de modélisation en BIM va intégrer cette possibilité de créer des objets 3D mais auxquels sont liés des métadonnées (références, fabricants, matériau...) tout en offrant la possibilité d'en faire l'export vers d'autres logiciels du même types.
 
-Sketchup peut par exemple permettre de faire du BIM, à condition de de renseigner les métadonnées, mais il n'est pas utilisé dans ce sens par la plupart de ces utilisateurs.
+Sketchup peut par exemple permettre de faire du BIM, à condition de renseigner les métadonnées, mais il n'est pas utilisé dans ce sens par la plupart de ces utilisateurs.
 
 Selon le type de projet et les besoins, on utilisera l'outil qui répond le mieux à la tâche assignée et à la finalité du projet.
 
@@ -88,11 +88,11 @@ Certains corps de métiers du bâtiment peuvent intéragir avec des maquettes BI
 * Calcul de structures
 * Calcul thermiques
 * Outils de GTB, GMAO, gestion de patrimoine
-* outils de fabrication
+* Outils de fabrication
 * Outils de planning, levée de réserves
 * Visionneuses améliorées
 
-Ces dernières inclus toutes les fonctionnalités d'une visionneuse mais permettent également de générés des extraction de métrés, faire de la détection de clashs, vérifier les superpositions de plusieurs maquettes...
+Ces dernières incluent toutes les fonctionnalités d'une visionneuse mais permettent également de générés des extractions de métrés, faire de la détection de clashs, vérifier les superpositions de plusieurs maquettes...
 
 <p>&nbsp;</p>
 
@@ -105,11 +105,11 @@ Ces dernières inclus toutes les fonctionnalités d'une visionneuse mais permett
 ![plateforme_serveur.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/plateforme_serveur.png)
 <p>&nbsp;</p>
 
-La collaboration entre plusieurs acteurs entrainent la nécessité de centraliser l'information selon une arborescence, une hierarchie et des droits spécifiques. Il existe des plateforme collaborative permettant l'accès à des informations sécurisés et decentralisé d'un disque dur physique.
+La collaboration entre plusieurs acteurs entrainent la nécessité de centraliser l'information selon une arborescence, une hierarchie et des droits spécifiques. Il existe des plateformes collaboratives permettant l'accès à des informations sécurisées et decentralisées d'un disque dur physique.
 
-On donne des accès à des serveurs BIM administré par un adminstrateur réseau d'une entreprise ou un service internet. Chaque intervenant aura des droits en lecture, écriture, édition et suppression selon son niveau de responsabilités. Un manager BIM est désigné pour organiser et gérer ce processus pour faire mettre en place et faire évoluer ces droits.
+On donne des accès à des serveurs BIM géré par un adminstrateur réseau d'une entreprise ou un service internet. Chaque intervenant aura des droits en lecture, écriture, édition et suppression selon son niveau de responsabilités. Un  **BIM Manager** est désigné pour **organiser et gérer ce processus** pour faire mettre en place et faire évoluer ces droits.
 
-Les plus simples permettent de partager ensemble les maquettes BIM de manières collaboratives. les plus élaborés permettront d'associer des tâches, un workflow de validation, un système de notification avec ou non des envois d'email, un système de signature électronique, une génération des visas, une visionneuse en ligne.....
+Les plus simples permettent de partager ensemble les maquettes BIM de manières collaboratives. Les plus élaborés permettront d'associer des tâches, un workflow de validation, un système de notification avec ou non des envois d'email, un système de signature électronique, une génération des visas, une visionneuse en ligne.....
 
 
 <p>&nbsp;</p>
@@ -118,13 +118,13 @@ Les plus simples permettent de partager ensemble les maquettes BIM de manières 
 
 --------------------------
 
- Il est important de bien cerné les besoins de chacuns au cours du projet pour comprendre quels types de logiciels BIM on va utiliser. On peut schématiser l'utilisation des logiciels en fonction du métier des contributeurs BIM par le schéma suivant:
+ Il est important de bien cerner les besoins de chacuns au cours du projet pour comprendre quels types de logiciels BIM on va utiliser. On peut schématiser l'utilisation des logiciels en fonction du métier des contributeurs BIM par le schéma suivant:
  <p>&nbsp;</p>
  
 ![logiciels_acteurs.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/infrastructure_logiciel/logiciels_acteurs.png)
  <p>&nbsp;</p>
 
-C'est ce que l'on va le plus souvent retrouver. Il peut bien sûr y avoir des variations dépendant des organisations d'entreprises avec des besoins de modélisation qui peuvent parfois être présents chez la MOA.
+C'est ce que l'on va le plus souvent retrouver. Il peut bien sûr y avoir des variations dépendantes des organisations d'entreprises avec des besoins de modélisation qui peuvent parfois être présents chez la MOA.
  
 
 <p>&nbsp;</p>
