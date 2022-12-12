@@ -6,16 +6,16 @@
       "answers": [
         {
           "content": "Vrai",
-          "is_correct": "true"
+          "is_correct": "false"
         },
         {
           "content": "Faux",
-          "is_correct": "false"
+          "is_correct": "true"
         }
       ]
     },
     {
-      "content": "Si l'on peut avoir un objet BIM au LOD 500 provenant d'un site de fournisseurs de matériaux,l est préférable de l'intégrer dasn la maquette numérique même en phase Esquisse",
+      "content": "Si l'on peut avoir un objet BIM au LOD 500 provenant d'un site de fournisseurs de matériaux, ill est préférable de l'intégrer dans la maquette numérique même en phase Esquisse",
       "explanation": " Avoir des objets au LOD 500 en début de projet est inutile car cela alourdit inutilement la maquette et l'on ne se situe pas à un stade nécessitant un fort degré de précisions.",
       "answers": [
         {
