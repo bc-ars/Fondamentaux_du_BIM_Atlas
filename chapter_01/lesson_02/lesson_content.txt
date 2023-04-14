@@ -12,7 +12,7 @@ C'est une méthode de gestion de projet et de travail qui va s'articuler autour 
 
 Actuellement, les projets de construction auxquels les jeunes ingénieurs collaborent en début de carrière n’utilisent déjà plus de rot rings ou tables à dessin pour la création de plans. Les collaborateurs plus anciens évoquent parfois ces outils de conception avec nostalgie…. 
 
-![Rotring-architectes](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/Rotring-architectes.jpeg)
+![Rotring-architectes](https://raw.githubusercontent.com/bc-ars/plateform-images/main/BIM_Enjeux_et_Fondements/Rotring-architectes.jpeg "Rotring-architectes")
 
 *Rotring original - très utile pour la conception d'esquisse et les mesures*
 
